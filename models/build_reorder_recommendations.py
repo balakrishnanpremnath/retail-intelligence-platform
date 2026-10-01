@@ -30,46 +30,46 @@ OUTPUT_FILE = (
 
 def load_data():
 
-    df = pd.read_csv(
-        INPUT_FILE
-    )
-
-    return df
+    return pd.read_csv(INPUT_FILE)
 
 
 # ---------------------------------------------------------
-# REORDER LOGIC
+# BUILD REORDER RECOMMENDATIONS
 # ---------------------------------------------------------
 
 def create_recommendations(df):
 
     df = df.copy()
 
-    # Expected demand for the next 14 days
+    # Expected demand for next 14 days
     df["forecast_14d_demand"] = (
         df["avg_daily_demand_30d"] * 14
     )
 
-    # Extra 7 days as safety stock
+    # Extra 7 days of demand as safety stock
     df["safety_stock"] = (
         df["avg_daily_demand_30d"] * 7
     )
 
-    # Demand-based requirement = 21 days of stock
+    # Demand-based target = 21 days of expected demand
     df["demand_based_target"] = (
         df["forecast_14d_demand"]
         + df["safety_stock"]
     )
 
-    # Final target must respect both:
-    # 1. historical demand
-    # 2. existing reorder policy
+    # Inventory policy target
+    df["policy_target_stock"] = (
+        df["reorder_level"]
+        + df["safety_stock"]
+    )
+
+    # Final target respects both demand and reorder policy
     df["target_stock"] = np.maximum(
-        df["reorder_level"],
+        df["policy_target_stock"],
         df["demand_based_target"]
     )
 
-    # Recommended quantity
+    # Reorder amount required to reach target stock
     df["recommended_reorder_qty"] = np.maximum(
         0,
         np.ceil(
@@ -79,9 +79,9 @@ def create_recommendations(df):
     ).astype(int)
 
 
-    # ---------------------------------------------
-    # INVENTORY ACTION
-    # ---------------------------------------------
+    # -----------------------------------------------------
+    # INVENTORY ACTION RULES
+    # -----------------------------------------------------
 
     zero_demand = (
         df["avg_daily_demand_30d"] == 0
@@ -103,7 +103,8 @@ def create_recommendations(df):
             )
             |
             (
-                df["estimated_days_cover"] <= 14
+                df["estimated_days_cover"]
+                <= 14
             )
         )
     )
@@ -143,67 +144,89 @@ def create_recommendations(df):
     )
 
 
-    # Don't automatically reorder items
-    # with no recent demand.
+    # Items with no recent demand require manual review.
+    # Do not automatically suggest a purchase quantity.
     df.loc[
         df["inventory_action"] == "REVIEW",
         "recommended_reorder_qty"
     ] = 0
 
 
-    # ---------------------------------------------
-    # BUSINESS EXPLANATION
-    # ---------------------------------------------
+    # -----------------------------------------------------
+    # RECOMMENDATION REASON
+    # -----------------------------------------------------
 
     def create_reason(row):
 
-        if row["inventory_action"] == "URGENT":
+        action = row["inventory_action"]
+
+        if action == "URGENT":
             return (
                 "Estimated stock cover is "
                 "7 days or less."
             )
 
-        if row["inventory_action"] == "REORDER":
+        if action == "REORDER":
             return (
-                "Recent demand indicates that "
-                "inventory replenishment is required."
+                "Recent demand and stock levels "
+                "indicate replenishment is required."
             )
 
-        if row["inventory_action"] == "REVIEW":
+        if action == "REVIEW":
             return (
                 "Stock is below the reorder level, "
                 "but no demand was recorded in the "
                 "last 30 days. Manual review is recommended."
             )
 
-        if row["inventory_action"] == "WATCH":
+        if action == "WATCH":
             return (
-                "Inventory is approaching the "
-                "reorder threshold."
+                "Inventory is approaching "
+                "the reorder threshold."
             )
 
         return (
             "Current inventory level is healthy."
         )
 
-
-    df["recommendation_reason"] = (
-        df.apply(
-            create_reason,
-            axis=1
-        )
+    df["recommendation_reason"] = df.apply(
+        create_reason,
+        axis=1
     )
 
 
-    # ---------------------------------------------
+    # -----------------------------------------------------
+    # VALIDATION
+    # -----------------------------------------------------
+
+    invalid_reorders = df[
+        df["inventory_action"].isin(
+            ["URGENT", "REORDER"]
+        )
+        &
+        (
+            df["recommended_reorder_qty"] <= 0
+        )
+    ]
+
+    if not invalid_reorders.empty:
+
+        raise ValueError(
+            "URGENT or REORDER items found "
+            "with zero reorder quantity."
+        )
+
+
+    # -----------------------------------------------------
     # ROUND DISPLAY VALUES
-    # ---------------------------------------------
+    # -----------------------------------------------------
 
     columns_to_round = [
         "avg_daily_demand_30d",
         "forecast_14d_demand",
         "safety_stock",
         "demand_based_target",
+        "policy_target_stock",
         "target_stock"
     ]
 
@@ -217,158 +240,8 @@ def create_recommendations(df):
     return df
 
 
-    # -----------------------------------------------------
-    # INVENTORY RISK
-    # -----------------------------------------------------
-
-    conditions = [
-
-        # Less than or equal to 7 days cover
-        (
-            df[
-                "estimated_days_cover"
-            ] <= 7
-        ),
-
-        # Below reorder level
-        (
-            df[
-                "stock_on_hand"
-            ]
-            <=
-            df[
-                "reorder_level"
-            ]
-        ),
-
-        # 8-14 days cover
-        (
-            df[
-                "estimated_days_cover"
-            ] <= 14
-        ),
-
-        # Slightly above reorder level
-        (
-            df[
-                "stock_on_hand"
-            ]
-            <=
-            df[
-                "reorder_level"
-            ] * 1.25
-        )
-    ]
-
-
-    choices = [
-        "URGENT",
-        "REORDER",
-        "WATCH",
-        "WATCH"
-    ]
-
-
-    df[
-        "inventory_action"
-    ] = np.select(
-        conditions,
-        choices,
-        default="OK"
-    )
-
-
-    # -----------------------------------------------------
-    # HUMAN-READABLE REASON
-    # -----------------------------------------------------
-
-    def create_reason(row):
-
-        if row[
-            "inventory_action"
-        ] == "URGENT":
-
-            return (
-                "Estimated stock cover is "
-                "7 days or less."
-            )
-
-        if row[
-            "inventory_action"
-        ] == "REORDER":
-
-            return (
-                "Stock is at or below "
-                "the reorder level."
-            )
-
-        if row[
-            "inventory_action"
-        ] == "WATCH":
-
-            return (
-                "Stock level should be "
-                "monitored closely."
-            )
-
-        return (
-            "Current stock level is healthy."
-        )
-
-
-    df[
-        "recommendation_reason"
-    ] = df.apply(
-        create_reason,
-        axis=1
-    )
-
-
-    # -----------------------------------------------------
-    # ROUND DISPLAY VALUES
-    # -----------------------------------------------------
-
-    df[
-        "avg_daily_demand_30d"
-    ] = (
-        df[
-            "avg_daily_demand_30d"
-        ]
-        .round(2)
-    )
-
-    df[
-        "forecast_14d_demand"
-    ] = (
-        df[
-            "forecast_14d_demand"
-        ]
-        .round(2)
-    )
-
-    df[
-        "safety_stock"
-    ] = (
-        df[
-            "safety_stock"
-        ]
-        .round(2)
-    )
-
-    df[
-        "target_stock"
-    ] = (
-        df[
-            "target_stock"
-        ]
-        .round(2)
-    )
-
-    return df
-
-
 # ---------------------------------------------------------
-# SUMMARY
+# PRINT SUMMARY
 # ---------------------------------------------------------
 
 def print_summary(df):
@@ -439,6 +312,8 @@ def print_summary(df):
             index=False
         )
     )
+
+
 # ---------------------------------------------------------
 # MAIN
 # ---------------------------------------------------------
