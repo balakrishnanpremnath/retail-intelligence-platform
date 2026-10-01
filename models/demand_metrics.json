@@ -1,0 +1,25 @@
+{
+    "training_start": "2025-01-15",
+    "training_end": "2026-07-02",
+    "testing_start": "2026-07-03",
+    "testing_end": "2026-09-30",
+    "training_rows": 64080,
+    "testing_rows": 10800,
+    "baselines": {
+        "Lag 7 Baseline": {
+            "MAE": 0.9476851851851852,
+            "RMSE": 1.9152168429594483
+        },
+        "Rolling 7 Baseline": {
+            "MAE": 0.861904761904762,
+            "RMSE": 1.452501946560453
+        }
+    },
+    "random_forest": {
+        "MAE": 0.9196937243344753,
+        "RMSE": 1.3961862616528178
+    },
+    "best_baseline": "Rolling 7 Baseline",
+    "mae_improvement_pct": -6.704796745988838,
+    "conclusion": "Random Forest did not outperform the best baseline."
+}
