@@ -1,0 +1,31 @@
+product_id,product_name,category,unit_cost,unit_price,reorder_level
+P001,Rice 5kg,Staples,1957.49,2615.58,41
+P002,Rice 10kg,Staples,1153.31,1605.27,53
+P003,Dhal 1kg,Staples,2160.64,2660.73,52
+P004,Sugar 1kg,Staples,1773.68,2204.0,43
+P005,Flour 1kg,Staples,326.03,413.21,62
+P006,Milk Powder 400g,Dairy,2441.49,2923.36,48
+P007,Milk Powder 1kg,Dairy,1926.74,2278.33,23
+P008,Tea 200g,Beverages,1986.55,2520.79,58
+P009,Coffee 100g,Beverages,407.47,491.71,48
+P010,Biscuits Pack,Snacks,1180.93,1555.82,51
+P011,Noodles Pack,Convenience,989.92,1246.59,48
+P012,Canned Fish,Canned Goods,2324.24,3156.71,47
+P013,Coconut Milk,Canned Goods,1645.28,2180.11,24
+P014,Cooking Oil 1L,Staples,2074.63,2547.84,47
+P015,Cooking Oil 5L,Staples,1164.19,1581.05,59
+P016,Soap Bar,Personal Care,645.37,872.02,35
+P017,Shampoo 180ml,Personal Care,1431.0,1784.27,50
+P018,Toothpaste 120g,Personal Care,253.16,309.38,21
+P019,Detergent 1kg,Household,2086.31,2755.23,37
+P020,Dishwash Liquid,Household,1615.99,1914.85,41
+P021,Soft Drink 1.5L,Beverages,1919.41,2303.25,69
+P022,Bottled Water 1.5L,Beverages,950.86,1095.24,30
+P023,Fruit Juice 1L,Beverages,2429.68,3272.13,33
+P024,Yoghurt Cup,Dairy,2243.49,2952.91,40
+P025,Cheese Pack,Dairy,1968.12,2610.3,69
+P026,Eggs 10 Pack,Fresh Food,567.13,762.89,62
+P027,Chicken 1kg,Fresh Food,1220.13,1543.13,21
+P028,Frozen Fish 1kg,Frozen Food,205.13,265.07,31
+P029,Onions 1kg,Fresh Food,470.29,557.27,61
+P030,Potatoes 1kg,Fresh Food,1739.32,2050.02,22
