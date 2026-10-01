@@ -1,0 +1,12 @@
+{
+    "rolling_7_baseline": {
+        "MAE": 0.861904761904762,
+        "RMSE": 1.452501946560453
+    },
+    "poisson_regression": {
+        "MAE": 0.8828680365108017,
+        "RMSE": 1.3755948208546394
+    },
+    "mae_improvement_vs_baseline_pct": -2.4322031310874848,
+    "best_model_by_mae": "Rolling 7 Baseline"
+}
