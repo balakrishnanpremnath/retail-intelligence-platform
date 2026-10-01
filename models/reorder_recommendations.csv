@@ -1,0 +1,121 @@
+store_id,product_id,snapshot_date,stock_on_hand,reorder_level,product_name,category,store_name,region,units_last_30_days,avg_daily_demand_30d,estimated_days_cover,stock_status,forecast_14d_demand,safety_stock,demand_based_target,target_stock,recommended_reorder_qty,inventory_action,recommendation_reason
+S001,P001,2026-09-30,93,41,Rice 5kg,Staples,Colombo Central,Western,2.0,0.07,1395.0,OK,0.93,0.47,1.4,41.0,0,OK,Current inventory level is healthy.
+S001,P002,2026-09-30,17,53,Rice 10kg,Staples,Colombo Central,Western,27.0,0.9,18.9,REORDER,12.6,6.3,18.9,53.0,36,REORDER,Recent demand indicates that inventory replenishment is required.
+S001,P003,2026-09-30,150,52,Dhal 1kg,Staples,Colombo Central,Western,11.0,0.37,409.1,OK,5.13,2.57,7.7,52.0,0,OK,Current inventory level is healthy.
+S001,P004,2026-09-30,139,43,Sugar 1kg,Staples,Colombo Central,Western,0.0,0.0,,OK,0.0,0.0,0.0,43.0,0,OK,Current inventory level is healthy.
+S001,P005,2026-09-30,140,62,Flour 1kg,Staples,Colombo Central,Western,16.0,0.53,262.5,OK,7.47,3.73,11.2,62.0,0,OK,Current inventory level is healthy.
+S001,P006,2026-09-30,142,48,Milk Powder 400g,Dairy,Colombo Central,Western,34.0,1.13,125.3,OK,15.87,7.93,23.8,48.0,0,OK,Current inventory level is healthy.
+S001,P007,2026-09-30,8,23,Milk Powder 1kg,Dairy,Colombo Central,Western,0.0,0.0,,REORDER,0.0,0.0,0.0,23.0,0,REVIEW,"Stock is below the reorder level, but no demand was recorded in the last 30 days. Manual review is recommended."
+S001,P008,2026-09-30,23,58,Tea 200g,Beverages,Colombo Central,Western,8.0,0.27,86.2,REORDER,3.73,1.87,5.6,58.0,35,REORDER,Recent demand indicates that inventory replenishment is required.
+S001,P009,2026-09-30,44,48,Coffee 100g,Beverages,Colombo Central,Western,9.0,0.3,146.7,REORDER,4.2,2.1,6.3,48.0,4,REORDER,Recent demand indicates that inventory replenishment is required.
+S001,P010,2026-09-30,144,51,Biscuits Pack,Snacks,Colombo Central,Western,14.0,0.47,308.6,OK,6.53,3.27,9.8,51.0,0,OK,Current inventory level is healthy.
+S001,P011,2026-09-30,52,48,Noodles Pack,Convenience,Colombo Central,Western,23.0,0.77,67.8,LOW STOCK,10.73,5.37,16.1,48.0,0,WATCH,Inventory is approaching the reorder threshold.
+S001,P012,2026-09-30,42,47,Canned Fish,Canned Goods,Colombo Central,Western,8.0,0.27,157.5,REORDER,3.73,1.87,5.6,47.0,5,REORDER,Recent demand indicates that inventory replenishment is required.
+S001,P013,2026-09-30,92,24,Coconut Milk,Canned Goods,Colombo Central,Western,2.0,0.07,1380.0,OK,0.93,0.47,1.4,24.0,0,OK,Current inventory level is healthy.
+S001,P014,2026-09-30,162,47,Cooking Oil 1L,Staples,Colombo Central,Western,14.0,0.47,347.1,OK,6.53,3.27,9.8,47.0,0,OK,Current inventory level is healthy.
+S001,P015,2026-09-30,8,59,Cooking Oil 5L,Staples,Colombo Central,Western,14.0,0.47,17.1,REORDER,6.53,3.27,9.8,59.0,51,REORDER,Recent demand indicates that inventory replenishment is required.
+S001,P016,2026-09-30,93,35,Soap Bar,Personal Care,Colombo Central,Western,20.0,0.67,139.5,OK,9.33,4.67,14.0,35.0,0,OK,Current inventory level is healthy.
+S001,P017,2026-09-30,25,50,Shampoo 180ml,Personal Care,Colombo Central,Western,18.0,0.6,41.7,REORDER,8.4,4.2,12.6,50.0,25,REORDER,Recent demand indicates that inventory replenishment is required.
+S001,P018,2026-09-30,66,21,Toothpaste 120g,Personal Care,Colombo Central,Western,49.0,1.63,40.4,OK,22.87,11.43,34.3,34.3,0,OK,Current inventory level is healthy.
+S001,P019,2026-09-30,68,37,Detergent 1kg,Household,Colombo Central,Western,12.0,0.4,170.0,OK,5.6,2.8,8.4,37.0,0,OK,Current inventory level is healthy.
+S001,P020,2026-09-30,126,41,Dishwash Liquid,Household,Colombo Central,Western,3.0,0.1,1260.0,OK,1.4,0.7,2.1,41.0,0,OK,Current inventory level is healthy.
+S001,P021,2026-09-30,143,69,Soft Drink 1.5L,Beverages,Colombo Central,Western,49.0,1.63,87.6,OK,22.87,11.43,34.3,69.0,0,OK,Current inventory level is healthy.
+S001,P022,2026-09-30,27,30,Bottled Water 1.5L,Beverages,Colombo Central,Western,5.0,0.17,162.0,REORDER,2.33,1.17,3.5,30.0,3,REORDER,Recent demand indicates that inventory replenishment is required.
+S001,P023,2026-09-30,159,33,Fruit Juice 1L,Beverages,Colombo Central,Western,28.0,0.93,170.4,OK,13.07,6.53,19.6,33.0,0,OK,Current inventory level is healthy.
+S001,P024,2026-09-30,119,40,Yoghurt Cup,Dairy,Colombo Central,Western,16.0,0.53,223.1,OK,7.47,3.73,11.2,40.0,0,OK,Current inventory level is healthy.
+S001,P025,2026-09-30,140,69,Cheese Pack,Dairy,Colombo Central,Western,16.0,0.53,262.5,OK,7.47,3.73,11.2,69.0,0,OK,Current inventory level is healthy.
+S001,P026,2026-09-30,88,62,Eggs 10 Pack,Fresh Food,Colombo Central,Western,21.0,0.7,125.7,OK,9.8,4.9,14.7,62.0,0,OK,Current inventory level is healthy.
+S001,P027,2026-09-30,108,21,Chicken 1kg,Fresh Food,Colombo Central,Western,43.0,1.43,75.3,OK,20.07,10.03,30.1,30.1,0,OK,Current inventory level is healthy.
+S001,P028,2026-09-30,81,31,Frozen Fish 1kg,Frozen Food,Colombo Central,Western,23.0,0.77,105.7,OK,10.73,5.37,16.1,31.0,0,OK,Current inventory level is healthy.
+S001,P029,2026-09-30,17,61,Onions 1kg,Fresh Food,Colombo Central,Western,18.0,0.6,28.3,REORDER,8.4,4.2,12.6,61.0,44,REORDER,Recent demand indicates that inventory replenishment is required.
+S001,P030,2026-09-30,30,22,Potatoes 1kg,Fresh Food,Colombo Central,Western,8.0,0.27,112.5,OK,3.73,1.87,5.6,22.0,0,OK,Current inventory level is healthy.
+S002,P001,2026-09-30,134,41,Rice 5kg,Staples,Kandy City,Central,5.0,0.17,804.0,OK,2.33,1.17,3.5,41.0,0,OK,Current inventory level is healthy.
+S002,P002,2026-09-30,140,53,Rice 10kg,Staples,Kandy City,Central,29.0,0.97,144.8,OK,13.53,6.77,20.3,53.0,0,OK,Current inventory level is healthy.
+S002,P003,2026-09-30,49,52,Dhal 1kg,Staples,Kandy City,Central,15.0,0.5,98.0,REORDER,7.0,3.5,10.5,52.0,3,REORDER,Recent demand indicates that inventory replenishment is required.
+S002,P004,2026-09-30,92,43,Sugar 1kg,Staples,Kandy City,Central,1.0,0.03,2760.0,OK,0.47,0.23,0.7,43.0,0,OK,Current inventory level is healthy.
+S002,P005,2026-09-30,93,62,Flour 1kg,Staples,Kandy City,Central,11.0,0.37,253.6,OK,5.13,2.57,7.7,62.0,0,OK,Current inventory level is healthy.
+S002,P006,2026-09-30,5,48,Milk Powder 400g,Dairy,Kandy City,Central,27.0,0.9,5.6,REORDER,12.6,6.3,18.9,48.0,43,URGENT,Estimated stock cover is 7 days or less.
+S002,P007,2026-09-30,161,23,Milk Powder 1kg,Dairy,Kandy City,Central,0.0,0.0,,OK,0.0,0.0,0.0,23.0,0,OK,Current inventory level is healthy.
+S002,P008,2026-09-30,69,58,Tea 200g,Beverages,Kandy City,Central,16.0,0.53,129.4,LOW STOCK,7.47,3.73,11.2,58.0,0,WATCH,Inventory is approaching the reorder threshold.
+S002,P009,2026-09-30,171,48,Coffee 100g,Beverages,Kandy City,Central,9.0,0.3,570.0,OK,4.2,2.1,6.3,48.0,0,OK,Current inventory level is healthy.
+S002,P010,2026-09-30,168,51,Biscuits Pack,Snacks,Kandy City,Central,8.0,0.27,630.0,OK,3.73,1.87,5.6,51.0,0,OK,Current inventory level is healthy.
+S002,P011,2026-09-30,72,48,Noodles Pack,Convenience,Kandy City,Central,12.0,0.4,180.0,OK,5.6,2.8,8.4,48.0,0,OK,Current inventory level is healthy.
+S002,P012,2026-09-30,70,47,Canned Fish,Canned Goods,Kandy City,Central,16.0,0.53,131.2,OK,7.47,3.73,11.2,47.0,0,OK,Current inventory level is healthy.
+S002,P013,2026-09-30,67,24,Coconut Milk,Canned Goods,Kandy City,Central,1.0,0.03,2010.0,OK,0.47,0.23,0.7,24.0,0,OK,Current inventory level is healthy.
+S002,P014,2026-09-30,68,47,Cooking Oil 1L,Staples,Kandy City,Central,32.0,1.07,63.8,OK,14.93,7.47,22.4,47.0,0,OK,Current inventory level is healthy.
+S002,P015,2026-09-30,118,59,Cooking Oil 5L,Staples,Kandy City,Central,36.0,1.2,98.3,OK,16.8,8.4,25.2,59.0,0,OK,Current inventory level is healthy.
+S002,P016,2026-09-30,34,35,Soap Bar,Personal Care,Kandy City,Central,7.0,0.23,145.7,REORDER,3.27,1.63,4.9,35.0,1,REORDER,Recent demand indicates that inventory replenishment is required.
+S002,P017,2026-09-30,139,50,Shampoo 180ml,Personal Care,Kandy City,Central,20.0,0.67,208.5,OK,9.33,4.67,14.0,50.0,0,OK,Current inventory level is healthy.
+S002,P018,2026-09-30,80,21,Toothpaste 120g,Personal Care,Kandy City,Central,25.0,0.83,96.0,OK,11.67,5.83,17.5,21.0,0,OK,Current inventory level is healthy.
+S002,P019,2026-09-30,9,37,Detergent 1kg,Household,Kandy City,Central,7.0,0.23,38.6,REORDER,3.27,1.63,4.9,37.0,28,REORDER,Recent demand indicates that inventory replenishment is required.
+S002,P020,2026-09-30,30,41,Dishwash Liquid,Household,Kandy City,Central,9.0,0.3,100.0,REORDER,4.2,2.1,6.3,41.0,11,REORDER,Recent demand indicates that inventory replenishment is required.
+S002,P021,2026-09-30,30,69,Soft Drink 1.5L,Beverages,Kandy City,Central,32.0,1.07,28.1,REORDER,14.93,7.47,22.4,69.0,39,REORDER,Recent demand indicates that inventory replenishment is required.
+S002,P022,2026-09-30,138,30,Bottled Water 1.5L,Beverages,Kandy City,Central,2.0,0.07,2070.0,OK,0.93,0.47,1.4,30.0,0,OK,Current inventory level is healthy.
+S002,P023,2026-09-30,172,33,Fruit Juice 1L,Beverages,Kandy City,Central,18.0,0.6,286.7,OK,8.4,4.2,12.6,33.0,0,OK,Current inventory level is healthy.
+S002,P024,2026-09-30,117,40,Yoghurt Cup,Dairy,Kandy City,Central,17.0,0.57,206.5,OK,7.93,3.97,11.9,40.0,0,OK,Current inventory level is healthy.
+S002,P025,2026-09-30,122,69,Cheese Pack,Dairy,Kandy City,Central,28.0,0.93,130.7,OK,13.07,6.53,19.6,69.0,0,OK,Current inventory level is healthy.
+S002,P026,2026-09-30,50,62,Eggs 10 Pack,Fresh Food,Kandy City,Central,26.0,0.87,57.7,REORDER,12.13,6.07,18.2,62.0,12,REORDER,Recent demand indicates that inventory replenishment is required.
+S002,P027,2026-09-30,48,21,Chicken 1kg,Fresh Food,Kandy City,Central,16.0,0.53,90.0,OK,7.47,3.73,11.2,21.0,0,OK,Current inventory level is healthy.
+S002,P028,2026-09-30,27,31,Frozen Fish 1kg,Frozen Food,Kandy City,Central,13.0,0.43,62.3,REORDER,6.07,3.03,9.1,31.0,4,REORDER,Recent demand indicates that inventory replenishment is required.
+S002,P029,2026-09-30,90,61,Onions 1kg,Fresh Food,Kandy City,Central,11.0,0.37,245.5,OK,5.13,2.57,7.7,61.0,0,OK,Current inventory level is healthy.
+S002,P030,2026-09-30,125,22,Potatoes 1kg,Fresh Food,Kandy City,Central,16.0,0.53,234.4,OK,7.47,3.73,11.2,22.0,0,OK,Current inventory level is healthy.
+S003,P001,2026-09-30,155,41,Rice 5kg,Staples,Galle Town,Southern,9.0,0.3,516.7,OK,4.2,2.1,6.3,41.0,0,OK,Current inventory level is healthy.
+S003,P002,2026-09-30,7,53,Rice 10kg,Staples,Galle Town,Southern,30.0,1.0,7.0,REORDER,14.0,7.0,21.0,53.0,46,URGENT,Estimated stock cover is 7 days or less.
+S003,P003,2026-09-30,98,52,Dhal 1kg,Staples,Galle Town,Southern,25.0,0.83,117.6,OK,11.67,5.83,17.5,52.0,0,OK,Current inventory level is healthy.
+S003,P004,2026-09-30,176,43,Sugar 1kg,Staples,Galle Town,Southern,1.0,0.03,5280.0,OK,0.47,0.23,0.7,43.0,0,OK,Current inventory level is healthy.
+S003,P005,2026-09-30,163,62,Flour 1kg,Staples,Galle Town,Southern,26.0,0.87,188.1,OK,12.13,6.07,18.2,62.0,0,OK,Current inventory level is healthy.
+S003,P006,2026-09-30,41,48,Milk Powder 400g,Dairy,Galle Town,Southern,35.0,1.17,35.1,REORDER,16.33,8.17,24.5,48.0,7,REORDER,Recent demand indicates that inventory replenishment is required.
+S003,P007,2026-09-30,95,23,Milk Powder 1kg,Dairy,Galle Town,Southern,3.0,0.1,950.0,OK,1.4,0.7,2.1,23.0,0,OK,Current inventory level is healthy.
+S003,P008,2026-09-30,31,58,Tea 200g,Beverages,Galle Town,Southern,34.0,1.13,27.4,REORDER,15.87,7.93,23.8,58.0,27,REORDER,Recent demand indicates that inventory replenishment is required.
+S003,P009,2026-09-30,68,48,Coffee 100g,Beverages,Galle Town,Southern,11.0,0.37,185.5,OK,5.13,2.57,7.7,48.0,0,OK,Current inventory level is healthy.
+S003,P010,2026-09-30,26,51,Biscuits Pack,Snacks,Galle Town,Southern,8.0,0.27,97.5,REORDER,3.73,1.87,5.6,51.0,25,REORDER,Recent demand indicates that inventory replenishment is required.
+S003,P011,2026-09-30,35,48,Noodles Pack,Convenience,Galle Town,Southern,11.0,0.37,95.5,REORDER,5.13,2.57,7.7,48.0,13,REORDER,Recent demand indicates that inventory replenishment is required.
+S003,P012,2026-09-30,137,47,Canned Fish,Canned Goods,Galle Town,Southern,22.0,0.73,186.8,OK,10.27,5.13,15.4,47.0,0,OK,Current inventory level is healthy.
+S003,P013,2026-09-30,158,24,Coconut Milk,Canned Goods,Galle Town,Southern,0.0,0.0,,OK,0.0,0.0,0.0,24.0,0,OK,Current inventory level is healthy.
+S003,P014,2026-09-30,174,47,Cooking Oil 1L,Staples,Galle Town,Southern,25.0,0.83,208.8,OK,11.67,5.83,17.5,47.0,0,OK,Current inventory level is healthy.
+S003,P015,2026-09-30,95,59,Cooking Oil 5L,Staples,Galle Town,Southern,23.0,0.77,123.9,OK,10.73,5.37,16.1,59.0,0,OK,Current inventory level is healthy.
+S003,P016,2026-09-30,127,35,Soap Bar,Personal Care,Galle Town,Southern,13.0,0.43,293.1,OK,6.07,3.03,9.1,35.0,0,OK,Current inventory level is healthy.
+S003,P017,2026-09-30,93,50,Shampoo 180ml,Personal Care,Galle Town,Southern,12.0,0.4,232.5,OK,5.6,2.8,8.4,50.0,0,OK,Current inventory level is healthy.
+S003,P018,2026-09-30,160,21,Toothpaste 120g,Personal Care,Galle Town,Southern,44.0,1.47,109.1,OK,20.53,10.27,30.8,30.8,0,OK,Current inventory level is healthy.
+S003,P019,2026-09-30,122,37,Detergent 1kg,Household,Galle Town,Southern,6.0,0.2,610.0,OK,2.8,1.4,4.2,37.0,0,OK,Current inventory level is healthy.
+S003,P020,2026-09-30,65,41,Dishwash Liquid,Household,Galle Town,Southern,2.0,0.07,975.0,OK,0.93,0.47,1.4,41.0,0,OK,Current inventory level is healthy.
+S003,P021,2026-09-30,138,69,Soft Drink 1.5L,Beverages,Galle Town,Southern,27.0,0.9,153.3,OK,12.6,6.3,18.9,69.0,0,OK,Current inventory level is healthy.
+S003,P022,2026-09-30,30,30,Bottled Water 1.5L,Beverages,Galle Town,Southern,0.0,0.0,,REORDER,0.0,0.0,0.0,30.0,0,REVIEW,"Stock is below the reorder level, but no demand was recorded in the last 30 days. Manual review is recommended."
+S003,P023,2026-09-30,126,33,Fruit Juice 1L,Beverages,Galle Town,Southern,17.0,0.57,222.4,OK,7.93,3.97,11.9,33.0,0,OK,Current inventory level is healthy.
+S003,P024,2026-09-30,117,40,Yoghurt Cup,Dairy,Galle Town,Southern,22.0,0.73,159.5,OK,10.27,5.13,15.4,40.0,0,OK,Current inventory level is healthy.
+S003,P025,2026-09-30,139,69,Cheese Pack,Dairy,Galle Town,Southern,31.0,1.03,134.5,OK,14.47,7.23,21.7,69.0,0,OK,Current inventory level is healthy.
+S003,P026,2026-09-30,59,62,Eggs 10 Pack,Fresh Food,Galle Town,Southern,32.0,1.07,55.3,REORDER,14.93,7.47,22.4,62.0,3,REORDER,Recent demand indicates that inventory replenishment is required.
+S003,P027,2026-09-30,138,21,Chicken 1kg,Fresh Food,Galle Town,Southern,32.0,1.07,129.4,OK,14.93,7.47,22.4,22.4,0,OK,Current inventory level is healthy.
+S003,P028,2026-09-30,73,31,Frozen Fish 1kg,Frozen Food,Galle Town,Southern,6.0,0.2,365.0,OK,2.8,1.4,4.2,31.0,0,OK,Current inventory level is healthy.
+S003,P029,2026-09-30,107,61,Onions 1kg,Fresh Food,Galle Town,Southern,5.0,0.17,642.0,OK,2.33,1.17,3.5,61.0,0,OK,Current inventory level is healthy.
+S003,P030,2026-09-30,155,22,Potatoes 1kg,Fresh Food,Galle Town,Southern,21.0,0.7,221.4,OK,9.8,4.9,14.7,22.0,0,OK,Current inventory level is healthy.
+S004,P001,2026-09-30,127,41,Rice 5kg,Staples,Jaffna North,Northern,25.0,0.83,152.4,OK,11.67,5.83,17.5,41.0,0,OK,Current inventory level is healthy.
+S004,P002,2026-09-30,73,53,Rice 10kg,Staples,Jaffna North,Northern,40.0,1.33,54.8,OK,18.67,9.33,28.0,53.0,0,OK,Current inventory level is healthy.
+S004,P003,2026-09-30,74,52,Dhal 1kg,Staples,Jaffna North,Northern,12.0,0.4,185.0,OK,5.6,2.8,8.4,52.0,0,OK,Current inventory level is healthy.
+S004,P004,2026-09-30,9,43,Sugar 1kg,Staples,Jaffna North,Northern,6.0,0.2,45.0,REORDER,2.8,1.4,4.2,43.0,34,REORDER,Recent demand indicates that inventory replenishment is required.
+S004,P005,2026-09-30,89,62,Flour 1kg,Staples,Jaffna North,Northern,23.0,0.77,116.1,OK,10.73,5.37,16.1,62.0,0,OK,Current inventory level is healthy.
+S004,P006,2026-09-30,96,48,Milk Powder 400g,Dairy,Jaffna North,Northern,31.0,1.03,92.9,OK,14.47,7.23,21.7,48.0,0,OK,Current inventory level is healthy.
+S004,P007,2026-09-30,153,23,Milk Powder 1kg,Dairy,Jaffna North,Northern,6.0,0.2,765.0,OK,2.8,1.4,4.2,23.0,0,OK,Current inventory level is healthy.
+S004,P008,2026-09-30,57,58,Tea 200g,Beverages,Jaffna North,Northern,27.0,0.9,63.3,REORDER,12.6,6.3,18.9,58.0,1,REORDER,Recent demand indicates that inventory replenishment is required.
+S004,P009,2026-09-30,119,48,Coffee 100g,Beverages,Jaffna North,Northern,7.0,0.23,510.0,OK,3.27,1.63,4.9,48.0,0,OK,Current inventory level is healthy.
+S004,P010,2026-09-30,56,51,Biscuits Pack,Snacks,Jaffna North,Northern,7.0,0.23,240.0,LOW STOCK,3.27,1.63,4.9,51.0,0,WATCH,Inventory is approaching the reorder threshold.
+S004,P011,2026-09-30,144,48,Noodles Pack,Convenience,Jaffna North,Northern,9.0,0.3,480.0,OK,4.2,2.1,6.3,48.0,0,OK,Current inventory level is healthy.
+S004,P012,2026-09-30,157,47,Canned Fish,Canned Goods,Jaffna North,Northern,22.0,0.73,214.1,OK,10.27,5.13,15.4,47.0,0,OK,Current inventory level is healthy.
+S004,P013,2026-09-30,55,24,Coconut Milk,Canned Goods,Jaffna North,Northern,2.0,0.07,825.0,OK,0.93,0.47,1.4,24.0,0,OK,Current inventory level is healthy.
+S004,P014,2026-09-30,78,47,Cooking Oil 1L,Staples,Jaffna North,Northern,29.0,0.97,80.7,OK,13.53,6.77,20.3,47.0,0,OK,Current inventory level is healthy.
+S004,P015,2026-09-30,87,59,Cooking Oil 5L,Staples,Jaffna North,Northern,19.0,0.63,137.4,OK,8.87,4.43,13.3,59.0,0,OK,Current inventory level is healthy.
+S004,P016,2026-09-30,178,35,Soap Bar,Personal Care,Jaffna North,Northern,10.0,0.33,534.0,OK,4.67,2.33,7.0,35.0,0,OK,Current inventory level is healthy.
+S004,P017,2026-09-30,37,50,Shampoo 180ml,Personal Care,Jaffna North,Northern,13.0,0.43,85.4,REORDER,6.07,3.03,9.1,50.0,13,REORDER,Recent demand indicates that inventory replenishment is required.
+S004,P018,2026-09-30,19,21,Toothpaste 120g,Personal Care,Jaffna North,Northern,58.0,1.93,9.8,REORDER,27.07,13.53,40.6,40.6,22,REORDER,Recent demand indicates that inventory replenishment is required.
+S004,P019,2026-09-30,124,37,Detergent 1kg,Household,Jaffna North,Northern,18.0,0.6,206.7,OK,8.4,4.2,12.6,37.0,0,OK,Current inventory level is healthy.
+S004,P020,2026-09-30,132,41,Dishwash Liquid,Household,Jaffna North,Northern,8.0,0.27,495.0,OK,3.73,1.87,5.6,41.0,0,OK,Current inventory level is healthy.
+S004,P021,2026-09-30,34,69,Soft Drink 1.5L,Beverages,Jaffna North,Northern,28.0,0.93,36.4,REORDER,13.07,6.53,19.6,69.0,35,REORDER,Recent demand indicates that inventory replenishment is required.
+S004,P022,2026-09-30,149,30,Bottled Water 1.5L,Beverages,Jaffna North,Northern,19.0,0.63,235.3,OK,8.87,4.43,13.3,30.0,0,OK,Current inventory level is healthy.
+S004,P023,2026-09-30,70,33,Fruit Juice 1L,Beverages,Jaffna North,Northern,17.0,0.57,123.5,OK,7.93,3.97,11.9,33.0,0,OK,Current inventory level is healthy.
+S004,P024,2026-09-30,115,40,Yoghurt Cup,Dairy,Jaffna North,Northern,18.0,0.6,191.7,OK,8.4,4.2,12.6,40.0,0,OK,Current inventory level is healthy.
+S004,P025,2026-09-30,104,69,Cheese Pack,Dairy,Jaffna North,Northern,11.0,0.37,283.6,OK,5.13,2.57,7.7,69.0,0,OK,Current inventory level is healthy.
+S004,P026,2026-09-30,19,62,Eggs 10 Pack,Fresh Food,Jaffna North,Northern,21.0,0.7,27.1,REORDER,9.8,4.9,14.7,62.0,43,REORDER,Recent demand indicates that inventory replenishment is required.
+S004,P027,2026-09-30,178,21,Chicken 1kg,Fresh Food,Jaffna North,Northern,49.0,1.63,109.0,OK,22.87,11.43,34.3,34.3,0,OK,Current inventory level is healthy.
+S004,P028,2026-09-30,6,31,Frozen Fish 1kg,Frozen Food,Jaffna North,Northern,9.0,0.3,20.0,REORDER,4.2,2.1,6.3,31.0,25,REORDER,Recent demand indicates that inventory replenishment is required.
+S004,P029,2026-09-30,61,61,Onions 1kg,Fresh Food,Jaffna North,Northern,29.0,0.97,63.1,REORDER,13.53,6.77,20.3,61.0,0,REORDER,Recent demand indicates that inventory replenishment is required.
+S004,P030,2026-09-30,147,22,Potatoes 1kg,Fresh Food,Jaffna North,Northern,15.0,0.5,294.0,OK,7.0,3.5,10.5,22.0,0,OK,Current inventory level is healthy.
