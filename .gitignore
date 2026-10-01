@@ -1,2 +1,5 @@
 # Generated processed datasets
 data/processed/*.csv
+# Generated ML model files
+models/*.joblib
+models/demand_test_predictions.csv
