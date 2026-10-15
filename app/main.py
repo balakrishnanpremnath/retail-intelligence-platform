@@ -174,6 +174,15 @@ elif page == "Inventory Intelligence":
         chart_style
     )
 
+elif page == "Customer Intelligence":
+    from customer_page import render_customers
+
+    render_customers(
+        get_engine,
+        metric,
+        chart_style
+    )
+
 else:
     st.info(
         "This workspace is next in development."
