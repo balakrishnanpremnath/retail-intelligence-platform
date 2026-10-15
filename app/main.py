@@ -183,6 +183,14 @@ elif page == "Customer Intelligence":
         chart_style
     )
 
+elif page == "Demand Forecasting":
+    from demand_page import render_demand
+
+    render_demand(
+        metric,
+        chart_style
+    )
+
 else:
     st.info(
         "This workspace is next in development."
