@@ -165,7 +165,18 @@ if page in ('Executive Overview', 'Sales Analytics'):
     st.markdown('<div class="section-title">Store performance</div>', unsafe_allow_html=True)
     stores = filtered.groupby('store_name', as_index=False)[['revenue', 'profit']].sum().sort_values('revenue', ascending=False)
     st.dataframe(stores.rename(columns={'store_name': 'Store', 'revenue': 'Revenue (LKR)', 'profit': 'Profit (LKR)'}), use_container_width=True, hide_index=True)
+elif page == "Inventory Intelligence":
+    from inventory_page import render_inventory
+
+    render_inventory(
+        get_engine,
+        metric,
+        chart_style
+    )
+
 else:
-    st.info('This workspace is next in development. The Executive Overview already uses live PostgreSQL data.')
+    st.info(
+        "This workspace is next in development."
+    )
 
 st.caption('Retail Intelligence Platform · Synthetic data · For portfolio demonstration only')
