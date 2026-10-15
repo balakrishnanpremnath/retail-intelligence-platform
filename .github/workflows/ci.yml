@@ -29,6 +29,6 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run automated data quality tests
+      - name: Run all automated tests
         run: |
-          python -m pytest tests/test_raw_data_quality.py -v
+          python -m pytest tests -v
