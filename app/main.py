@@ -95,7 +95,7 @@ with st.sidebar:
 
 st.markdown(f'<div class="hero"><h1>{page}</h1><p>Real business insights powered by Python and PostgreSQL</p></div>', unsafe_allow_html=True)
 
-if page in ('Executive Overview', 'Sales Analytics'):
+if page == 'Executive Overview':
     try:
         sales = load_sales()
     except Exception:
@@ -165,6 +165,15 @@ if page in ('Executive Overview', 'Sales Analytics'):
     st.markdown('<div class="section-title">Store performance</div>', unsafe_allow_html=True)
     stores = filtered.groupby('store_name', as_index=False)[['revenue', 'profit']].sum().sort_values('revenue', ascending=False)
     st.dataframe(stores.rename(columns={'store_name': 'Store', 'revenue': 'Revenue (LKR)', 'profit': 'Profit (LKR)'}), use_container_width=True, hide_index=True)
+
+elif page == "Sales Analytics":
+    from sales_page import render_sales
+
+    render_sales(
+        get_engine,
+        metric,
+        chart_style
+    )
 elif page == "Inventory Intelligence":
     from inventory_page import render_inventory
 
