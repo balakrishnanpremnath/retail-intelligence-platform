@@ -16,3 +16,6 @@ __pycache__/
 # Local credentials
 .env
 .streamlit/secrets.toml
+
+# Automated testing
+.pytest_cache/
