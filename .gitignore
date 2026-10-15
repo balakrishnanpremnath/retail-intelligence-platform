@@ -9,3 +9,10 @@ __pycache__/
 **/__pycache__/
 *.pyc
 *.pyo
+
+# Local Python environment
+.venv/
+
+# Local credentials
+.env
+.streamlit/secrets.toml
