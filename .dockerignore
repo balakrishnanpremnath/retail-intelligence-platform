@@ -1,0 +1,17 @@
+.git
+.venv
+.env
+.streamlit/secrets.toml
+
+__pycache__
+**/__pycache__
+*.pyc
+.pytest_cache
+
+data/processed
+models/*.joblib
+models/demand_test_predictions.csv
+
+dashboard
+images
+notebooks
