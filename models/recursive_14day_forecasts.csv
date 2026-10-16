@@ -1,0 +1,1681 @@
+as_of_date,date,horizon_day,store_id,product_id,product_name,category,forecast_quantity,model
+2026-09-30,2026-10-01,1,S001,P001,Rice 5kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S001,P001,Rice 5kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S001,P001,Rice 5kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S001,P001,Rice 5kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S001,P001,Rice 5kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S001,P001,Rice 5kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S001,P001,Rice 5kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S001,P001,Rice 5kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S001,P001,Rice 5kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S001,P001,Rice 5kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S001,P001,Rice 5kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S001,P001,Rice 5kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S001,P001,Rice 5kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S001,P001,Rice 5kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S001,P002,Rice 10kg,Staples,1.0,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S001,P002,Rice 10kg,Staples,1.143,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S001,P002,Rice 10kg,Staples,1.306,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S001,P002,Rice 10kg,Staples,1.207,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S001,P002,Rice 10kg,Staples,0.665,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S001,P002,Rice 10kg,Staples,0.76,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S001,P002,Rice 10kg,Staples,0.869,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S001,P002,Rice 10kg,Staples,0.993,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S001,P002,Rice 10kg,Staples,0.992,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S001,P002,Rice 10kg,Staples,0.97,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S001,P002,Rice 10kg,Staples,0.922,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S001,P002,Rice 10kg,Staples,0.882,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S001,P002,Rice 10kg,Staples,0.913,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S001,P002,Rice 10kg,Staples,0.934,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S001,P003,Dhal 1kg,Staples,0.714,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S001,P003,Dhal 1kg,Staples,0.816,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S001,P003,Dhal 1kg,Staples,0.933,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S001,P003,Dhal 1kg,Staples,1.066,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S001,P003,Dhal 1kg,Staples,0.504,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S001,P003,Dhal 1kg,Staples,0.576,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S001,P003,Dhal 1kg,Staples,0.659,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S001,P003,Dhal 1kg,Staples,0.753,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S001,P003,Dhal 1kg,Staples,0.758,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S001,P003,Dhal 1kg,Staples,0.75,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S001,P003,Dhal 1kg,Staples,0.724,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S001,P003,Dhal 1kg,Staples,0.675,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S001,P003,Dhal 1kg,Staples,0.699,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S001,P003,Dhal 1kg,Staples,0.717,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S001,P004,Sugar 1kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S001,P004,Sugar 1kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S001,P004,Sugar 1kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S001,P004,Sugar 1kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S001,P004,Sugar 1kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S001,P004,Sugar 1kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S001,P004,Sugar 1kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S001,P004,Sugar 1kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S001,P004,Sugar 1kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S001,P004,Sugar 1kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S001,P004,Sugar 1kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S001,P004,Sugar 1kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S001,P004,Sugar 1kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S001,P004,Sugar 1kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S001,P005,Flour 1kg,Staples,1.143,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S001,P005,Flour 1kg,Staples,1.306,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S001,P005,Flour 1kg,Staples,1.064,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S001,P005,Flour 1kg,Staples,1.216,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S001,P005,Flour 1kg,Staples,0.961,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S001,P005,Flour 1kg,Staples,1.099,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S001,P005,Flour 1kg,Staples,0.97,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S001,P005,Flour 1kg,Staples,1.108,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S001,P005,Flour 1kg,Staples,1.104,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S001,P005,Flour 1kg,Staples,1.075,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S001,P005,Flour 1kg,Staples,1.076,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S001,P005,Flour 1kg,Staples,1.056,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S001,P005,Flour 1kg,Staples,1.07,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S001,P005,Flour 1kg,Staples,1.065,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S001,P006,Milk Powder 400g,Dairy,1.143,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S001,P006,Milk Powder 400g,Dairy,1.306,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S001,P006,Milk Powder 400g,Dairy,1.493,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S001,P006,Milk Powder 400g,Dairy,0.992,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S001,P006,Milk Powder 400g,Dairy,1.133,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S001,P006,Milk Powder 400g,Dairy,1.01,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S001,P006,Milk Powder 400g,Dairy,1.011,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S001,P006,Milk Powder 400g,Dairy,1.155,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S001,P006,Milk Powder 400g,Dairy,1.157,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S001,P006,Milk Powder 400g,Dairy,1.136,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S001,P006,Milk Powder 400g,Dairy,1.085,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S001,P006,Milk Powder 400g,Dairy,1.098,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S001,P006,Milk Powder 400g,Dairy,1.093,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S001,P006,Milk Powder 400g,Dairy,1.105,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S001,P007,Milk Powder 1kg,Dairy,0.0,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S001,P007,Milk Powder 1kg,Dairy,0.0,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S001,P007,Milk Powder 1kg,Dairy,0.0,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S001,P007,Milk Powder 1kg,Dairy,0.0,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S001,P007,Milk Powder 1kg,Dairy,0.0,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S001,P007,Milk Powder 1kg,Dairy,0.0,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S001,P007,Milk Powder 1kg,Dairy,0.0,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S001,P007,Milk Powder 1kg,Dairy,0.0,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S001,P007,Milk Powder 1kg,Dairy,0.0,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S001,P007,Milk Powder 1kg,Dairy,0.0,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S001,P007,Milk Powder 1kg,Dairy,0.0,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S001,P007,Milk Powder 1kg,Dairy,0.0,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S001,P007,Milk Powder 1kg,Dairy,0.0,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S001,P007,Milk Powder 1kg,Dairy,0.0,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S001,P008,Tea 200g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S001,P008,Tea 200g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S001,P008,Tea 200g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S001,P008,Tea 200g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S001,P008,Tea 200g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S001,P008,Tea 200g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S001,P008,Tea 200g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S001,P008,Tea 200g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S001,P008,Tea 200g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S001,P008,Tea 200g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S001,P008,Tea 200g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S001,P008,Tea 200g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S001,P008,Tea 200g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S001,P008,Tea 200g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S001,P009,Coffee 100g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S001,P009,Coffee 100g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S001,P009,Coffee 100g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S001,P009,Coffee 100g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S001,P009,Coffee 100g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S001,P009,Coffee 100g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S001,P009,Coffee 100g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S001,P009,Coffee 100g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S001,P009,Coffee 100g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S001,P009,Coffee 100g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S001,P009,Coffee 100g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S001,P009,Coffee 100g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S001,P009,Coffee 100g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S001,P009,Coffee 100g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S001,P010,Biscuits Pack,Snacks,0.286,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S001,P010,Biscuits Pack,Snacks,0.041,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S001,P010,Biscuits Pack,Snacks,0.047,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S001,P010,Biscuits Pack,Snacks,0.053,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S001,P010,Biscuits Pack,Snacks,0.061,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S001,P010,Biscuits Pack,Snacks,0.07,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S001,P010,Biscuits Pack,Snacks,0.08,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S001,P010,Biscuits Pack,Snacks,0.091,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S001,P010,Biscuits Pack,Snacks,0.063,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S001,P010,Biscuits Pack,Snacks,0.066,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S001,P010,Biscuits Pack,Snacks,0.069,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S001,P010,Biscuits Pack,Snacks,0.071,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S001,P010,Biscuits Pack,Snacks,0.073,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S001,P010,Biscuits Pack,Snacks,0.073,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S001,P011,Noodles Pack,Convenience,0.286,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S001,P011,Noodles Pack,Convenience,0.327,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S001,P011,Noodles Pack,Convenience,0.373,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S001,P011,Noodles Pack,Convenience,0.426,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S001,P011,Noodles Pack,Convenience,0.487,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S001,P011,Noodles Pack,Convenience,0.557,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S001,P011,Noodles Pack,Convenience,0.351,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S001,P011,Noodles Pack,Convenience,0.401,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S001,P011,Noodles Pack,Convenience,0.418,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S001,P011,Noodles Pack,Convenience,0.431,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S001,P011,Noodles Pack,Convenience,0.439,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S001,P011,Noodles Pack,Convenience,0.44,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S001,P011,Noodles Pack,Convenience,0.434,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S001,P011,Noodles Pack,Convenience,0.416,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S001,P012,Canned Fish,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S001,P012,Canned Fish,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S001,P012,Canned Fish,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S001,P012,Canned Fish,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S001,P012,Canned Fish,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S001,P012,Canned Fish,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S001,P012,Canned Fish,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S001,P012,Canned Fish,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S001,P012,Canned Fish,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S001,P012,Canned Fish,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S001,P012,Canned Fish,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S001,P012,Canned Fish,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S001,P012,Canned Fish,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S001,P012,Canned Fish,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S001,P013,Coconut Milk,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S001,P013,Coconut Milk,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S001,P013,Coconut Milk,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S001,P013,Coconut Milk,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S001,P013,Coconut Milk,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S001,P013,Coconut Milk,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S001,P013,Coconut Milk,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S001,P013,Coconut Milk,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S001,P013,Coconut Milk,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S001,P013,Coconut Milk,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S001,P013,Coconut Milk,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S001,P013,Coconut Milk,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S001,P013,Coconut Milk,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S001,P013,Coconut Milk,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S001,P014,Cooking Oil 1L,Staples,0.429,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S001,P014,Cooking Oil 1L,Staples,0.204,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S001,P014,Cooking Oil 1L,Staples,0.233,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S001,P014,Cooking Oil 1L,Staples,0.124,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S001,P014,Cooking Oil 1L,Staples,0.141,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S001,P014,Cooking Oil 1L,Staples,0.162,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S001,P014,Cooking Oil 1L,Staples,0.185,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S001,P014,Cooking Oil 1L,Staples,0.211,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S001,P014,Cooking Oil 1L,Staples,0.18,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S001,P014,Cooking Oil 1L,Staples,0.176,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S001,P014,Cooking Oil 1L,Staples,0.168,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S001,P014,Cooking Oil 1L,Staples,0.175,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S001,P014,Cooking Oil 1L,Staples,0.18,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S001,P014,Cooking Oil 1L,Staples,0.182,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S001,P015,Cooking Oil 5L,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S001,P015,Cooking Oil 5L,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S001,P015,Cooking Oil 5L,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S001,P015,Cooking Oil 5L,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S001,P015,Cooking Oil 5L,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S001,P015,Cooking Oil 5L,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S001,P015,Cooking Oil 5L,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S001,P015,Cooking Oil 5L,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S001,P015,Cooking Oil 5L,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S001,P015,Cooking Oil 5L,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S001,P015,Cooking Oil 5L,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S001,P015,Cooking Oil 5L,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S001,P015,Cooking Oil 5L,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S001,P015,Cooking Oil 5L,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S001,P016,Soap Bar,Personal Care,0.0,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S001,P016,Soap Bar,Personal Care,0.0,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S001,P016,Soap Bar,Personal Care,0.0,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S001,P016,Soap Bar,Personal Care,0.0,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S001,P016,Soap Bar,Personal Care,0.0,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S001,P016,Soap Bar,Personal Care,0.0,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S001,P016,Soap Bar,Personal Care,0.0,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S001,P016,Soap Bar,Personal Care,0.0,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S001,P016,Soap Bar,Personal Care,0.0,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S001,P016,Soap Bar,Personal Care,0.0,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S001,P016,Soap Bar,Personal Care,0.0,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S001,P016,Soap Bar,Personal Care,0.0,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S001,P016,Soap Bar,Personal Care,0.0,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S001,P016,Soap Bar,Personal Care,0.0,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S001,P017,Shampoo 180ml,Personal Care,0.286,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S001,P017,Shampoo 180ml,Personal Care,0.327,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S001,P017,Shampoo 180ml,Personal Care,0.373,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S001,P017,Shampoo 180ml,Personal Care,0.426,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S001,P017,Shampoo 180ml,Personal Care,0.487,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S001,P017,Shampoo 180ml,Personal Care,0.557,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S001,P017,Shampoo 180ml,Personal Care,0.637,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S001,P017,Shampoo 180ml,Personal Care,0.442,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S001,P017,Shampoo 180ml,Personal Care,0.464,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S001,P017,Shampoo 180ml,Personal Care,0.484,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S001,P017,Shampoo 180ml,Personal Care,0.5,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S001,P017,Shampoo 180ml,Personal Care,0.51,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S001,P017,Shampoo 180ml,Personal Care,0.513,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S001,P017,Shampoo 180ml,Personal Care,0.507,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S001,P018,Toothpaste 120g,Personal Care,1.714,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S001,P018,Toothpaste 120g,Personal Care,1.388,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S001,P018,Toothpaste 120g,Personal Care,1.586,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S001,P018,Toothpaste 120g,Personal Care,1.098,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S001,P018,Toothpaste 120g,Personal Care,1.255,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S001,P018,Toothpaste 120g,Personal Care,1.006,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S001,P018,Toothpaste 120g,Personal Care,1.15,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S001,P018,Toothpaste 120g,Personal Care,1.314,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S001,P018,Toothpaste 120g,Personal Care,1.257,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S001,P018,Toothpaste 120g,Personal Care,1.238,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S001,P018,Toothpaste 120g,Personal Care,1.188,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S001,P018,Toothpaste 120g,Personal Care,1.201,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S001,P018,Toothpaste 120g,Personal Care,1.193,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S001,P018,Toothpaste 120g,Personal Care,1.22,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S001,P019,Detergent 1kg,Household,1.0,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S001,P019,Detergent 1kg,Household,0.571,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S001,P019,Detergent 1kg,Household,0.367,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S001,P019,Detergent 1kg,Household,0.42,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S001,P019,Detergent 1kg,Household,0.48,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S001,P019,Detergent 1kg,Household,0.405,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S001,P019,Detergent 1kg,Household,0.463,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S001,P019,Detergent 1kg,Household,0.53,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S001,P019,Detergent 1kg,Household,0.462,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S001,P019,Detergent 1kg,Household,0.447,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S001,P019,Detergent 1kg,Household,0.458,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S001,P019,Detergent 1kg,Household,0.464,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S001,P019,Detergent 1kg,Household,0.461,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S001,P019,Detergent 1kg,Household,0.469,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S001,P020,Dishwash Liquid,Household,0.286,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S001,P020,Dishwash Liquid,Household,0.327,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S001,P020,Dishwash Liquid,Household,0.373,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S001,P020,Dishwash Liquid,Household,0.426,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S001,P020,Dishwash Liquid,Household,0.487,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S001,P020,Dishwash Liquid,Household,0.271,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S001,P020,Dishwash Liquid,Household,0.31,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S001,P020,Dishwash Liquid,Household,0.354,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S001,P020,Dishwash Liquid,Household,0.364,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S001,P020,Dishwash Liquid,Household,0.37,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S001,P020,Dishwash Liquid,Household,0.369,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S001,P020,Dishwash Liquid,Household,0.361,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S001,P020,Dishwash Liquid,Household,0.343,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S001,P020,Dishwash Liquid,Household,0.353,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S001,P021,Soft Drink 1.5L,Beverages,2.286,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S001,P021,Soft Drink 1.5L,Beverages,2.184,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S001,P021,Soft Drink 1.5L,Beverages,1.496,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S001,P021,Soft Drink 1.5L,Beverages,1.424,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S001,P021,Soft Drink 1.5L,Beverages,1.627,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S001,P021,Soft Drink 1.5L,Beverages,1.859,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S001,P021,Soft Drink 1.5L,Beverages,2.125,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S001,P021,Soft Drink 1.5L,Beverages,1.857,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S001,P021,Soft Drink 1.5L,Beverages,1.796,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S001,P021,Soft Drink 1.5L,Beverages,1.741,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S001,P021,Soft Drink 1.5L,Beverages,1.775,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S001,P021,Soft Drink 1.5L,Beverages,1.826,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S001,P021,Soft Drink 1.5L,Beverages,1.854,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S001,P021,Soft Drink 1.5L,Beverages,1.853,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S001,P022,Bottled Water 1.5L,Beverages,0.286,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S001,P022,Bottled Water 1.5L,Beverages,0.327,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S001,P022,Bottled Water 1.5L,Beverages,0.373,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S001,P022,Bottled Water 1.5L,Beverages,0.426,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S001,P022,Bottled Water 1.5L,Beverages,0.487,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S001,P022,Bottled Water 1.5L,Beverages,0.271,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S001,P022,Bottled Water 1.5L,Beverages,0.31,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S001,P022,Bottled Water 1.5L,Beverages,0.354,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S001,P022,Bottled Water 1.5L,Beverages,0.364,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S001,P022,Bottled Water 1.5L,Beverages,0.37,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S001,P022,Bottled Water 1.5L,Beverages,0.369,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S001,P022,Bottled Water 1.5L,Beverages,0.361,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S001,P022,Bottled Water 1.5L,Beverages,0.343,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S001,P022,Bottled Water 1.5L,Beverages,0.353,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S001,P023,Fruit Juice 1L,Beverages,1.143,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S001,P023,Fruit Juice 1L,Beverages,1.163,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S001,P023,Fruit Juice 1L,Beverages,1.329,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S001,P023,Fruit Juice 1L,Beverages,1.091,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S001,P023,Fruit Juice 1L,Beverages,1.247,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S001,P023,Fruit Juice 1L,Beverages,1.425,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S001,P023,Fruit Juice 1L,Beverages,1.628,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S001,P023,Fruit Juice 1L,Beverages,1.289,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S001,P023,Fruit Juice 1L,Beverages,1.31,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S001,P023,Fruit Juice 1L,Beverages,1.331,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S001,P023,Fruit Juice 1L,Beverages,1.332,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S001,P023,Fruit Juice 1L,Beverages,1.366,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S001,P023,Fruit Juice 1L,Beverages,1.383,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S001,P023,Fruit Juice 1L,Beverages,1.377,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S001,P024,Yoghurt Cup,Dairy,0.857,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S001,P024,Yoghurt Cup,Dairy,0.98,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S001,P024,Yoghurt Cup,Dairy,1.12,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S001,P024,Yoghurt Cup,Dairy,1.279,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S001,P024,Yoghurt Cup,Dairy,1.462,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S001,P024,Yoghurt Cup,Dairy,0.957,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S001,P024,Yoghurt Cup,Dairy,1.094,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S001,P024,Yoghurt Cup,Dairy,1.107,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S001,P024,Yoghurt Cup,Dairy,1.143,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S001,P024,Yoghurt Cup,Dairy,1.166,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S001,P024,Yoghurt Cup,Dairy,1.173,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S001,P024,Yoghurt Cup,Dairy,1.157,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S001,P024,Yoghurt Cup,Dairy,1.114,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S001,P024,Yoghurt Cup,Dairy,1.136,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S001,P025,Cheese Pack,Dairy,0.0,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S001,P025,Cheese Pack,Dairy,0.0,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S001,P025,Cheese Pack,Dairy,0.0,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S001,P025,Cheese Pack,Dairy,0.0,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S001,P025,Cheese Pack,Dairy,0.0,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S001,P025,Cheese Pack,Dairy,0.0,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S001,P025,Cheese Pack,Dairy,0.0,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S001,P025,Cheese Pack,Dairy,0.0,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S001,P025,Cheese Pack,Dairy,0.0,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S001,P025,Cheese Pack,Dairy,0.0,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S001,P025,Cheese Pack,Dairy,0.0,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S001,P025,Cheese Pack,Dairy,0.0,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S001,P025,Cheese Pack,Dairy,0.0,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S001,P025,Cheese Pack,Dairy,0.0,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S001,P026,Eggs 10 Pack,Fresh Food,0.143,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S001,P026,Eggs 10 Pack,Fresh Food,0.163,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S001,P026,Eggs 10 Pack,Fresh Food,0.187,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S001,P026,Eggs 10 Pack,Fresh Food,0.213,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S001,P026,Eggs 10 Pack,Fresh Food,0.244,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S001,P026,Eggs 10 Pack,Fresh Food,0.136,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S001,P026,Eggs 10 Pack,Fresh Food,0.155,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S001,P026,Eggs 10 Pack,Fresh Food,0.177,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S001,P026,Eggs 10 Pack,Fresh Food,0.182,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S001,P026,Eggs 10 Pack,Fresh Food,0.185,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S001,P026,Eggs 10 Pack,Fresh Food,0.185,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S001,P026,Eggs 10 Pack,Fresh Food,0.18,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S001,P026,Eggs 10 Pack,Fresh Food,0.171,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S001,P026,Eggs 10 Pack,Fresh Food,0.177,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S001,P027,Chicken 1kg,Fresh Food,1.143,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S001,P027,Chicken 1kg,Fresh Food,1.306,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S001,P027,Chicken 1kg,Fresh Food,1.493,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S001,P027,Chicken 1kg,Fresh Food,1.563,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S001,P027,Chicken 1kg,Fresh Food,1.786,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S001,P027,Chicken 1kg,Fresh Food,2.042,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S001,P027,Chicken 1kg,Fresh Food,2.333,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S001,P027,Chicken 1kg,Fresh Food,1.667,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S001,P027,Chicken 1kg,Fresh Food,1.741,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S001,P027,Chicken 1kg,Fresh Food,1.804,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S001,P027,Chicken 1kg,Fresh Food,1.848,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S001,P027,Chicken 1kg,Fresh Food,1.889,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S001,P027,Chicken 1kg,Fresh Food,1.903,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S001,P027,Chicken 1kg,Fresh Food,1.884,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S001,P028,Frozen Fish 1kg,Frozen Food,1.0,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S001,P028,Frozen Fish 1kg,Frozen Food,1.143,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S001,P028,Frozen Fish 1kg,Frozen Food,1.02,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S001,P028,Frozen Fish 1kg,Frozen Food,1.166,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S001,P028,Frozen Fish 1kg,Frozen Food,1.333,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S001,P028,Frozen Fish 1kg,Frozen Food,1.523,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S001,P028,Frozen Fish 1kg,Frozen Food,1.312,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S001,P028,Frozen Fish 1kg,Frozen Food,1.214,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S001,P028,Frozen Fish 1kg,Frozen Food,1.245,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S001,P028,Frozen Fish 1kg,Frozen Food,1.259,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S001,P028,Frozen Fish 1kg,Frozen Food,1.293,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S001,P028,Frozen Fish 1kg,Frozen Food,1.311,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S001,P028,Frozen Fish 1kg,Frozen Food,1.308,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S001,P028,Frozen Fish 1kg,Frozen Food,1.277,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S001,P029,Onions 1kg,Fresh Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S001,P029,Onions 1kg,Fresh Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S001,P029,Onions 1kg,Fresh Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S001,P029,Onions 1kg,Fresh Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S001,P029,Onions 1kg,Fresh Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S001,P029,Onions 1kg,Fresh Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S001,P029,Onions 1kg,Fresh Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S001,P029,Onions 1kg,Fresh Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S001,P029,Onions 1kg,Fresh Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S001,P029,Onions 1kg,Fresh Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S001,P029,Onions 1kg,Fresh Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S001,P029,Onions 1kg,Fresh Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S001,P029,Onions 1kg,Fresh Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S001,P029,Onions 1kg,Fresh Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S001,P030,Potatoes 1kg,Fresh Food,0.286,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S001,P030,Potatoes 1kg,Fresh Food,0.327,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S001,P030,Potatoes 1kg,Fresh Food,0.373,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S001,P030,Potatoes 1kg,Fresh Food,0.426,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S001,P030,Potatoes 1kg,Fresh Food,0.202,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S001,P030,Potatoes 1kg,Fresh Food,0.231,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S001,P030,Potatoes 1kg,Fresh Food,0.263,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S001,P030,Potatoes 1kg,Fresh Food,0.301,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S001,P030,Potatoes 1kg,Fresh Food,0.303,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S001,P030,Potatoes 1kg,Fresh Food,0.3,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S001,P030,Potatoes 1kg,Fresh Food,0.289,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S001,P030,Potatoes 1kg,Fresh Food,0.27,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S001,P030,Potatoes 1kg,Fresh Food,0.28,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S001,P030,Potatoes 1kg,Fresh Food,0.287,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S002,P001,Rice 5kg,Staples,0.286,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S002,P001,Rice 5kg,Staples,0.184,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S002,P001,Rice 5kg,Staples,0.067,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S002,P001,Rice 5kg,Staples,0.077,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S002,P001,Rice 5kg,Staples,0.088,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S002,P001,Rice 5kg,Staples,0.1,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S002,P001,Rice 5kg,Staples,0.114,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S002,P001,Rice 5kg,Staples,0.131,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S002,P001,Rice 5kg,Staples,0.109,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S002,P001,Rice 5kg,Staples,0.098,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S002,P001,Rice 5kg,Staples,0.102,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S002,P001,Rice 5kg,Staples,0.106,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S002,P001,Rice 5kg,Staples,0.109,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S002,P001,Rice 5kg,Staples,0.11,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S002,P002,Rice 10kg,Staples,2.143,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S002,P002,Rice 10kg,Staples,2.163,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S002,P002,Rice 10kg,Staples,1.901,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S002,P002,Rice 10kg,Staples,2.172,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S002,P002,Rice 10kg,Staples,2.197,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S002,P002,Rice 10kg,Staples,1.654,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S002,P002,Rice 10kg,Staples,1.747,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S002,P002,Rice 10kg,Staples,1.997,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S002,P002,Rice 10kg,Staples,1.976,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S002,P002,Rice 10kg,Staples,1.949,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S002,P002,Rice 10kg,Staples,1.956,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S002,P002,Rice 10kg,Staples,1.925,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S002,P002,Rice 10kg,Staples,1.886,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S002,P002,Rice 10kg,Staples,1.919,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S002,P003,Dhal 1kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S002,P003,Dhal 1kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S002,P003,Dhal 1kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S002,P003,Dhal 1kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S002,P003,Dhal 1kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S002,P003,Dhal 1kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S002,P003,Dhal 1kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S002,P003,Dhal 1kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S002,P003,Dhal 1kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S002,P003,Dhal 1kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S002,P003,Dhal 1kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S002,P003,Dhal 1kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S002,P003,Dhal 1kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S002,P003,Dhal 1kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S002,P004,Sugar 1kg,Staples,0.143,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S002,P004,Sugar 1kg,Staples,0.163,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S002,P004,Sugar 1kg,Staples,0.044,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S002,P004,Sugar 1kg,Staples,0.05,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S002,P004,Sugar 1kg,Staples,0.057,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S002,P004,Sugar 1kg,Staples,0.065,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S002,P004,Sugar 1kg,Staples,0.075,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S002,P004,Sugar 1kg,Staples,0.085,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S002,P004,Sugar 1kg,Staples,0.077,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S002,P004,Sugar 1kg,Staples,0.065,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S002,P004,Sugar 1kg,Staples,0.068,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S002,P004,Sugar 1kg,Staples,0.07,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S002,P004,Sugar 1kg,Staples,0.072,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S002,P004,Sugar 1kg,Staples,0.073,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S002,P005,Flour 1kg,Staples,0.143,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S002,P005,Flour 1kg,Staples,0.163,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S002,P005,Flour 1kg,Staples,0.187,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S002,P005,Flour 1kg,Staples,0.213,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S002,P005,Flour 1kg,Staples,0.101,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S002,P005,Flour 1kg,Staples,0.115,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S002,P005,Flour 1kg,Staples,0.132,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S002,P005,Flour 1kg,Staples,0.151,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S002,P005,Flour 1kg,Staples,0.152,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S002,P005,Flour 1kg,Staples,0.15,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S002,P005,Flour 1kg,Staples,0.145,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S002,P005,Flour 1kg,Staples,0.135,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S002,P005,Flour 1kg,Staples,0.14,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S002,P005,Flour 1kg,Staples,0.143,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S002,P006,Milk Powder 400g,Dairy,1.857,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S002,P006,Milk Powder 400g,Dairy,2.122,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S002,P006,Milk Powder 400g,Dairy,2.14,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S002,P006,Milk Powder 400g,Dairy,2.017,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S002,P006,Milk Powder 400g,Dairy,1.591,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S002,P006,Milk Powder 400g,Dairy,1.675,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S002,P006,Milk Powder 400g,Dairy,1.772,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S002,P006,Milk Powder 400g,Dairy,1.882,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S002,P006,Milk Powder 400g,Dairy,1.886,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S002,P006,Milk Powder 400g,Dairy,1.852,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S002,P006,Milk Powder 400g,Dairy,1.811,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S002,P006,Milk Powder 400g,Dairy,1.781,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S002,P006,Milk Powder 400g,Dairy,1.808,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S002,P006,Milk Powder 400g,Dairy,1.827,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S002,P007,Milk Powder 1kg,Dairy,0.0,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S002,P007,Milk Powder 1kg,Dairy,0.0,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S002,P007,Milk Powder 1kg,Dairy,0.0,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S002,P007,Milk Powder 1kg,Dairy,0.0,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S002,P007,Milk Powder 1kg,Dairy,0.0,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S002,P007,Milk Powder 1kg,Dairy,0.0,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S002,P007,Milk Powder 1kg,Dairy,0.0,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S002,P007,Milk Powder 1kg,Dairy,0.0,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S002,P007,Milk Powder 1kg,Dairy,0.0,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S002,P007,Milk Powder 1kg,Dairy,0.0,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S002,P007,Milk Powder 1kg,Dairy,0.0,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S002,P007,Milk Powder 1kg,Dairy,0.0,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S002,P007,Milk Powder 1kg,Dairy,0.0,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S002,P007,Milk Powder 1kg,Dairy,0.0,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S002,P008,Tea 200g,Beverages,0.714,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S002,P008,Tea 200g,Beverages,0.816,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S002,P008,Tea 200g,Beverages,0.933,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S002,P008,Tea 200g,Beverages,0.923,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S002,P008,Tea 200g,Beverages,0.484,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S002,P008,Tea 200g,Beverages,0.553,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S002,P008,Tea 200g,Beverages,0.632,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S002,P008,Tea 200g,Beverages,0.722,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S002,P008,Tea 200g,Beverages,0.723,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S002,P008,Tea 200g,Beverages,0.71,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S002,P008,Tea 200g,Beverages,0.678,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S002,P008,Tea 200g,Beverages,0.643,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S002,P008,Tea 200g,Beverages,0.666,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S002,P008,Tea 200g,Beverages,0.682,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S002,P009,Coffee 100g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S002,P009,Coffee 100g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S002,P009,Coffee 100g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S002,P009,Coffee 100g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S002,P009,Coffee 100g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S002,P009,Coffee 100g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S002,P009,Coffee 100g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S002,P009,Coffee 100g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S002,P009,Coffee 100g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S002,P009,Coffee 100g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S002,P009,Coffee 100g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S002,P009,Coffee 100g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S002,P009,Coffee 100g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S002,P009,Coffee 100g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S002,P010,Biscuits Pack,Snacks,0.143,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S002,P010,Biscuits Pack,Snacks,0.163,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S002,P010,Biscuits Pack,Snacks,0.187,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S002,P010,Biscuits Pack,Snacks,0.213,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S002,P010,Biscuits Pack,Snacks,0.244,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S002,P010,Biscuits Pack,Snacks,0.136,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S002,P010,Biscuits Pack,Snacks,0.155,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S002,P010,Biscuits Pack,Snacks,0.177,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S002,P010,Biscuits Pack,Snacks,0.182,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S002,P010,Biscuits Pack,Snacks,0.185,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S002,P010,Biscuits Pack,Snacks,0.185,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S002,P010,Biscuits Pack,Snacks,0.18,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S002,P010,Biscuits Pack,Snacks,0.171,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S002,P010,Biscuits Pack,Snacks,0.177,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S002,P011,Noodles Pack,Convenience,0.714,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S002,P011,Noodles Pack,Convenience,0.531,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S002,P011,Noodles Pack,Convenience,0.606,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S002,P011,Noodles Pack,Convenience,0.693,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S002,P011,Noodles Pack,Convenience,0.363,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S002,P011,Noodles Pack,Convenience,0.415,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S002,P011,Noodles Pack,Convenience,0.475,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S002,P011,Noodles Pack,Convenience,0.543,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S002,P011,Noodles Pack,Convenience,0.518,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S002,P011,Noodles Pack,Convenience,0.516,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S002,P011,Noodles Pack,Convenience,0.503,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S002,P011,Noodles Pack,Convenience,0.476,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S002,P011,Noodles Pack,Convenience,0.492,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S002,P011,Noodles Pack,Convenience,0.503,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S002,P012,Canned Fish,Canned Goods,0.714,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S002,P012,Canned Fish,Canned Goods,0.816,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S002,P012,Canned Fish,Canned Goods,0.933,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S002,P012,Canned Fish,Canned Goods,1.066,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S002,P012,Canned Fish,Canned Goods,0.504,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S002,P012,Canned Fish,Canned Goods,0.576,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S002,P012,Canned Fish,Canned Goods,0.659,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S002,P012,Canned Fish,Canned Goods,0.753,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S002,P012,Canned Fish,Canned Goods,0.758,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S002,P012,Canned Fish,Canned Goods,0.75,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S002,P012,Canned Fish,Canned Goods,0.724,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S002,P012,Canned Fish,Canned Goods,0.675,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S002,P012,Canned Fish,Canned Goods,0.699,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S002,P012,Canned Fish,Canned Goods,0.717,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S002,P013,Coconut Milk,Canned Goods,0.143,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S002,P013,Coconut Milk,Canned Goods,0.163,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S002,P013,Coconut Milk,Canned Goods,0.187,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S002,P013,Coconut Milk,Canned Goods,0.07,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S002,P013,Coconut Milk,Canned Goods,0.08,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S002,P013,Coconut Milk,Canned Goods,0.092,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S002,P013,Coconut Milk,Canned Goods,0.105,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S002,P013,Coconut Milk,Canned Goods,0.12,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S002,P013,Coconut Milk,Canned Goods,0.117,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S002,P013,Coconut Milk,Canned Goods,0.11,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S002,P013,Coconut Milk,Canned Goods,0.099,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S002,P013,Coconut Milk,Canned Goods,0.103,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S002,P013,Coconut Milk,Canned Goods,0.107,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S002,P013,Coconut Milk,Canned Goods,0.109,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S002,P014,Cooking Oil 1L,Staples,3.0,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S002,P014,Cooking Oil 1L,Staples,3.429,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S002,P014,Cooking Oil 1L,Staples,3.49,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S002,P014,Cooking Oil 1L,Staples,3.417,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S002,P014,Cooking Oil 1L,Staples,3.476,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S002,P014,Cooking Oil 1L,Staples,3.973,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S002,P014,Cooking Oil 1L,Staples,2.969,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S002,P014,Cooking Oil 1L,Staples,3.393,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S002,P014,Cooking Oil 1L,Staples,3.45,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S002,P014,Cooking Oil 1L,Staples,3.453,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S002,P014,Cooking Oil 1L,Staples,3.447,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S002,P014,Cooking Oil 1L,Staples,3.452,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S002,P014,Cooking Oil 1L,Staples,3.448,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S002,P014,Cooking Oil 1L,Staples,3.373,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S002,P015,Cooking Oil 5L,Staples,0.571,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S002,P015,Cooking Oil 5L,Staples,0.653,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S002,P015,Cooking Oil 5L,Staples,0.746,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S002,P015,Cooking Oil 5L,Staples,0.853,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S002,P015,Cooking Oil 5L,Staples,0.975,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S002,P015,Cooking Oil 5L,Staples,1.114,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S002,P015,Cooking Oil 5L,Staples,0.702,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S002,P015,Cooking Oil 5L,Staples,0.802,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S002,P015,Cooking Oil 5L,Staples,0.835,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S002,P015,Cooking Oil 5L,Staples,0.861,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S002,P015,Cooking Oil 5L,Staples,0.877,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S002,P015,Cooking Oil 5L,Staples,0.881,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S002,P015,Cooking Oil 5L,Staples,0.867,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S002,P015,Cooking Oil 5L,Staples,0.832,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S002,P016,Soap Bar,Personal Care,0.0,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S002,P016,Soap Bar,Personal Care,0.0,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S002,P016,Soap Bar,Personal Care,0.0,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S002,P016,Soap Bar,Personal Care,0.0,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S002,P016,Soap Bar,Personal Care,0.0,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S002,P016,Soap Bar,Personal Care,0.0,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S002,P016,Soap Bar,Personal Care,0.0,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S002,P016,Soap Bar,Personal Care,0.0,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S002,P016,Soap Bar,Personal Care,0.0,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S002,P016,Soap Bar,Personal Care,0.0,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S002,P016,Soap Bar,Personal Care,0.0,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S002,P016,Soap Bar,Personal Care,0.0,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S002,P016,Soap Bar,Personal Care,0.0,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S002,P016,Soap Bar,Personal Care,0.0,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S002,P017,Shampoo 180ml,Personal Care,1.286,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S002,P017,Shampoo 180ml,Personal Care,1.469,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S002,P017,Shampoo 180ml,Personal Care,0.394,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S002,P017,Shampoo 180ml,Personal Care,0.45,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S002,P017,Shampoo 180ml,Personal Care,0.514,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S002,P017,Shampoo 180ml,Personal Care,0.588,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S002,P017,Shampoo 180ml,Personal Care,0.671,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S002,P017,Shampoo 180ml,Personal Care,0.767,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S002,P017,Shampoo 180ml,Personal Care,0.693,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S002,P017,Shampoo 180ml,Personal Care,0.582,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S002,P017,Shampoo 180ml,Personal Care,0.609,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S002,P017,Shampoo 180ml,Personal Care,0.632,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S002,P017,Shampoo 180ml,Personal Care,0.649,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S002,P017,Shampoo 180ml,Personal Care,0.658,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S002,P018,Toothpaste 120g,Personal Care,0.714,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S002,P018,Toothpaste 120g,Personal Care,0.673,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S002,P018,Toothpaste 120g,Personal Care,0.77,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S002,P018,Toothpaste 120g,Personal Care,0.88,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S002,P018,Toothpaste 120g,Personal Care,1.005,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S002,P018,Toothpaste 120g,Personal Care,0.863,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S002,P018,Toothpaste 120g,Personal Care,0.987,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S002,P018,Toothpaste 120g,Personal Care,0.842,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S002,P018,Toothpaste 120g,Personal Care,0.86,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S002,P018,Toothpaste 120g,Personal Care,0.887,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S002,P018,Toothpaste 120g,Personal Care,0.903,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S002,P018,Toothpaste 120g,Personal Care,0.907,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S002,P018,Toothpaste 120g,Personal Care,0.893,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S002,P018,Toothpaste 120g,Personal Care,0.897,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S002,P019,Detergent 1kg,Household,0.0,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S002,P019,Detergent 1kg,Household,0.0,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S002,P019,Detergent 1kg,Household,0.0,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S002,P019,Detergent 1kg,Household,0.0,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S002,P019,Detergent 1kg,Household,0.0,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S002,P019,Detergent 1kg,Household,0.0,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S002,P019,Detergent 1kg,Household,0.0,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S002,P019,Detergent 1kg,Household,0.0,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S002,P019,Detergent 1kg,Household,0.0,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S002,P019,Detergent 1kg,Household,0.0,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S002,P019,Detergent 1kg,Household,0.0,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S002,P019,Detergent 1kg,Household,0.0,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S002,P019,Detergent 1kg,Household,0.0,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S002,P019,Detergent 1kg,Household,0.0,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S002,P020,Dishwash Liquid,Household,0.714,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S002,P020,Dishwash Liquid,Household,0.816,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S002,P020,Dishwash Liquid,Household,0.933,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S002,P020,Dishwash Liquid,Household,1.066,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S002,P020,Dishwash Liquid,Household,1.076,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S002,P020,Dishwash Liquid,Household,0.658,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S002,P020,Dishwash Liquid,Household,0.752,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S002,P020,Dishwash Liquid,Household,0.859,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S002,P020,Dishwash Liquid,Household,0.88,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S002,P020,Dishwash Liquid,Household,0.889,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S002,P020,Dishwash Liquid,Household,0.883,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S002,P020,Dishwash Liquid,Household,0.857,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S002,P020,Dishwash Liquid,Household,0.825,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S002,P020,Dishwash Liquid,Household,0.849,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S002,P021,Soft Drink 1.5L,Beverages,1.143,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S002,P021,Soft Drink 1.5L,Beverages,0.735,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S002,P021,Soft Drink 1.5L,Beverages,0.697,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S002,P021,Soft Drink 1.5L,Beverages,0.796,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S002,P021,Soft Drink 1.5L,Beverages,0.91,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S002,P021,Soft Drink 1.5L,Beverages,1.04,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S002,P021,Soft Drink 1.5L,Beverages,1.046,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S002,P021,Soft Drink 1.5L,Beverages,0.91,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S002,P021,Soft Drink 1.5L,Beverages,0.876,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S002,P021,Soft Drink 1.5L,Beverages,0.896,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S002,P021,Soft Drink 1.5L,Beverages,0.925,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S002,P021,Soft Drink 1.5L,Beverages,0.943,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S002,P021,Soft Drink 1.5L,Beverages,0.948,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S002,P021,Soft Drink 1.5L,Beverages,0.935,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S002,P022,Bottled Water 1.5L,Beverages,0.143,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S002,P022,Bottled Water 1.5L,Beverages,0.02,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S002,P022,Bottled Water 1.5L,Beverages,0.023,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S002,P022,Bottled Water 1.5L,Beverages,0.027,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S002,P022,Bottled Water 1.5L,Beverages,0.03,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S002,P022,Bottled Water 1.5L,Beverages,0.035,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S002,P022,Bottled Water 1.5L,Beverages,0.04,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S002,P022,Bottled Water 1.5L,Beverages,0.045,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S002,P022,Bottled Water 1.5L,Beverages,0.032,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S002,P022,Bottled Water 1.5L,Beverages,0.033,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S002,P022,Bottled Water 1.5L,Beverages,0.035,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S002,P022,Bottled Water 1.5L,Beverages,0.036,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S002,P022,Bottled Water 1.5L,Beverages,0.036,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S002,P022,Bottled Water 1.5L,Beverages,0.037,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S002,P023,Fruit Juice 1L,Beverages,1.143,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S002,P023,Fruit Juice 1L,Beverages,1.306,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S002,P023,Fruit Juice 1L,Beverages,0.636,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S002,P023,Fruit Juice 1L,Beverages,0.726,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S002,P023,Fruit Juice 1L,Beverages,0.544,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S002,P023,Fruit Juice 1L,Beverages,0.622,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S002,P023,Fruit Juice 1L,Beverages,0.711,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S002,P023,Fruit Juice 1L,Beverages,0.813,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S002,P023,Fruit Juice 1L,Beverages,0.765,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S002,P023,Fruit Juice 1L,Beverages,0.688,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S002,P023,Fruit Juice 1L,Beverages,0.696,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S002,P023,Fruit Juice 1L,Beverages,0.691,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S002,P023,Fruit Juice 1L,Beverages,0.712,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S002,P023,Fruit Juice 1L,Beverages,0.725,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S002,P024,Yoghurt Cup,Dairy,0.714,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S002,P024,Yoghurt Cup,Dairy,0.102,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S002,P024,Yoghurt Cup,Dairy,0.117,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S002,P024,Yoghurt Cup,Dairy,0.133,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S002,P024,Yoghurt Cup,Dairy,0.152,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S002,P024,Yoghurt Cup,Dairy,0.174,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S002,P024,Yoghurt Cup,Dairy,0.199,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S002,P024,Yoghurt Cup,Dairy,0.227,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S002,P024,Yoghurt Cup,Dairy,0.158,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S002,P024,Yoghurt Cup,Dairy,0.166,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S002,P024,Yoghurt Cup,Dairy,0.173,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S002,P024,Yoghurt Cup,Dairy,0.178,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S002,P024,Yoghurt Cup,Dairy,0.182,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S002,P024,Yoghurt Cup,Dairy,0.183,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S002,P025,Cheese Pack,Dairy,0.143,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S002,P025,Cheese Pack,Dairy,0.163,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S002,P025,Cheese Pack,Dairy,0.187,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S002,P025,Cheese Pack,Dairy,0.07,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S002,P025,Cheese Pack,Dairy,0.08,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S002,P025,Cheese Pack,Dairy,0.092,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S002,P025,Cheese Pack,Dairy,0.105,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S002,P025,Cheese Pack,Dairy,0.12,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S002,P025,Cheese Pack,Dairy,0.117,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S002,P025,Cheese Pack,Dairy,0.11,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S002,P025,Cheese Pack,Dairy,0.099,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S002,P025,Cheese Pack,Dairy,0.103,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S002,P025,Cheese Pack,Dairy,0.107,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S002,P025,Cheese Pack,Dairy,0.109,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S002,P026,Eggs 10 Pack,Fresh Food,1.857,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S002,P026,Eggs 10 Pack,Fresh Food,1.837,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S002,P026,Eggs 10 Pack,Fresh Food,2.099,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S002,P026,Eggs 10 Pack,Fresh Food,1.685,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S002,P026,Eggs 10 Pack,Fresh Food,1.925,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S002,P026,Eggs 10 Pack,Fresh Food,2.058,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S002,P026,Eggs 10 Pack,Fresh Food,2.352,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S002,P026,Eggs 10 Pack,Fresh Food,1.973,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S002,P026,Eggs 10 Pack,Fresh Food,1.99,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S002,P026,Eggs 10 Pack,Fresh Food,2.012,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S002,P026,Eggs 10 Pack,Fresh Food,1.999,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S002,P026,Eggs 10 Pack,Fresh Food,2.044,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S002,P026,Eggs 10 Pack,Fresh Food,2.061,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S002,P026,Eggs 10 Pack,Fresh Food,2.061,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S002,P027,Chicken 1kg,Fresh Food,0.143,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S002,P027,Chicken 1kg,Fresh Food,0.163,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S002,P027,Chicken 1kg,Fresh Food,0.187,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S002,P027,Chicken 1kg,Fresh Food,0.213,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S002,P027,Chicken 1kg,Fresh Food,0.101,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S002,P027,Chicken 1kg,Fresh Food,0.115,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S002,P027,Chicken 1kg,Fresh Food,0.132,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S002,P027,Chicken 1kg,Fresh Food,0.151,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S002,P027,Chicken 1kg,Fresh Food,0.152,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S002,P027,Chicken 1kg,Fresh Food,0.15,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S002,P027,Chicken 1kg,Fresh Food,0.145,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S002,P027,Chicken 1kg,Fresh Food,0.135,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S002,P027,Chicken 1kg,Fresh Food,0.14,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S002,P027,Chicken 1kg,Fresh Food,0.143,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S002,P028,Frozen Fish 1kg,Frozen Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S002,P028,Frozen Fish 1kg,Frozen Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S002,P028,Frozen Fish 1kg,Frozen Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S002,P028,Frozen Fish 1kg,Frozen Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S002,P028,Frozen Fish 1kg,Frozen Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S002,P028,Frozen Fish 1kg,Frozen Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S002,P028,Frozen Fish 1kg,Frozen Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S002,P028,Frozen Fish 1kg,Frozen Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S002,P028,Frozen Fish 1kg,Frozen Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S002,P028,Frozen Fish 1kg,Frozen Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S002,P028,Frozen Fish 1kg,Frozen Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S002,P028,Frozen Fish 1kg,Frozen Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S002,P028,Frozen Fish 1kg,Frozen Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S002,P028,Frozen Fish 1kg,Frozen Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S002,P029,Onions 1kg,Fresh Food,0.429,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S002,P029,Onions 1kg,Fresh Food,0.347,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S002,P029,Onions 1kg,Fresh Food,0.397,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S002,P029,Onions 1kg,Fresh Food,0.453,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S002,P029,Onions 1kg,Fresh Food,0.518,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S002,P029,Onions 1kg,Fresh Food,0.592,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S002,P029,Onions 1kg,Fresh Food,0.391,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S002,P029,Onions 1kg,Fresh Food,0.447,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S002,P029,Onions 1kg,Fresh Food,0.449,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S002,P029,Onions 1kg,Fresh Food,0.464,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S002,P029,Onions 1kg,Fresh Food,0.473,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S002,P029,Onions 1kg,Fresh Food,0.476,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S002,P029,Onions 1kg,Fresh Food,0.47,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S002,P029,Onions 1kg,Fresh Food,0.453,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S002,P030,Potatoes 1kg,Fresh Food,1.0,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S002,P030,Potatoes 1kg,Fresh Food,1.143,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S002,P030,Potatoes 1kg,Fresh Food,1.306,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S002,P030,Potatoes 1kg,Fresh Food,1.207,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S002,P030,Potatoes 1kg,Fresh Food,1.379,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S002,P030,Potatoes 1kg,Fresh Food,1.291,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S002,P030,Potatoes 1kg,Fresh Food,1.047,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S002,P030,Potatoes 1kg,Fresh Food,1.196,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S002,P030,Potatoes 1kg,Fresh Food,1.224,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S002,P030,Potatoes 1kg,Fresh Food,1.236,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S002,P030,Potatoes 1kg,Fresh Food,1.226,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S002,P030,Potatoes 1kg,Fresh Food,1.228,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S002,P030,Potatoes 1kg,Fresh Food,1.207,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S002,P030,Potatoes 1kg,Fresh Food,1.195,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S003,P001,Rice 5kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S003,P001,Rice 5kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S003,P001,Rice 5kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S003,P001,Rice 5kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S003,P001,Rice 5kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S003,P001,Rice 5kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S003,P001,Rice 5kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S003,P001,Rice 5kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S003,P001,Rice 5kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S003,P001,Rice 5kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S003,P001,Rice 5kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S003,P001,Rice 5kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S003,P001,Rice 5kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S003,P001,Rice 5kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S003,P002,Rice 10kg,Staples,0.286,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S003,P002,Rice 10kg,Staples,0.327,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S003,P002,Rice 10kg,Staples,0.373,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S003,P002,Rice 10kg,Staples,0.426,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S003,P002,Rice 10kg,Staples,0.487,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S003,P002,Rice 10kg,Staples,0.557,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S003,P002,Rice 10kg,Staples,0.637,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S003,P002,Rice 10kg,Staples,0.442,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S003,P002,Rice 10kg,Staples,0.464,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S003,P002,Rice 10kg,Staples,0.484,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S003,P002,Rice 10kg,Staples,0.5,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S003,P002,Rice 10kg,Staples,0.51,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S003,P002,Rice 10kg,Staples,0.513,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S003,P002,Rice 10kg,Staples,0.507,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S003,P003,Dhal 1kg,Staples,0.857,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S003,P003,Dhal 1kg,Staples,0.694,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S003,P003,Dhal 1kg,Staples,0.793,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S003,P003,Dhal 1kg,Staples,0.906,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S003,P003,Dhal 1kg,Staples,1.036,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S003,P003,Dhal 1kg,Staples,1.184,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S003,P003,Dhal 1kg,Staples,0.781,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S003,P003,Dhal 1kg,Staples,0.893,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S003,P003,Dhal 1kg,Staples,0.898,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S003,P003,Dhal 1kg,Staples,0.927,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S003,P003,Dhal 1kg,Staples,0.947,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S003,P003,Dhal 1kg,Staples,0.952,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S003,P003,Dhal 1kg,Staples,0.94,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S003,P003,Dhal 1kg,Staples,0.906,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S003,P004,Sugar 1kg,Staples,0.143,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S003,P004,Sugar 1kg,Staples,0.163,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S003,P004,Sugar 1kg,Staples,0.187,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S003,P004,Sugar 1kg,Staples,0.213,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S003,P004,Sugar 1kg,Staples,0.101,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S003,P004,Sugar 1kg,Staples,0.115,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S003,P004,Sugar 1kg,Staples,0.132,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S003,P004,Sugar 1kg,Staples,0.151,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S003,P004,Sugar 1kg,Staples,0.152,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S003,P004,Sugar 1kg,Staples,0.15,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S003,P004,Sugar 1kg,Staples,0.145,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S003,P004,Sugar 1kg,Staples,0.135,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S003,P004,Sugar 1kg,Staples,0.14,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S003,P004,Sugar 1kg,Staples,0.143,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S003,P005,Flour 1kg,Staples,1.0,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S003,P005,Flour 1kg,Staples,0.429,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S003,P005,Flour 1kg,Staples,0.49,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S003,P005,Flour 1kg,Staples,0.56,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S003,P005,Flour 1kg,Staples,0.64,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S003,P005,Flour 1kg,Staples,0.731,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S003,P005,Flour 1kg,Staples,0.836,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S003,P005,Flour 1kg,Staples,0.669,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S003,P005,Flour 1kg,Staples,0.622,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S003,P005,Flour 1kg,Staples,0.65,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S003,P005,Flour 1kg,Staples,0.672,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S003,P005,Flour 1kg,Staples,0.689,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S003,P005,Flour 1kg,Staples,0.695,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S003,P005,Flour 1kg,Staples,0.69,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S003,P006,Milk Powder 400g,Dairy,0.286,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S003,P006,Milk Powder 400g,Dairy,0.327,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S003,P006,Milk Powder 400g,Dairy,0.087,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S003,P006,Milk Powder 400g,Dairy,0.1,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S003,P006,Milk Powder 400g,Dairy,0.114,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S003,P006,Milk Powder 400g,Dairy,0.131,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S003,P006,Milk Powder 400g,Dairy,0.149,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S003,P006,Milk Powder 400g,Dairy,0.171,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S003,P006,Milk Powder 400g,Dairy,0.154,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S003,P006,Milk Powder 400g,Dairy,0.129,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S003,P006,Milk Powder 400g,Dairy,0.135,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S003,P006,Milk Powder 400g,Dairy,0.14,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S003,P006,Milk Powder 400g,Dairy,0.144,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S003,P006,Milk Powder 400g,Dairy,0.146,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S003,P007,Milk Powder 1kg,Dairy,0.0,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S003,P007,Milk Powder 1kg,Dairy,0.0,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S003,P007,Milk Powder 1kg,Dairy,0.0,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S003,P007,Milk Powder 1kg,Dairy,0.0,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S003,P007,Milk Powder 1kg,Dairy,0.0,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S003,P007,Milk Powder 1kg,Dairy,0.0,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S003,P007,Milk Powder 1kg,Dairy,0.0,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S003,P007,Milk Powder 1kg,Dairy,0.0,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S003,P007,Milk Powder 1kg,Dairy,0.0,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S003,P007,Milk Powder 1kg,Dairy,0.0,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S003,P007,Milk Powder 1kg,Dairy,0.0,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S003,P007,Milk Powder 1kg,Dairy,0.0,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S003,P007,Milk Powder 1kg,Dairy,0.0,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S003,P007,Milk Powder 1kg,Dairy,0.0,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S003,P008,Tea 200g,Beverages,1.857,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S003,P008,Tea 200g,Beverages,1.551,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S003,P008,Tea 200g,Beverages,1.773,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S003,P008,Tea 200g,Beverages,2.026,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S003,P008,Tea 200g,Beverages,2.315,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S003,P008,Tea 200g,Beverages,1.789,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S003,P008,Tea 200g,Beverages,1.616,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S003,P008,Tea 200g,Beverages,1.847,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S003,P008,Tea 200g,Beverages,1.845,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S003,P008,Tea 200g,Beverages,1.887,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S003,P008,Tea 200g,Beverages,1.904,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S003,P008,Tea 200g,Beverages,1.886,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S003,P008,Tea 200g,Beverages,1.825,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S003,P008,Tea 200g,Beverages,1.83,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S003,P009,Coffee 100g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S003,P009,Coffee 100g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S003,P009,Coffee 100g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S003,P009,Coffee 100g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S003,P009,Coffee 100g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S003,P009,Coffee 100g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S003,P009,Coffee 100g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S003,P009,Coffee 100g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S003,P009,Coffee 100g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S003,P009,Coffee 100g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S003,P009,Coffee 100g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S003,P009,Coffee 100g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S003,P009,Coffee 100g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S003,P009,Coffee 100g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S003,P010,Biscuits Pack,Snacks,0.0,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S003,P010,Biscuits Pack,Snacks,0.0,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S003,P010,Biscuits Pack,Snacks,0.0,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S003,P010,Biscuits Pack,Snacks,0.0,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S003,P010,Biscuits Pack,Snacks,0.0,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S003,P010,Biscuits Pack,Snacks,0.0,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S003,P010,Biscuits Pack,Snacks,0.0,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S003,P010,Biscuits Pack,Snacks,0.0,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S003,P010,Biscuits Pack,Snacks,0.0,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S003,P010,Biscuits Pack,Snacks,0.0,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S003,P010,Biscuits Pack,Snacks,0.0,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S003,P010,Biscuits Pack,Snacks,0.0,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S003,P010,Biscuits Pack,Snacks,0.0,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S003,P010,Biscuits Pack,Snacks,0.0,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S003,P011,Noodles Pack,Convenience,0.143,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S003,P011,Noodles Pack,Convenience,0.163,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S003,P011,Noodles Pack,Convenience,0.187,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S003,P011,Noodles Pack,Convenience,0.07,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S003,P011,Noodles Pack,Convenience,0.08,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S003,P011,Noodles Pack,Convenience,0.092,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S003,P011,Noodles Pack,Convenience,0.105,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S003,P011,Noodles Pack,Convenience,0.12,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S003,P011,Noodles Pack,Convenience,0.117,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S003,P011,Noodles Pack,Convenience,0.11,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S003,P011,Noodles Pack,Convenience,0.099,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S003,P011,Noodles Pack,Convenience,0.103,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S003,P011,Noodles Pack,Convenience,0.107,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S003,P011,Noodles Pack,Convenience,0.109,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S003,P012,Canned Fish,Canned Goods,0.429,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S003,P012,Canned Fish,Canned Goods,0.49,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S003,P012,Canned Fish,Canned Goods,0.56,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S003,P012,Canned Fish,Canned Goods,0.64,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S003,P012,Canned Fish,Canned Goods,0.731,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S003,P012,Canned Fish,Canned Goods,0.836,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S003,P012,Canned Fish,Canned Goods,0.526,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S003,P012,Canned Fish,Canned Goods,0.602,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S003,P012,Canned Fish,Canned Goods,0.626,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S003,P012,Canned Fish,Canned Goods,0.646,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S003,P012,Canned Fish,Canned Goods,0.658,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S003,P012,Canned Fish,Canned Goods,0.661,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S003,P012,Canned Fish,Canned Goods,0.651,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S003,P012,Canned Fish,Canned Goods,0.624,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S003,P013,Coconut Milk,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S003,P013,Coconut Milk,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S003,P013,Coconut Milk,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S003,P013,Coconut Milk,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S003,P013,Coconut Milk,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S003,P013,Coconut Milk,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S003,P013,Coconut Milk,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S003,P013,Coconut Milk,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S003,P013,Coconut Milk,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S003,P013,Coconut Milk,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S003,P013,Coconut Milk,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S003,P013,Coconut Milk,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S003,P013,Coconut Milk,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S003,P013,Coconut Milk,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S003,P014,Cooking Oil 1L,Staples,1.0,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S003,P014,Cooking Oil 1L,Staples,0.429,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S003,P014,Cooking Oil 1L,Staples,0.204,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S003,P014,Cooking Oil 1L,Staples,0.233,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S003,P014,Cooking Oil 1L,Staples,0.267,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S003,P014,Cooking Oil 1L,Staples,0.305,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S003,P014,Cooking Oil 1L,Staples,0.348,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S003,P014,Cooking Oil 1L,Staples,0.398,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S003,P014,Cooking Oil 1L,Staples,0.312,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S003,P014,Cooking Oil 1L,Staples,0.295,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S003,P014,Cooking Oil 1L,Staples,0.308,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S003,P014,Cooking Oil 1L,Staples,0.319,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S003,P014,Cooking Oil 1L,Staples,0.326,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S003,P014,Cooking Oil 1L,Staples,0.33,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S003,P015,Cooking Oil 5L,Staples,1.286,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S003,P015,Cooking Oil 5L,Staples,0.898,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S003,P015,Cooking Oil 5L,Staples,1.026,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S003,P015,Cooking Oil 5L,Staples,1.173,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S003,P015,Cooking Oil 5L,Staples,1.34,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S003,P015,Cooking Oil 5L,Staples,1.532,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S003,P015,Cooking Oil 5L,Staples,1.751,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S003,P015,Cooking Oil 5L,Staples,1.287,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S003,P015,Cooking Oil 5L,Staples,1.287,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S003,P015,Cooking Oil 5L,Staples,1.342,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S003,P015,Cooking Oil 5L,Staples,1.387,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S003,P015,Cooking Oil 5L,Staples,1.418,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S003,P015,Cooking Oil 5L,Staples,1.429,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S003,P015,Cooking Oil 5L,Staples,1.414,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S003,P016,Soap Bar,Personal Care,0.571,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S003,P016,Soap Bar,Personal Care,0.082,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S003,P016,Soap Bar,Personal Care,0.093,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S003,P016,Soap Bar,Personal Care,0.107,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S003,P016,Soap Bar,Personal Care,0.122,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S003,P016,Soap Bar,Personal Care,0.139,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S003,P016,Soap Bar,Personal Care,0.159,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S003,P016,Soap Bar,Personal Care,0.182,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S003,P016,Soap Bar,Personal Care,0.126,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S003,P016,Soap Bar,Personal Care,0.133,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S003,P016,Soap Bar,Personal Care,0.138,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S003,P016,Soap Bar,Personal Care,0.143,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S003,P016,Soap Bar,Personal Care,0.146,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S003,P016,Soap Bar,Personal Care,0.147,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S003,P017,Shampoo 180ml,Personal Care,0.286,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S003,P017,Shampoo 180ml,Personal Care,0.327,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S003,P017,Shampoo 180ml,Personal Care,0.373,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S003,P017,Shampoo 180ml,Personal Care,0.141,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S003,P017,Shampoo 180ml,Personal Care,0.161,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S003,P017,Shampoo 180ml,Personal Care,0.184,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S003,P017,Shampoo 180ml,Personal Care,0.21,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S003,P017,Shampoo 180ml,Personal Care,0.24,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S003,P017,Shampoo 180ml,Personal Care,0.234,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S003,P017,Shampoo 180ml,Personal Care,0.22,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S003,P017,Shampoo 180ml,Personal Care,0.199,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S003,P017,Shampoo 180ml,Personal Care,0.207,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S003,P017,Shampoo 180ml,Personal Care,0.213,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S003,P017,Shampoo 180ml,Personal Care,0.218,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S003,P018,Toothpaste 120g,Personal Care,1.286,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S003,P018,Toothpaste 120g,Personal Care,1.327,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S003,P018,Toothpaste 120g,Personal Care,0.945,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S003,P018,Toothpaste 120g,Personal Care,1.08,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S003,P018,Toothpaste 120g,Personal Care,1.234,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S003,P018,Toothpaste 120g,Personal Care,1.267,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S003,P018,Toothpaste 120g,Personal Care,1.448,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S003,P018,Toothpaste 120g,Personal Care,1.227,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S003,P018,Toothpaste 120g,Personal Care,1.218,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S003,P018,Toothpaste 120g,Personal Care,1.203,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S003,P018,Toothpaste 120g,Personal Care,1.239,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S003,P018,Toothpaste 120g,Personal Care,1.262,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S003,P018,Toothpaste 120g,Personal Care,1.266,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S003,P018,Toothpaste 120g,Personal Care,1.266,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S003,P019,Detergent 1kg,Household,0.286,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S003,P019,Detergent 1kg,Household,0.327,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S003,P019,Detergent 1kg,Household,0.373,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S003,P019,Detergent 1kg,Household,0.141,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S003,P019,Detergent 1kg,Household,0.161,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S003,P019,Detergent 1kg,Household,0.184,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S003,P019,Detergent 1kg,Household,0.21,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S003,P019,Detergent 1kg,Household,0.24,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S003,P019,Detergent 1kg,Household,0.234,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S003,P019,Detergent 1kg,Household,0.22,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S003,P019,Detergent 1kg,Household,0.199,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S003,P019,Detergent 1kg,Household,0.207,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S003,P019,Detergent 1kg,Household,0.213,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S003,P019,Detergent 1kg,Household,0.218,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S003,P020,Dishwash Liquid,Household,0.0,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S003,P020,Dishwash Liquid,Household,0.0,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S003,P020,Dishwash Liquid,Household,0.0,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S003,P020,Dishwash Liquid,Household,0.0,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S003,P020,Dishwash Liquid,Household,0.0,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S003,P020,Dishwash Liquid,Household,0.0,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S003,P020,Dishwash Liquid,Household,0.0,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S003,P020,Dishwash Liquid,Household,0.0,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S003,P020,Dishwash Liquid,Household,0.0,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S003,P020,Dishwash Liquid,Household,0.0,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S003,P020,Dishwash Liquid,Household,0.0,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S003,P020,Dishwash Liquid,Household,0.0,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S003,P020,Dishwash Liquid,Household,0.0,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S003,P020,Dishwash Liquid,Household,0.0,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S003,P021,Soft Drink 1.5L,Beverages,0.714,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S003,P021,Soft Drink 1.5L,Beverages,0.816,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S003,P021,Soft Drink 1.5L,Beverages,0.504,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S003,P021,Soft Drink 1.5L,Beverages,0.576,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S003,P021,Soft Drink 1.5L,Beverages,0.373,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S003,P021,Soft Drink 1.5L,Beverages,0.426,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S003,P021,Soft Drink 1.5L,Beverages,0.487,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S003,P021,Soft Drink 1.5L,Beverages,0.557,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S003,P021,Soft Drink 1.5L,Beverages,0.534,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S003,P021,Soft Drink 1.5L,Beverages,0.494,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S003,P021,Soft Drink 1.5L,Beverages,0.493,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S003,P021,Soft Drink 1.5L,Beverages,0.481,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S003,P021,Soft Drink 1.5L,Beverages,0.496,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S003,P021,Soft Drink 1.5L,Beverages,0.506,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S003,P022,Bottled Water 1.5L,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S003,P022,Bottled Water 1.5L,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S003,P022,Bottled Water 1.5L,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S003,P022,Bottled Water 1.5L,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S003,P022,Bottled Water 1.5L,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S003,P022,Bottled Water 1.5L,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S003,P022,Bottled Water 1.5L,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S003,P022,Bottled Water 1.5L,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S003,P022,Bottled Water 1.5L,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S003,P022,Bottled Water 1.5L,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S003,P022,Bottled Water 1.5L,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S003,P022,Bottled Water 1.5L,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S003,P022,Bottled Water 1.5L,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S003,P022,Bottled Water 1.5L,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S003,P023,Fruit Juice 1L,Beverages,1.0,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S003,P023,Fruit Juice 1L,Beverages,0.714,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S003,P023,Fruit Juice 1L,Beverages,0.816,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S003,P023,Fruit Juice 1L,Beverages,0.933,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S003,P023,Fruit Juice 1L,Beverages,1.066,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S003,P023,Fruit Juice 1L,Beverages,1.219,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S003,P023,Fruit Juice 1L,Beverages,1.393,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S003,P023,Fruit Juice 1L,Beverages,1.02,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S003,P023,Fruit Juice 1L,Beverages,1.023,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S003,P023,Fruit Juice 1L,Beverages,1.067,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S003,P023,Fruit Juice 1L,Beverages,1.103,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S003,P023,Fruit Juice 1L,Beverages,1.127,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S003,P023,Fruit Juice 1L,Beverages,1.136,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S003,P023,Fruit Juice 1L,Beverages,1.124,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S003,P024,Yoghurt Cup,Dairy,1.0,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S003,P024,Yoghurt Cup,Dairy,1.143,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S003,P024,Yoghurt Cup,Dairy,1.306,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S003,P024,Yoghurt Cup,Dairy,1.493,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S003,P024,Yoghurt Cup,Dairy,1.42,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S003,P024,Yoghurt Cup,Dairy,1.623,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S003,P024,Yoghurt Cup,Dairy,1.141,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S003,P024,Yoghurt Cup,Dairy,1.304,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S003,P024,Yoghurt Cup,Dairy,1.347,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S003,P024,Yoghurt Cup,Dairy,1.376,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S003,P024,Yoghurt Cup,Dairy,1.386,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S003,P024,Yoghurt Cup,Dairy,1.371,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S003,P024,Yoghurt Cup,Dairy,1.364,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S003,P024,Yoghurt Cup,Dairy,1.327,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S003,P025,Cheese Pack,Dairy,1.143,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S003,P025,Cheese Pack,Dairy,0.878,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S003,P025,Cheese Pack,Dairy,1.003,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S003,P025,Cheese Pack,Dairy,0.432,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S003,P025,Cheese Pack,Dairy,0.494,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S003,P025,Cheese Pack,Dairy,0.564,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S003,P025,Cheese Pack,Dairy,0.645,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S003,P025,Cheese Pack,Dairy,0.737,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S003,P025,Cheese Pack,Dairy,0.679,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S003,P025,Cheese Pack,Dairy,0.65,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S003,P025,Cheese Pack,Dairy,0.6,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S003,P025,Cheese Pack,Dairy,0.624,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S003,P025,Cheese Pack,Dairy,0.643,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S003,P025,Cheese Pack,Dairy,0.654,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S003,P026,Eggs 10 Pack,Fresh Food,2.0,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S003,P026,Eggs 10 Pack,Fresh Food,1.571,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S003,P026,Eggs 10 Pack,Fresh Food,1.796,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S003,P026,Eggs 10 Pack,Fresh Food,2.052,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S003,P026,Eggs 10 Pack,Fresh Food,2.06,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S003,P026,Eggs 10 Pack,Fresh Food,1.783,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S003,P026,Eggs 10 Pack,Fresh Food,2.038,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S003,P026,Eggs 10 Pack,Fresh Food,1.9,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S003,P026,Eggs 10 Pack,Fresh Food,1.886,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S003,P026,Eggs 10 Pack,Fresh Food,1.931,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S003,P026,Eggs 10 Pack,Fresh Food,1.95,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S003,P026,Eggs 10 Pack,Fresh Food,1.935,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S003,P026,Eggs 10 Pack,Fresh Food,1.917,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S003,P026,Eggs 10 Pack,Fresh Food,1.937,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S003,P027,Chicken 1kg,Fresh Food,0.286,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S003,P027,Chicken 1kg,Fresh Food,0.041,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S003,P027,Chicken 1kg,Fresh Food,0.047,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S003,P027,Chicken 1kg,Fresh Food,0.053,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S003,P027,Chicken 1kg,Fresh Food,0.061,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S003,P027,Chicken 1kg,Fresh Food,0.07,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S003,P027,Chicken 1kg,Fresh Food,0.08,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S003,P027,Chicken 1kg,Fresh Food,0.091,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S003,P027,Chicken 1kg,Fresh Food,0.063,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S003,P027,Chicken 1kg,Fresh Food,0.066,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S003,P027,Chicken 1kg,Fresh Food,0.069,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S003,P027,Chicken 1kg,Fresh Food,0.071,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S003,P027,Chicken 1kg,Fresh Food,0.073,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S003,P027,Chicken 1kg,Fresh Food,0.073,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S003,P028,Frozen Fish 1kg,Frozen Food,0.143,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S003,P028,Frozen Fish 1kg,Frozen Food,0.163,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S003,P028,Frozen Fish 1kg,Frozen Food,0.187,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S003,P028,Frozen Fish 1kg,Frozen Food,0.213,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S003,P028,Frozen Fish 1kg,Frozen Food,0.244,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S003,P028,Frozen Fish 1kg,Frozen Food,0.279,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S003,P028,Frozen Fish 1kg,Frozen Food,0.318,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S003,P028,Frozen Fish 1kg,Frozen Food,0.221,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S003,P028,Frozen Fish 1kg,Frozen Food,0.232,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S003,P028,Frozen Fish 1kg,Frozen Food,0.242,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S003,P028,Frozen Fish 1kg,Frozen Food,0.25,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S003,P028,Frozen Fish 1kg,Frozen Food,0.255,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S003,P028,Frozen Fish 1kg,Frozen Food,0.257,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S003,P028,Frozen Fish 1kg,Frozen Food,0.254,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S003,P029,Onions 1kg,Fresh Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S003,P029,Onions 1kg,Fresh Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S003,P029,Onions 1kg,Fresh Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S003,P029,Onions 1kg,Fresh Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S003,P029,Onions 1kg,Fresh Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S003,P029,Onions 1kg,Fresh Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S003,P029,Onions 1kg,Fresh Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S003,P029,Onions 1kg,Fresh Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S003,P029,Onions 1kg,Fresh Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S003,P029,Onions 1kg,Fresh Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S003,P029,Onions 1kg,Fresh Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S003,P029,Onions 1kg,Fresh Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S003,P029,Onions 1kg,Fresh Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S003,P029,Onions 1kg,Fresh Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S003,P030,Potatoes 1kg,Fresh Food,1.286,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S003,P030,Potatoes 1kg,Fresh Food,1.327,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S003,P030,Potatoes 1kg,Fresh Food,0.802,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S003,P030,Potatoes 1kg,Fresh Food,0.916,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S003,P030,Potatoes 1kg,Fresh Food,1.047,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S003,P030,Potatoes 1kg,Fresh Food,0.768,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S003,P030,Potatoes 1kg,Fresh Food,0.878,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S003,P030,Potatoes 1kg,Fresh Food,1.003,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S003,P030,Potatoes 1kg,Fresh Food,0.963,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S003,P030,Potatoes 1kg,Fresh Food,0.911,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S003,P030,Potatoes 1kg,Fresh Food,0.927,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S003,P030,Potatoes 1kg,Fresh Food,0.928,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S003,P030,Potatoes 1kg,Fresh Food,0.911,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S003,P030,Potatoes 1kg,Fresh Food,0.932,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S004,P001,Rice 5kg,Staples,1.143,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S004,P001,Rice 5kg,Staples,0.735,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S004,P001,Rice 5kg,Staples,0.84,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S004,P001,Rice 5kg,Staples,0.96,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S004,P001,Rice 5kg,Staples,1.097,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S004,P001,Rice 5kg,Staples,0.682,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S004,P001,Rice 5kg,Staples,0.779,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S004,P001,Rice 5kg,Staples,0.891,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S004,P001,Rice 5kg,Staples,0.855,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S004,P001,Rice 5kg,Staples,0.872,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S004,P001,Rice 5kg,Staples,0.876,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S004,P001,Rice 5kg,Staples,0.864,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S004,P001,Rice 5kg,Staples,0.831,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S004,P001,Rice 5kg,Staples,0.853,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S004,P002,Rice 10kg,Staples,1.857,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S004,P002,Rice 10kg,Staples,1.694,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S004,P002,Rice 10kg,Staples,1.507,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S004,P002,Rice 10kg,Staples,1.723,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S004,P002,Rice 10kg,Staples,1.397,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S004,P002,Rice 10kg,Staples,1.597,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S004,P002,Rice 10kg,Staples,1.825,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S004,P002,Rice 10kg,Staples,1.657,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S004,P002,Rice 10kg,Staples,1.629,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S004,P002,Rice 10kg,Staples,1.619,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S004,P002,Rice 10kg,Staples,1.635,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S004,P002,Rice 10kg,Staples,1.623,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S004,P002,Rice 10kg,Staples,1.655,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S004,P002,Rice 10kg,Staples,1.663,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S004,P003,Dhal 1kg,Staples,0.286,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S004,P003,Dhal 1kg,Staples,0.327,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S004,P003,Dhal 1kg,Staples,0.373,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S004,P003,Dhal 1kg,Staples,0.426,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S004,P003,Dhal 1kg,Staples,0.487,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S004,P003,Dhal 1kg,Staples,0.271,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S004,P003,Dhal 1kg,Staples,0.31,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S004,P003,Dhal 1kg,Staples,0.354,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S004,P003,Dhal 1kg,Staples,0.364,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S004,P003,Dhal 1kg,Staples,0.37,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S004,P003,Dhal 1kg,Staples,0.369,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S004,P003,Dhal 1kg,Staples,0.361,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S004,P003,Dhal 1kg,Staples,0.343,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S004,P003,Dhal 1kg,Staples,0.353,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S004,P004,Sugar 1kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S004,P004,Sugar 1kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S004,P004,Sugar 1kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S004,P004,Sugar 1kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S004,P004,Sugar 1kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S004,P004,Sugar 1kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S004,P004,Sugar 1kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S004,P004,Sugar 1kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S004,P004,Sugar 1kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S004,P004,Sugar 1kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S004,P004,Sugar 1kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S004,P004,Sugar 1kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S004,P004,Sugar 1kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S004,P004,Sugar 1kg,Staples,0.0,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S004,P005,Flour 1kg,Staples,1.429,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S004,P005,Flour 1kg,Staples,1.347,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S004,P005,Flour 1kg,Staples,1.539,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S004,P005,Flour 1kg,Staples,1.759,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S004,P005,Flour 1kg,Staples,2.011,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S004,P005,Flour 1kg,Staples,2.012,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S004,P005,Flour 1kg,Staples,1.442,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S004,P005,Flour 1kg,Staples,1.648,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S004,P005,Flour 1kg,Staples,1.68,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S004,P005,Flour 1kg,Staples,1.727,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S004,P005,Flour 1kg,Staples,1.754,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S004,P005,Flour 1kg,Staples,1.754,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S004,P005,Flour 1kg,Staples,1.717,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S004,P005,Flour 1kg,Staples,1.675,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S004,P006,Milk Powder 400g,Dairy,1.714,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S004,P006,Milk Powder 400g,Dairy,1.959,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S004,P006,Milk Powder 400g,Dairy,2.239,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S004,P006,Milk Powder 400g,Dairy,1.988,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S004,P006,Milk Powder 400g,Dairy,1.557,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S004,P006,Milk Powder 400g,Dairy,1.78,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S004,P006,Milk Powder 400g,Dairy,2.034,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S004,P006,Milk Powder 400g,Dairy,1.896,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S004,P006,Milk Powder 400g,Dairy,1.922,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S004,P006,Milk Powder 400g,Dairy,1.916,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S004,P006,Milk Powder 400g,Dairy,1.87,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S004,P006,Milk Powder 400g,Dairy,1.854,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S004,P006,Milk Powder 400g,Dairy,1.896,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S004,P006,Milk Powder 400g,Dairy,1.912,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S004,P007,Milk Powder 1kg,Dairy,0.571,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S004,P007,Milk Powder 1kg,Dairy,0.653,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S004,P007,Milk Powder 1kg,Dairy,0.318,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S004,P007,Milk Powder 1kg,Dairy,0.363,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S004,P007,Milk Powder 1kg,Dairy,0.415,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S004,P007,Milk Powder 1kg,Dairy,0.474,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S004,P007,Milk Powder 1kg,Dairy,0.542,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S004,P007,Milk Powder 1kg,Dairy,0.477,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S004,P007,Milk Powder 1kg,Dairy,0.463,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S004,P007,Milk Powder 1kg,Dairy,0.436,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S004,P007,Milk Powder 1kg,Dairy,0.453,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S004,P007,Milk Powder 1kg,Dairy,0.466,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S004,P007,Milk Powder 1kg,Dairy,0.473,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S004,P007,Milk Powder 1kg,Dairy,0.473,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S004,P008,Tea 200g,Beverages,2.286,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S004,P008,Tea 200g,Beverages,2.612,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S004,P008,Tea 200g,Beverages,2.557,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S004,P008,Tea 200g,Beverages,2.922,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S004,P008,Tea 200g,Beverages,3.34,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S004,P008,Tea 200g,Beverages,3.817,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S004,P008,Tea 200g,Beverages,4.362,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S004,P008,Tea 200g,Beverages,3.128,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S004,P008,Tea 200g,Beverages,3.248,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S004,P008,Tea 200g,Beverages,3.339,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S004,P008,Tea 200g,Beverages,3.451,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S004,P008,Tea 200g,Beverages,3.526,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S004,P008,Tea 200g,Beverages,3.553,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S004,P008,Tea 200g,Beverages,3.515,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S004,P009,Coffee 100g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S004,P009,Coffee 100g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S004,P009,Coffee 100g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S004,P009,Coffee 100g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S004,P009,Coffee 100g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S004,P009,Coffee 100g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S004,P009,Coffee 100g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S004,P009,Coffee 100g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S004,P009,Coffee 100g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S004,P009,Coffee 100g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S004,P009,Coffee 100g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S004,P009,Coffee 100g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S004,P009,Coffee 100g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S004,P009,Coffee 100g,Beverages,0.0,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S004,P010,Biscuits Pack,Snacks,0.0,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S004,P010,Biscuits Pack,Snacks,0.0,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S004,P010,Biscuits Pack,Snacks,0.0,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S004,P010,Biscuits Pack,Snacks,0.0,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S004,P010,Biscuits Pack,Snacks,0.0,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S004,P010,Biscuits Pack,Snacks,0.0,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S004,P010,Biscuits Pack,Snacks,0.0,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S004,P010,Biscuits Pack,Snacks,0.0,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S004,P010,Biscuits Pack,Snacks,0.0,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S004,P010,Biscuits Pack,Snacks,0.0,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S004,P010,Biscuits Pack,Snacks,0.0,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S004,P010,Biscuits Pack,Snacks,0.0,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S004,P010,Biscuits Pack,Snacks,0.0,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S004,P010,Biscuits Pack,Snacks,0.0,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S004,P011,Noodles Pack,Convenience,0.286,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S004,P011,Noodles Pack,Convenience,0.327,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S004,P011,Noodles Pack,Convenience,0.373,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S004,P011,Noodles Pack,Convenience,0.426,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S004,P011,Noodles Pack,Convenience,0.487,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S004,P011,Noodles Pack,Convenience,0.557,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S004,P011,Noodles Pack,Convenience,0.637,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S004,P011,Noodles Pack,Convenience,0.442,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S004,P011,Noodles Pack,Convenience,0.464,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S004,P011,Noodles Pack,Convenience,0.484,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S004,P011,Noodles Pack,Convenience,0.5,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S004,P011,Noodles Pack,Convenience,0.51,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S004,P011,Noodles Pack,Convenience,0.513,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S004,P011,Noodles Pack,Convenience,0.507,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S004,P012,Canned Fish,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S004,P012,Canned Fish,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S004,P012,Canned Fish,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S004,P012,Canned Fish,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S004,P012,Canned Fish,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S004,P012,Canned Fish,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S004,P012,Canned Fish,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S004,P012,Canned Fish,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S004,P012,Canned Fish,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S004,P012,Canned Fish,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S004,P012,Canned Fish,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S004,P012,Canned Fish,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S004,P012,Canned Fish,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S004,P012,Canned Fish,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S004,P013,Coconut Milk,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S004,P013,Coconut Milk,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S004,P013,Coconut Milk,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S004,P013,Coconut Milk,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S004,P013,Coconut Milk,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S004,P013,Coconut Milk,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S004,P013,Coconut Milk,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S004,P013,Coconut Milk,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S004,P013,Coconut Milk,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S004,P013,Coconut Milk,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S004,P013,Coconut Milk,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S004,P013,Coconut Milk,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S004,P013,Coconut Milk,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S004,P013,Coconut Milk,Canned Goods,0.0,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S004,P014,Cooking Oil 1L,Staples,1.143,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S004,P014,Cooking Oil 1L,Staples,0.878,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S004,P014,Cooking Oil 1L,Staples,0.717,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S004,P014,Cooking Oil 1L,Staples,0.82,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S004,P014,Cooking Oil 1L,Staples,0.508,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S004,P014,Cooking Oil 1L,Staples,0.581,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S004,P014,Cooking Oil 1L,Staples,0.664,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S004,P014,Cooking Oil 1L,Staples,0.759,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S004,P014,Cooking Oil 1L,Staples,0.704,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S004,P014,Cooking Oil 1L,Staples,0.679,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S004,P014,Cooking Oil 1L,Staples,0.673,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S004,P014,Cooking Oil 1L,Staples,0.652,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S004,P014,Cooking Oil 1L,Staples,0.673,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S004,P014,Cooking Oil 1L,Staples,0.686,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S004,P015,Cooking Oil 5L,Staples,0.857,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S004,P015,Cooking Oil 5L,Staples,0.98,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S004,P015,Cooking Oil 5L,Staples,1.12,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S004,P015,Cooking Oil 5L,Staples,0.994,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S004,P015,Cooking Oil 5L,Staples,1.136,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S004,P015,Cooking Oil 5L,Staples,0.869,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S004,P015,Cooking Oil 5L,Staples,0.851,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S004,P015,Cooking Oil 5L,Staples,0.972,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S004,P015,Cooking Oil 5L,Staples,0.989,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S004,P015,Cooking Oil 5L,Staples,0.99,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S004,P015,Cooking Oil 5L,Staples,0.972,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S004,P015,Cooking Oil 5L,Staples,0.968,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S004,P015,Cooking Oil 5L,Staples,0.944,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S004,P015,Cooking Oil 5L,Staples,0.955,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S004,P016,Soap Bar,Personal Care,0.286,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S004,P016,Soap Bar,Personal Care,0.327,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S004,P016,Soap Bar,Personal Care,0.373,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S004,P016,Soap Bar,Personal Care,0.284,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S004,P016,Soap Bar,Personal Care,0.181,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S004,P016,Soap Bar,Personal Care,0.207,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S004,P016,Soap Bar,Personal Care,0.237,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S004,P016,Soap Bar,Personal Care,0.271,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S004,P016,Soap Bar,Personal Care,0.268,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S004,P016,Soap Bar,Personal Care,0.26,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S004,P016,Soap Bar,Personal Care,0.244,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S004,P016,Soap Bar,Personal Care,0.238,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S004,P016,Soap Bar,Personal Care,0.247,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S004,P016,Soap Bar,Personal Care,0.252,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S004,P017,Shampoo 180ml,Personal Care,0.429,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S004,P017,Shampoo 180ml,Personal Care,0.49,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S004,P017,Shampoo 180ml,Personal Care,0.56,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S004,P017,Shampoo 180ml,Personal Care,0.64,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S004,P017,Shampoo 180ml,Personal Care,0.731,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S004,P017,Shampoo 180ml,Personal Care,0.836,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S004,P017,Shampoo 180ml,Personal Care,0.526,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S004,P017,Shampoo 180ml,Personal Care,0.602,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S004,P017,Shampoo 180ml,Personal Care,0.626,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S004,P017,Shampoo 180ml,Personal Care,0.646,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S004,P017,Shampoo 180ml,Personal Care,0.658,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S004,P017,Shampoo 180ml,Personal Care,0.661,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S004,P017,Shampoo 180ml,Personal Care,0.651,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S004,P017,Shampoo 180ml,Personal Care,0.624,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S004,P018,Toothpaste 120g,Personal Care,1.714,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S004,P018,Toothpaste 120g,Personal Care,1.959,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S004,P018,Toothpaste 120g,Personal Care,2.239,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S004,P018,Toothpaste 120g,Personal Care,2.273,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S004,P018,Toothpaste 120g,Personal Care,2.598,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S004,P018,Toothpaste 120g,Personal Care,1.826,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S004,P018,Toothpaste 120g,Personal Care,2.087,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S004,P018,Toothpaste 120g,Personal Care,2.1,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S004,P018,Toothpaste 120g,Personal Care,2.155,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S004,P018,Toothpaste 120g,Personal Care,2.183,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S004,P018,Toothpaste 120g,Personal Care,2.174,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S004,P018,Toothpaste 120g,Personal Care,2.16,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S004,P018,Toothpaste 120g,Personal Care,2.098,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S004,P018,Toothpaste 120g,Personal Care,2.137,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S004,P019,Detergent 1kg,Household,0.857,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S004,P019,Detergent 1kg,Household,0.837,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S004,P019,Detergent 1kg,Household,0.242,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S004,P019,Detergent 1kg,Household,0.277,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S004,P019,Detergent 1kg,Household,0.316,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S004,P019,Detergent 1kg,Household,0.361,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S004,P019,Detergent 1kg,Household,0.413,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S004,P019,Detergent 1kg,Household,0.472,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S004,P019,Detergent 1kg,Household,0.417,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S004,P019,Detergent 1kg,Household,0.357,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S004,P019,Detergent 1kg,Household,0.373,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S004,P019,Detergent 1kg,Household,0.387,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S004,P019,Detergent 1kg,Household,0.397,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S004,P019,Detergent 1kg,Household,0.402,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S004,P020,Dishwash Liquid,Household,0.0,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S004,P020,Dishwash Liquid,Household,0.0,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S004,P020,Dishwash Liquid,Household,0.0,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S004,P020,Dishwash Liquid,Household,0.0,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S004,P020,Dishwash Liquid,Household,0.0,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S004,P020,Dishwash Liquid,Household,0.0,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S004,P020,Dishwash Liquid,Household,0.0,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S004,P020,Dishwash Liquid,Household,0.0,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S004,P020,Dishwash Liquid,Household,0.0,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S004,P020,Dishwash Liquid,Household,0.0,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S004,P020,Dishwash Liquid,Household,0.0,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S004,P020,Dishwash Liquid,Household,0.0,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S004,P020,Dishwash Liquid,Household,0.0,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S004,P020,Dishwash Liquid,Household,0.0,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S004,P021,Soft Drink 1.5L,Beverages,1.714,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S004,P021,Soft Drink 1.5L,Beverages,1.531,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S004,P021,Soft Drink 1.5L,Beverages,1.749,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S004,P021,Soft Drink 1.5L,Beverages,1.142,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S004,P021,Soft Drink 1.5L,Beverages,1.305,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S004,P021,Soft Drink 1.5L,Beverages,1.492,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S004,P021,Soft Drink 1.5L,Beverages,1.705,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S004,P021,Soft Drink 1.5L,Beverages,1.52,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S004,P021,Soft Drink 1.5L,Beverages,1.492,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S004,P021,Soft Drink 1.5L,Beverages,1.486,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S004,P021,Soft Drink 1.5L,Beverages,1.449,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S004,P021,Soft Drink 1.5L,Beverages,1.493,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S004,P021,Soft Drink 1.5L,Beverages,1.519,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S004,P021,Soft Drink 1.5L,Beverages,1.523,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S004,P022,Bottled Water 1.5L,Beverages,0.857,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S004,P022,Bottled Water 1.5L,Beverages,0.98,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S004,P022,Bottled Water 1.5L,Beverages,0.691,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S004,P022,Bottled Water 1.5L,Beverages,0.504,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S004,P022,Bottled Water 1.5L,Beverages,0.576,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S004,P022,Bottled Water 1.5L,Beverages,0.515,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S004,P022,Bottled Water 1.5L,Beverages,0.589,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S004,P022,Bottled Water 1.5L,Beverages,0.673,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S004,P022,Bottled Water 1.5L,Beverages,0.647,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S004,P022,Bottled Water 1.5L,Beverages,0.599,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S004,P022,Bottled Water 1.5L,Beverages,0.586,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S004,P022,Bottled Water 1.5L,Beverages,0.598,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S004,P022,Bottled Water 1.5L,Beverages,0.601,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S004,P022,Bottled Water 1.5L,Beverages,0.613,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S004,P023,Fruit Juice 1L,Beverages,1.714,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S004,P023,Fruit Juice 1L,Beverages,1.959,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S004,P023,Fruit Juice 1L,Beverages,2.239,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S004,P023,Fruit Juice 1L,Beverages,2.559,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S004,P023,Fruit Juice 1L,Beverages,1.782,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S004,P023,Fruit Juice 1L,Beverages,2.036,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S004,P023,Fruit Juice 1L,Beverages,2.327,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S004,P023,Fruit Juice 1L,Beverages,2.088,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S004,P023,Fruit Juice 1L,Beverages,2.141,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S004,P023,Fruit Juice 1L,Beverages,2.167,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S004,P023,Fruit Juice 1L,Beverages,2.157,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S004,P023,Fruit Juice 1L,Beverages,2.1,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S004,P023,Fruit Juice 1L,Beverages,2.145,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S004,P023,Fruit Juice 1L,Beverages,2.161,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S004,P024,Yoghurt Cup,Dairy,0.571,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S004,P024,Yoghurt Cup,Dairy,0.51,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S004,P024,Yoghurt Cup,Dairy,0.583,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S004,P024,Yoghurt Cup,Dairy,0.666,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S004,P024,Yoghurt Cup,Dairy,0.333,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S004,P024,Yoghurt Cup,Dairy,0.381,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S004,P024,Yoghurt Cup,Dairy,0.435,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S004,P024,Yoghurt Cup,Dairy,0.497,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S004,P024,Yoghurt Cup,Dairy,0.486,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S004,P024,Yoghurt Cup,Dairy,0.483,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S004,P024,Yoghurt Cup,Dairy,0.469,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S004,P024,Yoghurt Cup,Dairy,0.441,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S004,P024,Yoghurt Cup,Dairy,0.456,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S004,P024,Yoghurt Cup,Dairy,0.467,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S004,P025,Cheese Pack,Dairy,0.286,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S004,P025,Cheese Pack,Dairy,0.327,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S004,P025,Cheese Pack,Dairy,0.373,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S004,P025,Cheese Pack,Dairy,0.141,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S004,P025,Cheese Pack,Dairy,0.161,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S004,P025,Cheese Pack,Dairy,0.184,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S004,P025,Cheese Pack,Dairy,0.21,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S004,P025,Cheese Pack,Dairy,0.24,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S004,P025,Cheese Pack,Dairy,0.234,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S004,P025,Cheese Pack,Dairy,0.22,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S004,P025,Cheese Pack,Dairy,0.199,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S004,P025,Cheese Pack,Dairy,0.207,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S004,P025,Cheese Pack,Dairy,0.213,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S004,P025,Cheese Pack,Dairy,0.218,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S004,P026,Eggs 10 Pack,Fresh Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S004,P026,Eggs 10 Pack,Fresh Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S004,P026,Eggs 10 Pack,Fresh Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S004,P026,Eggs 10 Pack,Fresh Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S004,P026,Eggs 10 Pack,Fresh Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S004,P026,Eggs 10 Pack,Fresh Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S004,P026,Eggs 10 Pack,Fresh Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S004,P026,Eggs 10 Pack,Fresh Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S004,P026,Eggs 10 Pack,Fresh Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S004,P026,Eggs 10 Pack,Fresh Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S004,P026,Eggs 10 Pack,Fresh Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S004,P026,Eggs 10 Pack,Fresh Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S004,P026,Eggs 10 Pack,Fresh Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S004,P026,Eggs 10 Pack,Fresh Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S004,P027,Chicken 1kg,Fresh Food,1.571,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S004,P027,Chicken 1kg,Fresh Food,1.796,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S004,P027,Chicken 1kg,Fresh Food,0.91,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S004,P027,Chicken 1kg,Fresh Food,0.611,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S004,P027,Chicken 1kg,Fresh Food,0.698,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S004,P027,Chicken 1kg,Fresh Food,0.798,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S004,P027,Chicken 1kg,Fresh Food,0.912,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S004,P027,Chicken 1kg,Fresh Food,1.042,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S004,P027,Chicken 1kg,Fresh Food,0.967,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S004,P027,Chicken 1kg,Fresh Food,0.848,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S004,P027,Chicken 1kg,Fresh Food,0.84,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S004,P027,Chicken 1kg,Fresh Food,0.872,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S004,P027,Chicken 1kg,Fresh Food,0.897,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S004,P027,Chicken 1kg,Fresh Food,0.911,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S004,P028,Frozen Fish 1kg,Frozen Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S004,P028,Frozen Fish 1kg,Frozen Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S004,P028,Frozen Fish 1kg,Frozen Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S004,P028,Frozen Fish 1kg,Frozen Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S004,P028,Frozen Fish 1kg,Frozen Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S004,P028,Frozen Fish 1kg,Frozen Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S004,P028,Frozen Fish 1kg,Frozen Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S004,P028,Frozen Fish 1kg,Frozen Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S004,P028,Frozen Fish 1kg,Frozen Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S004,P028,Frozen Fish 1kg,Frozen Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S004,P028,Frozen Fish 1kg,Frozen Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S004,P028,Frozen Fish 1kg,Frozen Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S004,P028,Frozen Fish 1kg,Frozen Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S004,P028,Frozen Fish 1kg,Frozen Food,0.0,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S004,P029,Onions 1kg,Fresh Food,0.714,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S004,P029,Onions 1kg,Fresh Food,0.531,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S004,P029,Onions 1kg,Fresh Food,0.606,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S004,P029,Onions 1kg,Fresh Food,0.693,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S004,P029,Onions 1kg,Fresh Food,0.792,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S004,P029,Onions 1kg,Fresh Food,0.905,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S004,P029,Onions 1kg,Fresh Food,0.606,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S004,P029,Onions 1kg,Fresh Food,0.693,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S004,P029,Onions 1kg,Fresh Food,0.689,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S004,P029,Onions 1kg,Fresh Food,0.712,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S004,P029,Onions 1kg,Fresh Food,0.727,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S004,P029,Onions 1kg,Fresh Food,0.732,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S004,P029,Onions 1kg,Fresh Food,0.723,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S004,P029,Onions 1kg,Fresh Food,0.698,Recursive Rolling-7
+2026-09-30,2026-10-01,1,S004,P030,Potatoes 1kg,Fresh Food,1.429,Recursive Rolling-7
+2026-09-30,2026-10-02,2,S004,P030,Potatoes 1kg,Fresh Food,1.347,Recursive Rolling-7
+2026-09-30,2026-10-03,3,S004,P030,Potatoes 1kg,Fresh Food,1.539,Recursive Rolling-7
+2026-09-30,2026-10-04,4,S004,P030,Potatoes 1kg,Fresh Food,1.759,Recursive Rolling-7
+2026-09-30,2026-10-05,5,S004,P030,Potatoes 1kg,Fresh Food,1.296,Recursive Rolling-7
+2026-09-30,2026-10-06,6,S004,P030,Potatoes 1kg,Fresh Food,1.481,Recursive Rolling-7
+2026-09-30,2026-10-07,7,S004,P030,Potatoes 1kg,Fresh Food,1.693,Recursive Rolling-7
+2026-09-30,2026-10-08,8,S004,P030,Potatoes 1kg,Fresh Food,1.506,Recursive Rolling-7
+2026-09-30,2026-10-09,9,S004,P030,Potatoes 1kg,Fresh Food,1.518,Recursive Rolling-7
+2026-09-30,2026-10-10,10,S004,P030,Potatoes 1kg,Fresh Food,1.542,Recursive Rolling-7
+2026-09-30,2026-10-11,11,S004,P030,Potatoes 1kg,Fresh Food,1.542,Recursive Rolling-7
+2026-09-30,2026-10-12,12,S004,P030,Potatoes 1kg,Fresh Food,1.511,Recursive Rolling-7
+2026-09-30,2026-10-13,13,S004,P030,Potatoes 1kg,Fresh Food,1.542,Recursive Rolling-7
+2026-09-30,2026-10-14,14,S004,P030,Potatoes 1kg,Fresh Food,1.551,Recursive Rolling-7
