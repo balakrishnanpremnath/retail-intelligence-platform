@@ -1,0 +1,121 @@
+store_id,product_id,snapshot_date,stock_on_hand,reorder_level,product_name,category,expected_demand,horizon_days,projected_net_stock,expected_coverage_gap_units,stock_signal,planning_target_units,scenario_order_units,forecast_gap_units,planning_action,planning_reason
+S003,P002,2026-09-30,7,53,Rice 10kg,Staples,10.495,14,-3.494999999999999,4,EXPECTED DEMAND GAP,64,57,4,URGENT REVIEW,Expected demand exceeds current stock.
+S002,P006,2026-09-30,5,48,Milk Powder 400g,Dairy,11.266,14,-6.266,7,EXPECTED DEMAND GAP,60,55,7,URGENT REVIEW,Expected demand exceeds current stock.
+S004,P018,2026-09-30,19,21,Toothpaste 120g,Personal Care,22.932,14,-3.931999999999999,4,EXPECTED DEMAND GAP,44,25,4,URGENT REVIEW,Expected demand exceeds current stock.
+S001,P015,2026-09-30,8,59,Cooking Oil 5L,Staples,6.176,14,1.824,0,REORDER LEVEL RISK,66,58,0,PLAN REPLENISHMENT,Additional stock may be needed to maintain the planning target.
+S004,P026,2026-09-30,19,62,Eggs 10 Pack,Fresh Food,9.314,14,9.686,0,REORDER LEVEL RISK,72,53,0,PLAN REPLENISHMENT,Additional stock may be needed to maintain the planning target.
+S001,P029,2026-09-30,17,61,Onions 1kg,Fresh Food,7.192,14,9.808,0,REORDER LEVEL RISK,69,52,0,PLAN REPLENISHMENT,Additional stock may be needed to maintain the planning target.
+S002,P021,2026-09-30,30,69,Soft Drink 1.5L,Beverages,12.685,14,17.314999999999998,0,REORDER LEVEL RISK,82,52,0,PLAN REPLENISHMENT,Additional stock may be needed to maintain the planning target.
+S004,P021,2026-09-30,34,69,Soft Drink 1.5L,Beverages,11.875,14,22.125,0,REORDER LEVEL RISK,81,47,0,PLAN REPLENISHMENT,Additional stock may be needed to maintain the planning target.
+S001,P002,2026-09-30,17,53,Rice 10kg,Staples,9.2,14,7.800000000000001,0,REORDER LEVEL RISK,63,46,0,PLAN REPLENISHMENT,Additional stock may be needed to maintain the planning target.
+S001,P008,2026-09-30,23,58,Tea 200g,Beverages,6.272,14,16.728,0,REORDER LEVEL RISK,65,42,0,PLAN REPLENISHMENT,Additional stock may be needed to maintain the planning target.
+S003,P008,2026-09-30,31,58,Tea 200g,Beverages,12.776,14,18.224,0,REORDER LEVEL RISK,71,40,0,PLAN REPLENISHMENT,Additional stock may be needed to maintain the planning target.
+S004,P004,2026-09-30,9,43,Sugar 1kg,Staples,5.482,14,3.518,0,REORDER LEVEL RISK,49,40,0,PLAN REPLENISHMENT,Additional stock may be needed to maintain the planning target.
+S002,P019,2026-09-30,9,37,Detergent 1kg,Household,5.162,14,3.838,0,REORDER LEVEL RISK,43,34,0,PLAN REPLENISHMENT,Additional stock may be needed to maintain the planning target.
+S001,P017,2026-09-30,25,50,Shampoo 180ml,Personal Care,6.972,14,18.028,0,REORDER LEVEL RISK,57,32,0,PLAN REPLENISHMENT,Additional stock may be needed to maintain the planning target.
+S003,P010,2026-09-30,26,51,Biscuits Pack,Snacks,5.85,14,20.15,0,REORDER LEVEL RISK,57,31,0,PLAN REPLENISHMENT,Additional stock may be needed to maintain the planning target.
+S004,P028,2026-09-30,6,31,Frozen Fish 1kg,Frozen Food,5.301,14,0.6989999999999998,0,REORDER LEVEL RISK,37,31,0,PLAN REPLENISHMENT,Additional stock may be needed to maintain the planning target.
+S002,P026,2026-09-30,50,62,Eggs 10 Pack,Fresh Food,10.41,14,39.59,0,REORDER LEVEL RISK,73,23,0,PLAN REPLENISHMENT,Additional stock may be needed to maintain the planning target.
+S004,P017,2026-09-30,37,50,Shampoo 180ml,Personal Care,7.384,14,29.616,0,REORDER LEVEL RISK,58,21,0,PLAN REPLENISHMENT,Additional stock may be needed to maintain the planning target.
+S001,P007,2026-09-30,8,23,Milk Powder 1kg,Dairy,4.917,14,3.083,0,REORDER LEVEL RISK,28,20,0,PLAN REPLENISHMENT,Additional stock may be needed to maintain the planning target.
+S003,P006,2026-09-30,41,48,Milk Powder 400g,Dairy,12.573,14,28.427,0,REORDER LEVEL RISK,61,20,0,PLAN REPLENISHMENT,Additional stock may be needed to maintain the planning target.
+S003,P011,2026-09-30,35,48,Noodles Pack,Convenience,6.491,14,28.509,0,REORDER LEVEL RISK,55,20,0,PLAN REPLENISHMENT,Additional stock may be needed to maintain the planning target.
+S002,P020,2026-09-30,30,41,Dishwash Liquid,Household,5.912,14,24.088,0,REORDER LEVEL RISK,47,17,0,PLAN REPLENISHMENT,Additional stock may be needed to maintain the planning target.
+S003,P026,2026-09-30,59,62,Eggs 10 Pack,Fresh Food,12.61,14,46.39,0,REORDER LEVEL RISK,75,16,0,PLAN REPLENISHMENT,Additional stock may be needed to maintain the planning target.
+S001,P012,2026-09-30,42,47,Canned Fish,Canned Goods,6.233,14,35.767,0,REORDER LEVEL RISK,54,12,0,PLAN REPLENISHMENT,Additional stock may be needed to maintain the planning target.
+S004,P008,2026-09-30,57,58,Tea 200g,Beverages,10.133,14,46.867,0,REORDER LEVEL RISK,69,12,0,PLAN REPLENISHMENT,Additional stock may be needed to maintain the planning target.
+S001,P009,2026-09-30,44,48,Coffee 100g,Beverages,6.263,14,37.737,0,REORDER LEVEL RISK,55,11,0,PLAN REPLENISHMENT,Additional stock may be needed to maintain the planning target.
+S002,P003,2026-09-30,49,52,Dhal 1kg,Staples,6.405,14,42.595,0,REORDER LEVEL RISK,59,10,0,PLAN REPLENISHMENT,Additional stock may be needed to maintain the planning target.
+S002,P028,2026-09-30,27,31,Frozen Fish 1kg,Frozen Food,5.968,14,21.032,0,REORDER LEVEL RISK,37,10,0,PLAN REPLENISHMENT,Additional stock may be needed to maintain the planning target.
+S004,P029,2026-09-30,61,61,Onions 1kg,Fresh Food,9.49,14,51.51,0,REORDER LEVEL RISK,71,10,0,PLAN REPLENISHMENT,Additional stock may be needed to maintain the planning target.
+S001,P022,2026-09-30,27,30,Bottled Water 1.5L,Beverages,5.833,14,21.167,0,REORDER LEVEL RISK,36,9,0,PLAN REPLENISHMENT,Additional stock may be needed to maintain the planning target.
+S002,P016,2026-09-30,34,35,Soap Bar,Personal Care,5.893,14,28.107,0,REORDER LEVEL RISK,41,7,0,PLAN REPLENISHMENT,Additional stock may be needed to maintain the planning target.
+S003,P022,2026-09-30,30,30,Bottled Water 1.5L,Beverages,5.325,14,24.675,0,REORDER LEVEL RISK,36,6,0,PLAN REPLENISHMENT,Additional stock may be needed to maintain the planning target.
+S001,P011,2026-09-30,52,48,Noodles Pack,Convenience,8.574,14,43.426,0,REORDER LEVEL RISK,57,5,0,PLAN REPLENISHMENT,Additional stock may be needed to maintain the planning target.
+S004,P010,2026-09-30,56,51,Biscuits Pack,Snacks,5.542,14,50.458,0,REORDER LEVEL RISK,57,1,0,PLAN REPLENISHMENT,Additional stock may be needed to maintain the planning target.
+S001,P001,2026-09-30,93,41,Rice 5kg,Staples,5.763,14,87.237,0,ADEQUATE BY POLICY,47,0,0,MONITOR,Current stock covers the planning target.
+S001,P003,2026-09-30,150,52,Dhal 1kg,Staples,7.0,14,143.0,0,ADEQUATE BY POLICY,59,0,0,MONITOR,Current stock covers the planning target.
+S001,P004,2026-09-30,139,43,Sugar 1kg,Staples,5.155,14,133.845,0,ADEQUATE BY POLICY,49,0,0,MONITOR,Current stock covers the planning target.
+S001,P005,2026-09-30,140,62,Flour 1kg,Staples,7.92,14,132.08,0,ADEQUATE BY POLICY,70,0,0,MONITOR,Current stock covers the planning target.
+S001,P006,2026-09-30,142,48,Milk Powder 400g,Dairy,11.19,14,130.81,0,ADEQUATE BY POLICY,60,0,0,MONITOR,Current stock covers the planning target.
+S001,P010,2026-09-30,144,51,Biscuits Pack,Snacks,6.805,14,137.195,0,ADEQUATE BY POLICY,58,0,0,MONITOR,Current stock covers the planning target.
+S001,P013,2026-09-30,92,24,Coconut Milk,Canned Goods,4.894,14,87.106,0,ADEQUATE BY POLICY,29,0,0,MONITOR,Current stock covers the planning target.
+S001,P014,2026-09-30,162,47,Cooking Oil 1L,Staples,8.07,14,153.93,0,ADEQUATE BY POLICY,56,0,0,MONITOR,Current stock covers the planning target.
+S001,P016,2026-09-30,93,35,Soap Bar,Personal Care,7.637,14,85.363,0,ADEQUATE BY POLICY,43,0,0,MONITOR,Current stock covers the planning target.
+S001,P018,2026-09-30,66,21,Toothpaste 120g,Personal Care,17.248,14,48.752,0,ADEQUATE BY POLICY,39,0,0,MONITOR,Current stock covers the planning target.
+S001,P019,2026-09-30,68,37,Detergent 1kg,Household,6.247,14,61.753,0,ADEQUATE BY POLICY,44,0,0,MONITOR,Current stock covers the planning target.
+S001,P020,2026-09-30,126,41,Dishwash Liquid,Household,4.984,14,121.016,0,ADEQUATE BY POLICY,46,0,0,MONITOR,Current stock covers the planning target.
+S001,P021,2026-09-30,143,69,Soft Drink 1.5L,Beverages,17.056,14,125.944,0,ADEQUATE BY POLICY,87,0,0,MONITOR,Current stock covers the planning target.
+S001,P023,2026-09-30,159,33,Fruit Juice 1L,Beverages,10.627,14,148.373,0,ADEQUATE BY POLICY,44,0,0,MONITOR,Current stock covers the planning target.
+S001,P024,2026-09-30,119,40,Yoghurt Cup,Dairy,7.363,14,111.637,0,ADEQUATE BY POLICY,48,0,0,MONITOR,Current stock covers the planning target.
+S001,P025,2026-09-30,140,69,Cheese Pack,Dairy,7.144,14,132.856,0,ADEQUATE BY POLICY,77,0,0,MONITOR,Current stock covers the planning target.
+S001,P026,2026-09-30,88,62,Eggs 10 Pack,Fresh Food,8.079,14,79.92099999999999,0,ADEQUATE BY POLICY,71,0,0,MONITOR,Current stock covers the planning target.
+S001,P027,2026-09-30,108,21,Chicken 1kg,Fresh Food,15.269,14,92.731,0,ADEQUATE BY POLICY,37,0,0,MONITOR,Current stock covers the planning target.
+S001,P028,2026-09-30,81,31,Frozen Fish 1kg,Frozen Food,8.738,14,72.262,0,ADEQUATE BY POLICY,40,0,0,MONITOR,Current stock covers the planning target.
+S001,P030,2026-09-30,30,22,Potatoes 1kg,Fresh Food,6.917,14,23.083,0,ADEQUATE BY POLICY,29,0,0,MONITOR,Current stock covers the planning target.
+S002,P001,2026-09-30,134,41,Rice 5kg,Staples,6.186,14,127.814,0,ADEQUATE BY POLICY,48,0,0,MONITOR,Current stock covers the planning target.
+S002,P002,2026-09-30,140,53,Rice 10kg,Staples,11.281,14,128.719,0,ADEQUATE BY POLICY,65,0,0,MONITOR,Current stock covers the planning target.
+S002,P004,2026-09-30,92,43,Sugar 1kg,Staples,5.33,14,86.67,0,ADEQUATE BY POLICY,49,0,0,MONITOR,Current stock covers the planning target.
+S002,P005,2026-09-30,93,62,Flour 1kg,Staples,6.562,14,86.438,0,ADEQUATE BY POLICY,69,0,0,MONITOR,Current stock covers the planning target.
+S002,P007,2026-09-30,161,23,Milk Powder 1kg,Dairy,4.95,14,156.05,0,ADEQUATE BY POLICY,28,0,0,MONITOR,Current stock covers the planning target.
+S002,P008,2026-09-30,69,58,Tea 200g,Beverages,7.907,14,61.093,0,ADEQUATE BY POLICY,66,0,0,MONITOR,Current stock covers the planning target.
+S002,P009,2026-09-30,171,48,Coffee 100g,Beverages,6.224,14,164.776,0,ADEQUATE BY POLICY,55,0,0,MONITOR,Current stock covers the planning target.
+S002,P010,2026-09-30,168,51,Biscuits Pack,Snacks,5.445,14,162.555,0,ADEQUATE BY POLICY,57,0,0,MONITOR,Current stock covers the planning target.
+S002,P011,2026-09-30,72,48,Noodles Pack,Convenience,7.313,14,64.687,0,ADEQUATE BY POLICY,56,0,0,MONITOR,Current stock covers the planning target.
+S002,P012,2026-09-30,70,47,Canned Fish,Canned Goods,6.539,14,63.461,0,ADEQUATE BY POLICY,54,0,0,MONITOR,Current stock covers the planning target.
+S002,P013,2026-09-30,67,24,Coconut Milk,Canned Goods,4.814,14,62.186,0,ADEQUATE BY POLICY,29,0,0,MONITOR,Current stock covers the planning target.
+S002,P014,2026-09-30,68,47,Cooking Oil 1L,Staples,12.838,14,55.162,0,ADEQUATE BY POLICY,60,0,0,MONITOR,Current stock covers the planning target.
+S002,P015,2026-09-30,118,59,Cooking Oil 5L,Staples,10.734,14,107.266,0,ADEQUATE BY POLICY,70,0,0,MONITOR,Current stock covers the planning target.
+S002,P017,2026-09-30,139,50,Shampoo 180ml,Personal Care,8.639,14,130.361,0,ADEQUATE BY POLICY,59,0,0,MONITOR,Current stock covers the planning target.
+S002,P018,2026-09-30,80,21,Toothpaste 120g,Personal Care,11.093,14,68.907,0,ADEQUATE BY POLICY,33,0,0,MONITOR,Current stock covers the planning target.
+S002,P022,2026-09-30,138,30,Bottled Water 1.5L,Beverages,5.5440000000000005,14,132.456,0,ADEQUATE BY POLICY,36,0,0,MONITOR,Current stock covers the planning target.
+S002,P023,2026-09-30,172,33,Fruit Juice 1L,Beverages,7.752,14,164.248,0,ADEQUATE BY POLICY,41,0,0,MONITOR,Current stock covers the planning target.
+S002,P024,2026-09-30,117,40,Yoghurt Cup,Dairy,7.821,14,109.179,0,ADEQUATE BY POLICY,48,0,0,MONITOR,Current stock covers the planning target.
+S002,P025,2026-09-30,122,69,Cheese Pack,Dairy,9.464,14,112.536,0,ADEQUATE BY POLICY,79,0,0,MONITOR,Current stock covers the planning target.
+S002,P027,2026-09-30,48,21,Chicken 1kg,Fresh Food,7.968,14,40.032,0,ADEQUATE BY POLICY,29,0,0,MONITOR,Current stock covers the planning target.
+S002,P029,2026-09-30,90,61,Onions 1kg,Fresh Food,6.617,14,83.383,0,ADEQUATE BY POLICY,68,0,0,MONITOR,Current stock covers the planning target.
+S002,P030,2026-09-30,125,22,Potatoes 1kg,Fresh Food,7.1370000000000005,14,117.863,0,ADEQUATE BY POLICY,30,0,0,MONITOR,Current stock covers the planning target.
+S003,P001,2026-09-30,155,41,Rice 5kg,Staples,6.844,14,148.156,0,ADEQUATE BY POLICY,48,0,0,MONITOR,Current stock covers the planning target.
+S003,P003,2026-09-30,98,52,Dhal 1kg,Staples,8.834,14,89.166,0,ADEQUATE BY POLICY,61,0,0,MONITOR,Current stock covers the planning target.
+S003,P004,2026-09-30,176,43,Sugar 1kg,Staples,5.4,14,170.6,0,ADEQUATE BY POLICY,49,0,0,MONITOR,Current stock covers the planning target.
+S003,P005,2026-09-30,163,62,Flour 1kg,Staples,9.055,14,153.945,0,ADEQUATE BY POLICY,72,0,0,MONITOR,Current stock covers the planning target.
+S003,P007,2026-09-30,95,23,Milk Powder 1kg,Dairy,5.403,14,89.597,0,ADEQUATE BY POLICY,29,0,0,MONITOR,Current stock covers the planning target.
+S003,P009,2026-09-30,68,48,Coffee 100g,Beverages,6.025,14,61.975,0,ADEQUATE BY POLICY,55,0,0,MONITOR,Current stock covers the planning target.
+S003,P012,2026-09-30,137,47,Canned Fish,Canned Goods,7.909,14,129.091,0,ADEQUATE BY POLICY,55,0,0,MONITOR,Current stock covers the planning target.
+S003,P013,2026-09-30,158,24,Coconut Milk,Canned Goods,4.737,14,153.263,0,ADEQUATE BY POLICY,29,0,0,MONITOR,Current stock covers the planning target.
+S003,P014,2026-09-30,174,47,Cooking Oil 1L,Staples,8.516,14,165.484,0,ADEQUATE BY POLICY,56,0,0,MONITOR,Current stock covers the planning target.
+S003,P015,2026-09-30,95,59,Cooking Oil 5L,Staples,9.63,14,85.37,0,ADEQUATE BY POLICY,69,0,0,MONITOR,Current stock covers the planning target.
+S003,P016,2026-09-30,127,35,Soap Bar,Personal Care,7.41,14,119.59,0,ADEQUATE BY POLICY,43,0,0,MONITOR,Current stock covers the planning target.
+S003,P017,2026-09-30,93,50,Shampoo 180ml,Personal Care,6.083,14,86.917,0,ADEQUATE BY POLICY,57,0,0,MONITOR,Current stock covers the planning target.
+S003,P018,2026-09-30,160,21,Toothpaste 120g,Personal Care,15.137,14,144.863,0,ADEQUATE BY POLICY,37,0,0,MONITOR,Current stock covers the planning target.
+S003,P019,2026-09-30,122,37,Detergent 1kg,Household,5.527,14,116.473,0,ADEQUATE BY POLICY,43,0,0,MONITOR,Current stock covers the planning target.
+S003,P020,2026-09-30,65,41,Dishwash Liquid,Household,4.898,14,60.102,0,ADEQUATE BY POLICY,46,0,0,MONITOR,Current stock covers the planning target.
+S003,P021,2026-09-30,138,69,Soft Drink 1.5L,Beverages,11.014,14,126.986,0,ADEQUATE BY POLICY,81,0,0,MONITOR,Current stock covers the planning target.
+S003,P023,2026-09-30,126,33,Fruit Juice 1L,Beverages,7.952,14,118.048,0,ADEQUATE BY POLICY,41,0,0,MONITOR,Current stock covers the planning target.
+S003,P024,2026-09-30,117,40,Yoghurt Cup,Dairy,9.7,14,107.3,0,ADEQUATE BY POLICY,50,0,0,MONITOR,Current stock covers the planning target.
+S003,P025,2026-09-30,139,69,Cheese Pack,Dairy,9.933,14,129.067,0,ADEQUATE BY POLICY,79,0,0,MONITOR,Current stock covers the planning target.
+S003,P027,2026-09-30,138,21,Chicken 1kg,Fresh Food,11.789,14,126.211,0,ADEQUATE BY POLICY,33,0,0,MONITOR,Current stock covers the planning target.
+S003,P028,2026-09-30,73,31,Frozen Fish 1kg,Frozen Food,5.625,14,67.375,0,ADEQUATE BY POLICY,37,0,0,MONITOR,Current stock covers the planning target.
+S003,P029,2026-09-30,107,61,Onions 1kg,Fresh Food,6.321,14,100.679,0,ADEQUATE BY POLICY,68,0,0,MONITOR,Current stock covers the planning target.
+S003,P030,2026-09-30,155,22,Potatoes 1kg,Fresh Food,9.547,14,145.453,0,ADEQUATE BY POLICY,32,0,0,MONITOR,Current stock covers the planning target.
+S004,P001,2026-09-30,127,41,Rice 5kg,Staples,9.451,14,117.549,0,ADEQUATE BY POLICY,51,0,0,MONITOR,Current stock covers the planning target.
+S004,P002,2026-09-30,73,53,Rice 10kg,Staples,13.835,14,59.165,0,ADEQUATE BY POLICY,67,0,0,MONITOR,Current stock covers the planning target.
+S004,P003,2026-09-30,74,52,Dhal 1kg,Staples,6.829,14,67.171,0,ADEQUATE BY POLICY,59,0,0,MONITOR,Current stock covers the planning target.
+S004,P005,2026-09-30,89,62,Flour 1kg,Staples,9.644,14,79.356,0,ADEQUATE BY POLICY,72,0,0,MONITOR,Current stock covers the planning target.
+S004,P006,2026-09-30,96,48,Milk Powder 400g,Dairy,11.373,14,84.627,0,ADEQUATE BY POLICY,60,0,0,MONITOR,Current stock covers the planning target.
+S004,P007,2026-09-30,153,23,Milk Powder 1kg,Dairy,5.813,14,147.187,0,ADEQUATE BY POLICY,29,0,0,MONITOR,Current stock covers the planning target.
+S004,P009,2026-09-30,119,48,Coffee 100g,Beverages,5.649,14,113.351,0,ADEQUATE BY POLICY,54,0,0,MONITOR,Current stock covers the planning target.
+S004,P011,2026-09-30,144,48,Noodles Pack,Convenience,6.156,14,137.844,0,ADEQUATE BY POLICY,55,0,0,MONITOR,Current stock covers the planning target.
+S004,P012,2026-09-30,157,47,Canned Fish,Canned Goods,6.567,14,150.433,0,ADEQUATE BY POLICY,54,0,0,MONITOR,Current stock covers the planning target.
+S004,P013,2026-09-30,55,24,Coconut Milk,Canned Goods,4.9190000000000005,14,50.081,0,ADEQUATE BY POLICY,29,0,0,MONITOR,Current stock covers the planning target.
+S004,P014,2026-09-30,78,47,Cooking Oil 1L,Staples,11.206,14,66.794,0,ADEQUATE BY POLICY,59,0,0,MONITOR,Current stock covers the planning target.
+S004,P015,2026-09-30,87,59,Cooking Oil 5L,Staples,9.135,14,77.865,0,ADEQUATE BY POLICY,69,0,0,MONITOR,Current stock covers the planning target.
+S004,P016,2026-09-30,178,35,Soap Bar,Personal Care,6.68,14,171.32,0,ADEQUATE BY POLICY,42,0,0,MONITOR,Current stock covers the planning target.
+S004,P019,2026-09-30,124,37,Detergent 1kg,Household,6.761,14,117.239,0,ADEQUATE BY POLICY,44,0,0,MONITOR,Current stock covers the planning target.
+S004,P020,2026-09-30,132,41,Dishwash Liquid,Household,5.418,14,126.582,0,ADEQUATE BY POLICY,47,0,0,MONITOR,Current stock covers the planning target.
+S004,P022,2026-09-30,149,30,Bottled Water 1.5L,Beverages,7.396,14,141.604,0,ADEQUATE BY POLICY,38,0,0,MONITOR,Current stock covers the planning target.
+S004,P023,2026-09-30,70,33,Fruit Juice 1L,Beverages,8.59,14,61.41,0,ADEQUATE BY POLICY,42,0,0,MONITOR,Current stock covers the planning target.
+S004,P024,2026-09-30,115,40,Yoghurt Cup,Dairy,6.819,14,108.181,0,ADEQUATE BY POLICY,47,0,0,MONITOR,Current stock covers the planning target.
+S004,P025,2026-09-30,104,69,Cheese Pack,Dairy,6.634,14,97.366,0,ADEQUATE BY POLICY,76,0,0,MONITOR,Current stock covers the planning target.
+S004,P027,2026-09-30,178,21,Chicken 1kg,Fresh Food,14.964,14,163.036,0,ADEQUATE BY POLICY,36,0,0,MONITOR,Current stock covers the planning target.
+S004,P030,2026-09-30,147,22,Potatoes 1kg,Fresh Food,8.552,14,138.448,0,ADEQUATE BY POLICY,31,0,0,MONITOR,Current stock covers the planning target.
