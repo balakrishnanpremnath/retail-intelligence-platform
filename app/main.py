@@ -174,14 +174,23 @@ elif page == "Sales Analytics":
         metric,
         chart_style
     )
+
 elif page == "Inventory Intelligence":
     from inventory_page import render_inventory
+    from inventory_forecast_page import render_inventory_forecast_risk
 
+    # Existing inventory analytics dashboard
     render_inventory(
         get_engine,
         metric,
         chart_style
     )
+
+    st.divider()
+
+    # New forecast-based inventory risk dashboard
+    render_inventory_forecast_risk(chart_style)
+
 
 elif page == "Customer Intelligence":
     from customer_page import render_customers
