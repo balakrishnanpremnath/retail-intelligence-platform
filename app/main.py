@@ -192,13 +192,22 @@ elif page == "Customer Intelligence":
         chart_style
     )
 
+
 elif page == "Demand Forecasting":
     from demand_page import render_demand
+    from forward_forecast_page import render_forward_forecasts
 
+    # Interactive 7/14-day forecast explorer
+    render_forward_forecasts(chart_style)
+
+    st.divider()
+
+    # Existing historical model evaluation
     render_demand(
         metric,
         chart_style
     )
+
 
 else:
     st.info(
