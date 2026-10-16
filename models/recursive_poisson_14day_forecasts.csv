@@ -1,0 +1,1681 @@
+as_of_date,date,horizon_day,store_id,product_id,product_name,category,forecast_quantity,model
+2026-09-30,2026-10-01,1,S001,P001,Rice 5kg,Staples,0.37,Recursive Poisson
+2026-09-30,2026-10-01,1,S001,P002,Rice 10kg,Staples,0.716,Recursive Poisson
+2026-09-30,2026-10-01,1,S001,P003,Dhal 1kg,Staples,0.479,Recursive Poisson
+2026-09-30,2026-10-01,1,S001,P004,Sugar 1kg,Staples,0.335,Recursive Poisson
+2026-09-30,2026-10-01,1,S001,P005,Flour 1kg,Staples,0.559,Recursive Poisson
+2026-09-30,2026-10-01,1,S001,P006,Milk Powder 400g,Dairy,0.887,Recursive Poisson
+2026-09-30,2026-10-01,1,S001,P007,Milk Powder 1kg,Dairy,0.32,Recursive Poisson
+2026-09-30,2026-10-01,1,S001,P008,Tea 200g,Beverages,0.426,Recursive Poisson
+2026-09-30,2026-10-01,1,S001,P009,Coffee 100g,Beverages,0.415,Recursive Poisson
+2026-09-30,2026-10-01,1,S001,P010,Biscuits Pack,Snacks,0.444,Recursive Poisson
+2026-09-30,2026-10-01,1,S001,P011,Noodles Pack,Convenience,0.608,Recursive Poisson
+2026-09-30,2026-10-01,1,S001,P012,Canned Fish,Canned Goods,0.416,Recursive Poisson
+2026-09-30,2026-10-01,1,S001,P013,Coconut Milk,Canned Goods,0.318,Recursive Poisson
+2026-09-30,2026-10-01,1,S001,P014,Cooking Oil 1L,Staples,0.532,Recursive Poisson
+2026-09-30,2026-10-01,1,S001,P015,Cooking Oil 5L,Staples,0.425,Recursive Poisson
+2026-09-30,2026-10-01,1,S001,P016,Soap Bar,Personal Care,0.55,Recursive Poisson
+2026-09-30,2026-10-01,1,S001,P017,Shampoo 180ml,Personal Care,0.503,Recursive Poisson
+2026-09-30,2026-10-01,1,S001,P018,Toothpaste 120g,Personal Care,1.264,Recursive Poisson
+2026-09-30,2026-10-01,1,S001,P019,Detergent 1kg,Household,0.437,Recursive Poisson
+2026-09-30,2026-10-01,1,S001,P020,Dishwash Liquid,Household,0.328,Recursive Poisson
+2026-09-30,2026-10-01,1,S001,P021,Soft Drink 1.5L,Beverages,1.345,Recursive Poisson
+2026-09-30,2026-10-01,1,S001,P022,Bottled Water 1.5L,Beverages,0.388,Recursive Poisson
+2026-09-30,2026-10-01,1,S001,P023,Fruit Juice 1L,Beverages,0.712,Recursive Poisson
+2026-09-30,2026-10-01,1,S001,P024,Yoghurt Cup,Dairy,0.525,Recursive Poisson
+2026-09-30,2026-10-01,1,S001,P025,Cheese Pack,Dairy,0.468,Recursive Poisson
+2026-09-30,2026-10-01,1,S001,P026,Eggs 10 Pack,Fresh Food,0.544,Recursive Poisson
+2026-09-30,2026-10-01,1,S001,P027,Chicken 1kg,Fresh Food,1.052,Recursive Poisson
+2026-09-30,2026-10-01,1,S001,P028,Frozen Fish 1kg,Frozen Food,0.617,Recursive Poisson
+2026-09-30,2026-10-01,1,S001,P029,Onions 1kg,Fresh Food,0.547,Recursive Poisson
+2026-09-30,2026-10-01,1,S001,P030,Potatoes 1kg,Fresh Food,0.463,Recursive Poisson
+2026-09-30,2026-10-01,1,S002,P001,Rice 5kg,Staples,0.407,Recursive Poisson
+2026-09-30,2026-10-01,1,S002,P002,Rice 10kg,Staples,0.865,Recursive Poisson
+2026-09-30,2026-10-01,1,S002,P003,Dhal 1kg,Staples,0.479,Recursive Poisson
+2026-09-30,2026-10-01,1,S002,P004,Sugar 1kg,Staples,0.348,Recursive Poisson
+2026-09-30,2026-10-01,1,S002,P005,Flour 1kg,Staples,0.478,Recursive Poisson
+2026-09-30,2026-10-01,1,S002,P006,Milk Powder 400g,Dairy,0.802,Recursive Poisson
+2026-09-30,2026-10-01,1,S002,P007,Milk Powder 1kg,Dairy,0.322,Recursive Poisson
+2026-09-30,2026-10-01,1,S002,P008,Tea 200g,Beverages,0.541,Recursive Poisson
+2026-09-30,2026-10-01,1,S002,P009,Coffee 100g,Beverages,0.412,Recursive Poisson
+2026-09-30,2026-10-01,1,S002,P010,Biscuits Pack,Snacks,0.353,Recursive Poisson
+2026-09-30,2026-10-01,1,S002,P011,Noodles Pack,Convenience,0.491,Recursive Poisson
+2026-09-30,2026-10-01,1,S002,P012,Canned Fish,Canned Goods,0.486,Recursive Poisson
+2026-09-30,2026-10-01,1,S002,P013,Coconut Milk,Canned Goods,0.316,Recursive Poisson
+2026-09-30,2026-10-01,1,S002,P014,Cooking Oil 1L,Staples,0.92,Recursive Poisson
+2026-09-30,2026-10-01,1,S002,P015,Cooking Oil 5L,Staples,0.84,Recursive Poisson
+2026-09-30,2026-10-01,1,S002,P016,Soap Bar,Personal Care,0.379,Recursive Poisson
+2026-09-30,2026-10-01,1,S002,P017,Shampoo 180ml,Personal Care,0.62,Recursive Poisson
+2026-09-30,2026-10-01,1,S002,P018,Toothpaste 120g,Personal Care,0.776,Recursive Poisson
+2026-09-30,2026-10-01,1,S002,P019,Detergent 1kg,Household,0.351,Recursive Poisson
+2026-09-30,2026-10-01,1,S002,P020,Dishwash Liquid,Household,0.39,Recursive Poisson
+2026-09-30,2026-10-01,1,S002,P021,Soft Drink 1.5L,Beverages,0.876,Recursive Poisson
+2026-09-30,2026-10-01,1,S002,P022,Bottled Water 1.5L,Beverages,0.36,Recursive Poisson
+2026-09-30,2026-10-01,1,S002,P023,Fruit Juice 1L,Beverages,0.571,Recursive Poisson
+2026-09-30,2026-10-01,1,S002,P024,Yoghurt Cup,Dairy,0.531,Recursive Poisson
+2026-09-30,2026-10-01,1,S002,P025,Cheese Pack,Dairy,0.705,Recursive Poisson
+2026-09-30,2026-10-01,1,S002,P026,Eggs 10 Pack,Fresh Food,0.749,Recursive Poisson
+2026-09-30,2026-10-01,1,S002,P027,Chicken 1kg,Fresh Food,0.533,Recursive Poisson
+2026-09-30,2026-10-01,1,S002,P028,Frozen Fish 1kg,Frozen Food,0.386,Recursive Poisson
+2026-09-30,2026-10-01,1,S002,P029,Onions 1kg,Fresh Food,0.484,Recursive Poisson
+2026-09-30,2026-10-01,1,S002,P030,Potatoes 1kg,Fresh Food,0.567,Recursive Poisson
+2026-09-30,2026-10-01,1,S003,P001,Rice 5kg,Staples,0.441,Recursive Poisson
+2026-09-30,2026-10-01,1,S003,P002,Rice 10kg,Staples,0.811,Recursive Poisson
+2026-09-30,2026-10-01,1,S003,P003,Dhal 1kg,Staples,0.658,Recursive Poisson
+2026-09-30,2026-10-01,1,S003,P004,Sugar 1kg,Staples,0.352,Recursive Poisson
+2026-09-30,2026-10-01,1,S003,P005,Flour 1kg,Staples,0.735,Recursive Poisson
+2026-09-30,2026-10-01,1,S003,P006,Milk Powder 400g,Dairy,0.901,Recursive Poisson
+2026-09-30,2026-10-01,1,S003,P007,Milk Powder 1kg,Dairy,0.349,Recursive Poisson
+2026-09-30,2026-10-01,1,S003,P008,Tea 200g,Beverages,0.869,Recursive Poisson
+2026-09-30,2026-10-01,1,S003,P009,Coffee 100g,Beverages,0.441,Recursive Poisson
+2026-09-30,2026-10-01,1,S003,P010,Biscuits Pack,Snacks,0.387,Recursive Poisson
+2026-09-30,2026-10-01,1,S003,P011,Noodles Pack,Convenience,0.456,Recursive Poisson
+2026-09-30,2026-10-01,1,S003,P012,Canned Fish,Canned Goods,0.551,Recursive Poisson
+2026-09-30,2026-10-01,1,S003,P013,Coconut Milk,Canned Goods,0.309,Recursive Poisson
+2026-09-30,2026-10-01,1,S003,P014,Cooking Oil 1L,Staples,0.643,Recursive Poisson
+2026-09-30,2026-10-01,1,S003,P015,Cooking Oil 5L,Staples,0.678,Recursive Poisson
+2026-09-30,2026-10-01,1,S003,P016,Soap Bar,Personal Care,0.509,Recursive Poisson
+2026-09-30,2026-10-01,1,S003,P017,Shampoo 180ml,Personal Care,0.444,Recursive Poisson
+2026-09-30,2026-10-01,1,S003,P018,Toothpaste 120g,Personal Care,1.196,Recursive Poisson
+2026-09-30,2026-10-01,1,S003,P019,Detergent 1kg,Household,0.371,Recursive Poisson
+2026-09-30,2026-10-01,1,S003,P020,Dishwash Liquid,Household,0.319,Recursive Poisson
+2026-09-30,2026-10-01,1,S003,P021,Soft Drink 1.5L,Beverages,0.743,Recursive Poisson
+2026-09-30,2026-10-01,1,S003,P022,Bottled Water 1.5L,Beverages,0.345,Recursive Poisson
+2026-09-30,2026-10-01,1,S003,P023,Fruit Juice 1L,Beverages,0.557,Recursive Poisson
+2026-09-30,2026-10-01,1,S003,P024,Yoghurt Cup,Dairy,0.618,Recursive Poisson
+2026-09-30,2026-10-01,1,S003,P025,Cheese Pack,Dairy,0.74,Recursive Poisson
+2026-09-30,2026-10-01,1,S003,P026,Eggs 10 Pack,Fresh Food,0.933,Recursive Poisson
+2026-09-30,2026-10-01,1,S003,P027,Chicken 1kg,Fresh Food,0.816,Recursive Poisson
+2026-09-30,2026-10-01,1,S003,P028,Frozen Fish 1kg,Frozen Food,0.377,Recursive Poisson
+2026-09-30,2026-10-01,1,S003,P029,Onions 1kg,Fresh Food,0.414,Recursive Poisson
+2026-09-30,2026-10-01,1,S003,P030,Potatoes 1kg,Fresh Food,0.654,Recursive Poisson
+2026-09-30,2026-10-01,1,S004,P001,Rice 5kg,Staples,0.677,Recursive Poisson
+2026-09-30,2026-10-01,1,S004,P002,Rice 10kg,Staples,1.071,Recursive Poisson
+2026-09-30,2026-10-01,1,S004,P003,Dhal 1kg,Staples,0.477,Recursive Poisson
+2026-09-30,2026-10-01,1,S004,P004,Sugar 1kg,Staples,0.368,Recursive Poisson
+2026-09-30,2026-10-01,1,S004,P005,Flour 1kg,Staples,0.685,Recursive Poisson
+2026-09-30,2026-10-01,1,S004,P006,Milk Powder 400g,Dairy,0.879,Recursive Poisson
+2026-09-30,2026-10-01,1,S004,P007,Milk Powder 1kg,Dairy,0.384,Recursive Poisson
+2026-09-30,2026-10-01,1,S004,P008,Tea 200g,Beverages,0.696,Recursive Poisson
+2026-09-30,2026-10-01,1,S004,P009,Coffee 100g,Beverages,0.393,Recursive Poisson
+2026-09-30,2026-10-01,1,S004,P010,Biscuits Pack,Snacks,0.374,Recursive Poisson
+2026-09-30,2026-10-01,1,S004,P011,Noodles Pack,Convenience,0.445,Recursive Poisson
+2026-09-30,2026-10-01,1,S004,P012,Canned Fish,Canned Goods,0.451,Recursive Poisson
+2026-09-30,2026-10-01,1,S004,P013,Coconut Milk,Canned Goods,0.32,Recursive Poisson
+2026-09-30,2026-10-01,1,S004,P014,Cooking Oil 1L,Staples,0.826,Recursive Poisson
+2026-09-30,2026-10-01,1,S004,P015,Cooking Oil 5L,Staples,0.603,Recursive Poisson
+2026-09-30,2026-10-01,1,S004,P016,Soap Bar,Personal Care,0.453,Recursive Poisson
+2026-09-30,2026-10-01,1,S004,P017,Shampoo 180ml,Personal Care,0.496,Recursive Poisson
+2026-09-30,2026-10-01,1,S004,P018,Toothpaste 120g,Personal Care,1.74,Recursive Poisson
+2026-09-30,2026-10-01,1,S004,P019,Detergent 1kg,Household,0.489,Recursive Poisson
+2026-09-30,2026-10-01,1,S004,P020,Dishwash Liquid,Household,0.361,Recursive Poisson
+2026-09-30,2026-10-01,1,S004,P021,Soft Drink 1.5L,Beverages,0.834,Recursive Poisson
+2026-09-30,2026-10-01,1,S004,P022,Bottled Water 1.5L,Beverages,0.558,Recursive Poisson
+2026-09-30,2026-10-01,1,S004,P023,Fruit Juice 1L,Beverages,0.589,Recursive Poisson
+2026-09-30,2026-10-01,1,S004,P024,Yoghurt Cup,Dairy,0.499,Recursive Poisson
+2026-09-30,2026-10-01,1,S004,P025,Cheese Pack,Dairy,0.459,Recursive Poisson
+2026-09-30,2026-10-01,1,S004,P026,Eggs 10 Pack,Fresh Food,0.625,Recursive Poisson
+2026-09-30,2026-10-01,1,S004,P027,Chicken 1kg,Fresh Food,1.088,Recursive Poisson
+2026-09-30,2026-10-01,1,S004,P028,Frozen Fish 1kg,Frozen Food,0.385,Recursive Poisson
+2026-09-30,2026-10-01,1,S004,P029,Onions 1kg,Fresh Food,0.676,Recursive Poisson
+2026-09-30,2026-10-01,1,S004,P030,Potatoes 1kg,Fresh Food,0.57,Recursive Poisson
+2026-09-30,2026-10-02,2,S001,P001,Rice 5kg,Staples,0.381,Recursive Poisson
+2026-09-30,2026-10-02,2,S001,P002,Rice 10kg,Staples,0.745,Recursive Poisson
+2026-09-30,2026-10-02,2,S001,P003,Dhal 1kg,Staples,0.495,Recursive Poisson
+2026-09-30,2026-10-02,2,S001,P004,Sugar 1kg,Staples,0.344,Recursive Poisson
+2026-09-30,2026-10-02,2,S001,P005,Flour 1kg,Staples,0.577,Recursive Poisson
+2026-09-30,2026-10-02,2,S001,P006,Milk Powder 400g,Dairy,0.81,Recursive Poisson
+2026-09-30,2026-10-02,2,S001,P007,Milk Powder 1kg,Dairy,0.329,Recursive Poisson
+2026-09-30,2026-10-02,2,S001,P008,Tea 200g,Beverages,0.44,Recursive Poisson
+2026-09-30,2026-10-02,2,S001,P009,Coffee 100g,Beverages,0.422,Recursive Poisson
+2026-09-30,2026-10-02,2,S001,P010,Biscuits Pack,Snacks,0.45,Recursive Poisson
+2026-09-30,2026-10-02,2,S001,P011,Noodles Pack,Convenience,0.631,Recursive Poisson
+2026-09-30,2026-10-02,2,S001,P012,Canned Fish,Canned Goods,0.434,Recursive Poisson
+2026-09-30,2026-10-02,2,S001,P013,Coconut Milk,Canned Goods,0.327,Recursive Poisson
+2026-09-30,2026-10-02,2,S001,P014,Cooking Oil 1L,Staples,0.541,Recursive Poisson
+2026-09-30,2026-10-02,2,S001,P015,Cooking Oil 5L,Staples,0.438,Recursive Poisson
+2026-09-30,2026-10-02,2,S001,P016,Soap Bar,Personal Care,0.536,Recursive Poisson
+2026-09-30,2026-10-02,2,S001,P017,Shampoo 180ml,Personal Care,0.494,Recursive Poisson
+2026-09-30,2026-10-02,2,S001,P018,Toothpaste 120g,Personal Care,1.293,Recursive Poisson
+2026-09-30,2026-10-02,2,S001,P019,Detergent 1kg,Household,0.434,Recursive Poisson
+2026-09-30,2026-10-02,2,S001,P020,Dishwash Liquid,Household,0.337,Recursive Poisson
+2026-09-30,2026-10-02,2,S001,P021,Soft Drink 1.5L,Beverages,1.287,Recursive Poisson
+2026-09-30,2026-10-02,2,S001,P022,Bottled Water 1.5L,Beverages,0.4,Recursive Poisson
+2026-09-30,2026-10-02,2,S001,P023,Fruit Juice 1L,Beverages,0.771,Recursive Poisson
+2026-09-30,2026-10-02,2,S001,P024,Yoghurt Cup,Dairy,0.543,Recursive Poisson
+2026-09-30,2026-10-02,2,S001,P025,Cheese Pack,Dairy,0.521,Recursive Poisson
+2026-09-30,2026-10-02,2,S001,P026,Eggs 10 Pack,Fresh Food,0.556,Recursive Poisson
+2026-09-30,2026-10-02,2,S001,P027,Chicken 1kg,Fresh Food,1.106,Recursive Poisson
+2026-09-30,2026-10-02,2,S001,P028,Frozen Fish 1kg,Frozen Food,0.615,Recursive Poisson
+2026-09-30,2026-10-02,2,S001,P029,Onions 1kg,Fresh Food,0.567,Recursive Poisson
+2026-09-30,2026-10-02,2,S001,P030,Potatoes 1kg,Fresh Food,0.461,Recursive Poisson
+2026-09-30,2026-10-02,2,S002,P001,Rice 5kg,Staples,0.415,Recursive Poisson
+2026-09-30,2026-10-02,2,S002,P002,Rice 10kg,Staples,0.873,Recursive Poisson
+2026-09-30,2026-10-02,2,S002,P003,Dhal 1kg,Staples,0.494,Recursive Poisson
+2026-09-30,2026-10-02,2,S002,P004,Sugar 1kg,Staples,0.357,Recursive Poisson
+2026-09-30,2026-10-02,2,S002,P005,Flour 1kg,Staples,0.472,Recursive Poisson
+2026-09-30,2026-10-02,2,S002,P006,Milk Powder 400g,Dairy,0.866,Recursive Poisson
+2026-09-30,2026-10-02,2,S002,P007,Milk Powder 1kg,Dairy,0.331,Recursive Poisson
+2026-09-30,2026-10-02,2,S002,P008,Tea 200g,Beverages,0.589,Recursive Poisson
+2026-09-30,2026-10-02,2,S002,P009,Coffee 100g,Beverages,0.425,Recursive Poisson
+2026-09-30,2026-10-02,2,S002,P010,Biscuits Pack,Snacks,0.363,Recursive Poisson
+2026-09-30,2026-10-02,2,S002,P011,Noodles Pack,Convenience,0.498,Recursive Poisson
+2026-09-30,2026-10-02,2,S002,P012,Canned Fish,Canned Goods,0.48,Recursive Poisson
+2026-09-30,2026-10-02,2,S002,P013,Coconut Milk,Canned Goods,0.325,Recursive Poisson
+2026-09-30,2026-10-02,2,S002,P014,Cooking Oil 1L,Staples,0.948,Recursive Poisson
+2026-09-30,2026-10-02,2,S002,P015,Cooking Oil 5L,Staples,0.878,Recursive Poisson
+2026-09-30,2026-10-02,2,S002,P016,Soap Bar,Personal Care,0.39,Recursive Poisson
+2026-09-30,2026-10-02,2,S002,P017,Shampoo 180ml,Personal Care,0.636,Recursive Poisson
+2026-09-30,2026-10-02,2,S002,P018,Toothpaste 120g,Personal Care,0.763,Recursive Poisson
+2026-09-30,2026-10-02,2,S002,P019,Detergent 1kg,Household,0.361,Recursive Poisson
+2026-09-30,2026-10-02,2,S002,P020,Dishwash Liquid,Household,0.412,Recursive Poisson
+2026-09-30,2026-10-02,2,S002,P021,Soft Drink 1.5L,Beverages,0.885,Recursive Poisson
+2026-09-30,2026-10-02,2,S002,P022,Bottled Water 1.5L,Beverages,0.368,Recursive Poisson
+2026-09-30,2026-10-02,2,S002,P023,Fruit Juice 1L,Beverages,0.587,Recursive Poisson
+2026-09-30,2026-10-02,2,S002,P024,Yoghurt Cup,Dairy,0.526,Recursive Poisson
+2026-09-30,2026-10-02,2,S002,P025,Cheese Pack,Dairy,0.665,Recursive Poisson
+2026-09-30,2026-10-02,2,S002,P026,Eggs 10 Pack,Fresh Food,0.766,Recursive Poisson
+2026-09-30,2026-10-02,2,S002,P027,Chicken 1kg,Fresh Food,0.558,Recursive Poisson
+2026-09-30,2026-10-02,2,S002,P028,Frozen Fish 1kg,Frozen Food,0.397,Recursive Poisson
+2026-09-30,2026-10-02,2,S002,P029,Onions 1kg,Fresh Food,0.496,Recursive Poisson
+2026-09-30,2026-10-02,2,S002,P030,Potatoes 1kg,Fresh Food,0.479,Recursive Poisson
+2026-09-30,2026-10-02,2,S003,P001,Rice 5kg,Staples,0.467,Recursive Poisson
+2026-09-30,2026-10-02,2,S003,P002,Rice 10kg,Staples,0.826,Recursive Poisson
+2026-09-30,2026-10-02,2,S003,P003,Dhal 1kg,Staples,0.642,Recursive Poisson
+2026-09-30,2026-10-02,2,S003,P004,Sugar 1kg,Staples,0.362,Recursive Poisson
+2026-09-30,2026-10-02,2,S003,P005,Flour 1kg,Staples,0.682,Recursive Poisson
+2026-09-30,2026-10-02,2,S003,P006,Milk Powder 400g,Dairy,0.885,Recursive Poisson
+2026-09-30,2026-10-02,2,S003,P007,Milk Powder 1kg,Dairy,0.358,Recursive Poisson
+2026-09-30,2026-10-02,2,S003,P008,Tea 200g,Beverages,0.877,Recursive Poisson
+2026-09-30,2026-10-02,2,S003,P009,Coffee 100g,Beverages,0.45,Recursive Poisson
+2026-09-30,2026-10-02,2,S003,P010,Biscuits Pack,Snacks,0.408,Recursive Poisson
+2026-09-30,2026-10-02,2,S003,P011,Noodles Pack,Convenience,0.482,Recursive Poisson
+2026-09-30,2026-10-02,2,S003,P012,Canned Fish,Canned Goods,0.571,Recursive Poisson
+2026-09-30,2026-10-02,2,S003,P013,Coconut Milk,Canned Goods,0.318,Recursive Poisson
+2026-09-30,2026-10-02,2,S003,P014,Cooking Oil 1L,Staples,0.637,Recursive Poisson
+2026-09-30,2026-10-02,2,S003,P015,Cooking Oil 5L,Staples,0.713,Recursive Poisson
+2026-09-30,2026-10-02,2,S003,P016,Soap Bar,Personal Care,0.508,Recursive Poisson
+2026-09-30,2026-10-02,2,S003,P017,Shampoo 180ml,Personal Care,0.428,Recursive Poisson
+2026-09-30,2026-10-02,2,S003,P018,Toothpaste 120g,Personal Care,1.218,Recursive Poisson
+2026-09-30,2026-10-02,2,S003,P019,Detergent 1kg,Household,0.381,Recursive Poisson
+2026-09-30,2026-10-02,2,S003,P020,Dishwash Liquid,Household,0.328,Recursive Poisson
+2026-09-30,2026-10-02,2,S003,P021,Soft Drink 1.5L,Beverages,0.771,Recursive Poisson
+2026-09-30,2026-10-02,2,S003,P022,Bottled Water 1.5L,Beverages,0.355,Recursive Poisson
+2026-09-30,2026-10-02,2,S003,P023,Fruit Juice 1L,Beverages,0.582,Recursive Poisson
+2026-09-30,2026-10-02,2,S003,P024,Yoghurt Cup,Dairy,0.665,Recursive Poisson
+2026-09-30,2026-10-02,2,S003,P025,Cheese Pack,Dairy,0.717,Recursive Poisson
+2026-09-30,2026-10-02,2,S003,P026,Eggs 10 Pack,Fresh Food,0.935,Recursive Poisson
+2026-09-30,2026-10-02,2,S003,P027,Chicken 1kg,Fresh Food,0.858,Recursive Poisson
+2026-09-30,2026-10-02,2,S003,P028,Frozen Fish 1kg,Frozen Food,0.402,Recursive Poisson
+2026-09-30,2026-10-02,2,S003,P029,Onions 1kg,Fresh Food,0.427,Recursive Poisson
+2026-09-30,2026-10-02,2,S003,P030,Potatoes 1kg,Fresh Food,0.669,Recursive Poisson
+2026-09-30,2026-10-02,2,S004,P001,Rice 5kg,Staples,0.679,Recursive Poisson
+2026-09-30,2026-10-02,2,S004,P002,Rice 10kg,Staples,0.998,Recursive Poisson
+2026-09-30,2026-10-02,2,S004,P003,Dhal 1kg,Staples,0.493,Recursive Poisson
+2026-09-30,2026-10-02,2,S004,P004,Sugar 1kg,Staples,0.379,Recursive Poisson
+2026-09-30,2026-10-02,2,S004,P005,Flour 1kg,Staples,0.7,Recursive Poisson
+2026-09-30,2026-10-02,2,S004,P006,Milk Powder 400g,Dairy,0.908,Recursive Poisson
+2026-09-30,2026-10-02,2,S004,P007,Milk Powder 1kg,Dairy,0.394,Recursive Poisson
+2026-09-30,2026-10-02,2,S004,P008,Tea 200g,Beverages,0.719,Recursive Poisson
+2026-09-30,2026-10-02,2,S004,P009,Coffee 100g,Beverages,0.405,Recursive Poisson
+2026-09-30,2026-10-02,2,S004,P010,Biscuits Pack,Snacks,0.384,Recursive Poisson
+2026-09-30,2026-10-02,2,S004,P011,Noodles Pack,Convenience,0.459,Recursive Poisson
+2026-09-30,2026-10-02,2,S004,P012,Canned Fish,Canned Goods,0.465,Recursive Poisson
+2026-09-30,2026-10-02,2,S004,P013,Coconut Milk,Canned Goods,0.329,Recursive Poisson
+2026-09-30,2026-10-02,2,S004,P014,Cooking Oil 1L,Staples,0.869,Recursive Poisson
+2026-09-30,2026-10-02,2,S004,P015,Cooking Oil 5L,Staples,0.618,Recursive Poisson
+2026-09-30,2026-10-02,2,S004,P016,Soap Bar,Personal Care,0.457,Recursive Poisson
+2026-09-30,2026-10-02,2,S004,P017,Shampoo 180ml,Personal Care,0.513,Recursive Poisson
+2026-09-30,2026-10-02,2,S004,P018,Toothpaste 120g,Personal Care,1.92,Recursive Poisson
+2026-09-30,2026-10-02,2,S004,P019,Detergent 1kg,Household,0.497,Recursive Poisson
+2026-09-30,2026-10-02,2,S004,P020,Dishwash Liquid,Household,0.376,Recursive Poisson
+2026-09-30,2026-10-02,2,S004,P021,Soft Drink 1.5L,Beverages,0.837,Recursive Poisson
+2026-09-30,2026-10-02,2,S004,P022,Bottled Water 1.5L,Beverages,0.575,Recursive Poisson
+2026-09-30,2026-10-02,2,S004,P023,Fruit Juice 1L,Beverages,0.602,Recursive Poisson
+2026-09-30,2026-10-02,2,S004,P024,Yoghurt Cup,Dairy,0.472,Recursive Poisson
+2026-09-30,2026-10-02,2,S004,P025,Cheese Pack,Dairy,0.473,Recursive Poisson
+2026-09-30,2026-10-02,2,S004,P026,Eggs 10 Pack,Fresh Food,0.65,Recursive Poisson
+2026-09-30,2026-10-02,2,S004,P027,Chicken 1kg,Fresh Food,1.192,Recursive Poisson
+2026-09-30,2026-10-02,2,S004,P028,Frozen Fish 1kg,Frozen Food,0.397,Recursive Poisson
+2026-09-30,2026-10-02,2,S004,P029,Onions 1kg,Fresh Food,0.708,Recursive Poisson
+2026-09-30,2026-10-02,2,S004,P030,Potatoes 1kg,Fresh Food,0.579,Recursive Poisson
+2026-09-30,2026-10-03,3,S001,P001,Rice 5kg,Staples,0.423,Recursive Poisson
+2026-09-30,2026-10-03,3,S001,P002,Rice 10kg,Staples,0.834,Recursive Poisson
+2026-09-30,2026-10-03,3,S001,P003,Dhal 1kg,Staples,0.551,Recursive Poisson
+2026-09-30,2026-10-03,3,S001,P004,Sugar 1kg,Staples,0.381,Recursive Poisson
+2026-09-30,2026-10-03,3,S001,P005,Flour 1kg,Staples,0.585,Recursive Poisson
+2026-09-30,2026-10-03,3,S001,P006,Milk Powder 400g,Dairy,0.905,Recursive Poisson
+2026-09-30,2026-10-03,3,S001,P007,Milk Powder 1kg,Dairy,0.364,Recursive Poisson
+2026-09-30,2026-10-03,3,S001,P008,Tea 200g,Beverages,0.488,Recursive Poisson
+2026-09-30,2026-10-03,3,S001,P009,Coffee 100g,Beverages,0.469,Recursive Poisson
+2026-09-30,2026-10-03,3,S001,P010,Biscuits Pack,Snacks,0.5,Recursive Poisson
+2026-09-30,2026-10-03,3,S001,P011,Noodles Pack,Convenience,0.705,Recursive Poisson
+2026-09-30,2026-10-03,3,S001,P012,Canned Fish,Canned Goods,0.459,Recursive Poisson
+2026-09-30,2026-10-03,3,S001,P013,Coconut Milk,Canned Goods,0.362,Recursive Poisson
+2026-09-30,2026-10-03,3,S001,P014,Cooking Oil 1L,Staples,0.602,Recursive Poisson
+2026-09-30,2026-10-03,3,S001,P015,Cooking Oil 5L,Staples,0.486,Recursive Poisson
+2026-09-30,2026-10-03,3,S001,P016,Soap Bar,Personal Care,0.597,Recursive Poisson
+2026-09-30,2026-10-03,3,S001,P017,Shampoo 180ml,Personal Care,0.55,Recursive Poisson
+2026-09-30,2026-10-03,3,S001,P018,Toothpaste 120g,Personal Care,1.281,Recursive Poisson
+2026-09-30,2026-10-03,3,S001,P019,Detergent 1kg,Household,0.474,Recursive Poisson
+2026-09-30,2026-10-03,3,S001,P020,Dishwash Liquid,Household,0.373,Recursive Poisson
+2026-09-30,2026-10-03,3,S001,P021,Soft Drink 1.5L,Beverages,1.286,Recursive Poisson
+2026-09-30,2026-10-03,3,S001,P022,Bottled Water 1.5L,Beverages,0.443,Recursive Poisson
+2026-09-30,2026-10-03,3,S001,P023,Fruit Juice 1L,Beverages,0.852,Recursive Poisson
+2026-09-30,2026-10-03,3,S001,P024,Yoghurt Cup,Dairy,0.606,Recursive Poisson
+2026-09-30,2026-10-03,3,S001,P025,Cheese Pack,Dairy,0.534,Recursive Poisson
+2026-09-30,2026-10-03,3,S001,P026,Eggs 10 Pack,Fresh Food,0.62,Recursive Poisson
+2026-09-30,2026-10-03,3,S001,P027,Chicken 1kg,Fresh Food,1.334,Recursive Poisson
+2026-09-30,2026-10-03,3,S001,P028,Frozen Fish 1kg,Frozen Food,0.683,Recursive Poisson
+2026-09-30,2026-10-03,3,S001,P029,Onions 1kg,Fresh Food,0.564,Recursive Poisson
+2026-09-30,2026-10-03,3,S001,P030,Potatoes 1kg,Fresh Food,0.512,Recursive Poisson
+2026-09-30,2026-10-03,3,S002,P001,Rice 5kg,Staples,0.456,Recursive Poisson
+2026-09-30,2026-10-03,3,S002,P002,Rice 10kg,Staples,0.949,Recursive Poisson
+2026-09-30,2026-10-03,3,S002,P003,Dhal 1kg,Staples,0.503,Recursive Poisson
+2026-09-30,2026-10-03,3,S002,P004,Sugar 1kg,Staples,0.392,Recursive Poisson
+2026-09-30,2026-10-03,3,S002,P005,Flour 1kg,Staples,0.524,Recursive Poisson
+2026-09-30,2026-10-03,3,S002,P006,Milk Powder 400g,Dairy,0.92,Recursive Poisson
+2026-09-30,2026-10-03,3,S002,P007,Milk Powder 1kg,Dairy,0.367,Recursive Poisson
+2026-09-30,2026-10-03,3,S002,P008,Tea 200g,Beverages,0.625,Recursive Poisson
+2026-09-30,2026-10-03,3,S002,P009,Coffee 100g,Beverages,0.472,Recursive Poisson
+2026-09-30,2026-10-03,3,S002,P010,Biscuits Pack,Snacks,0.403,Recursive Poisson
+2026-09-30,2026-10-03,3,S002,P011,Noodles Pack,Convenience,0.554,Recursive Poisson
+2026-09-30,2026-10-03,3,S002,P012,Canned Fish,Canned Goods,0.499,Recursive Poisson
+2026-09-30,2026-10-03,3,S002,P013,Coconut Milk,Canned Goods,0.359,Recursive Poisson
+2026-09-30,2026-10-03,3,S002,P014,Cooking Oil 1L,Staples,1.037,Recursive Poisson
+2026-09-30,2026-10-03,3,S002,P015,Cooking Oil 5L,Staples,0.915,Recursive Poisson
+2026-09-30,2026-10-03,3,S002,P016,Soap Bar,Personal Care,0.438,Recursive Poisson
+2026-09-30,2026-10-03,3,S002,P017,Shampoo 180ml,Personal Care,0.655,Recursive Poisson
+2026-09-30,2026-10-03,3,S002,P018,Toothpaste 120g,Personal Care,0.857,Recursive Poisson
+2026-09-30,2026-10-03,3,S002,P019,Detergent 1kg,Household,0.4,Recursive Poisson
+2026-09-30,2026-10-03,3,S002,P020,Dishwash Liquid,Household,0.446,Recursive Poisson
+2026-09-30,2026-10-03,3,S002,P021,Soft Drink 1.5L,Beverages,0.952,Recursive Poisson
+2026-09-30,2026-10-03,3,S002,P022,Bottled Water 1.5L,Beverages,0.407,Recursive Poisson
+2026-09-30,2026-10-03,3,S002,P023,Fruit Juice 1L,Beverages,0.621,Recursive Poisson
+2026-09-30,2026-10-03,3,S002,P024,Yoghurt Cup,Dairy,0.585,Recursive Poisson
+2026-09-30,2026-10-03,3,S002,P025,Cheese Pack,Dairy,0.743,Recursive Poisson
+2026-09-30,2026-10-03,3,S002,P026,Eggs 10 Pack,Fresh Food,0.864,Recursive Poisson
+2026-09-30,2026-10-03,3,S002,P027,Chicken 1kg,Fresh Food,0.602,Recursive Poisson
+2026-09-30,2026-10-03,3,S002,P028,Frozen Fish 1kg,Frozen Food,0.441,Recursive Poisson
+2026-09-30,2026-10-03,3,S002,P029,Onions 1kg,Fresh Food,0.527,Recursive Poisson
+2026-09-30,2026-10-03,3,S002,P030,Potatoes 1kg,Fresh Food,0.531,Recursive Poisson
+2026-09-30,2026-10-03,3,S003,P001,Rice 5kg,Staples,0.512,Recursive Poisson
+2026-09-30,2026-10-03,3,S003,P002,Rice 10kg,Staples,0.812,Recursive Poisson
+2026-09-30,2026-10-03,3,S003,P003,Dhal 1kg,Staples,0.686,Recursive Poisson
+2026-09-30,2026-10-03,3,S003,P004,Sugar 1kg,Staples,0.401,Recursive Poisson
+2026-09-30,2026-10-03,3,S003,P005,Flour 1kg,Staples,0.773,Recursive Poisson
+2026-09-30,2026-10-03,3,S003,P006,Milk Powder 400g,Dairy,0.979,Recursive Poisson
+2026-09-30,2026-10-03,3,S003,P007,Milk Powder 1kg,Dairy,0.412,Recursive Poisson
+2026-09-30,2026-10-03,3,S003,P008,Tea 200g,Beverages,1.045,Recursive Poisson
+2026-09-30,2026-10-03,3,S003,P009,Coffee 100g,Beverages,0.5,Recursive Poisson
+2026-09-30,2026-10-03,3,S003,P010,Biscuits Pack,Snacks,0.442,Recursive Poisson
+2026-09-30,2026-10-03,3,S003,P011,Noodles Pack,Convenience,0.511,Recursive Poisson
+2026-09-30,2026-10-03,3,S003,P012,Canned Fish,Canned Goods,0.595,Recursive Poisson
+2026-09-30,2026-10-03,3,S003,P013,Coconut Milk,Canned Goods,0.351,Recursive Poisson
+2026-09-30,2026-10-03,3,S003,P014,Cooking Oil 1L,Staples,0.699,Recursive Poisson
+2026-09-30,2026-10-03,3,S003,P015,Cooking Oil 5L,Staples,0.761,Recursive Poisson
+2026-09-30,2026-10-03,3,S003,P016,Soap Bar,Personal Care,0.565,Recursive Poisson
+2026-09-30,2026-10-03,3,S003,P017,Shampoo 180ml,Personal Care,0.474,Recursive Poisson
+2026-09-30,2026-10-03,3,S003,P018,Toothpaste 120g,Personal Care,1.283,Recursive Poisson
+2026-09-30,2026-10-03,3,S003,P019,Detergent 1kg,Household,0.427,Recursive Poisson
+2026-09-30,2026-10-03,3,S003,P020,Dishwash Liquid,Household,0.363,Recursive Poisson
+2026-09-30,2026-10-03,3,S003,P021,Soft Drink 1.5L,Beverages,0.897,Recursive Poisson
+2026-09-30,2026-10-03,3,S003,P022,Bottled Water 1.5L,Beverages,0.393,Recursive Poisson
+2026-09-30,2026-10-03,3,S003,P023,Fruit Juice 1L,Beverages,0.584,Recursive Poisson
+2026-09-30,2026-10-03,3,S003,P024,Yoghurt Cup,Dairy,0.718,Recursive Poisson
+2026-09-30,2026-10-03,3,S003,P025,Cheese Pack,Dairy,0.772,Recursive Poisson
+2026-09-30,2026-10-03,3,S003,P026,Eggs 10 Pack,Fresh Food,1.013,Recursive Poisson
+2026-09-30,2026-10-03,3,S003,P027,Chicken 1kg,Fresh Food,0.942,Recursive Poisson
+2026-09-30,2026-10-03,3,S003,P028,Frozen Fish 1kg,Frozen Food,0.43,Recursive Poisson
+2026-09-30,2026-10-03,3,S003,P029,Onions 1kg,Fresh Food,0.474,Recursive Poisson
+2026-09-30,2026-10-03,3,S003,P030,Potatoes 1kg,Fresh Food,0.716,Recursive Poisson
+2026-09-30,2026-10-03,3,S004,P001,Rice 5kg,Staples,0.76,Recursive Poisson
+2026-09-30,2026-10-03,3,S004,P002,Rice 10kg,Staples,1.113,Recursive Poisson
+2026-09-30,2026-10-03,3,S004,P003,Dhal 1kg,Staples,0.548,Recursive Poisson
+2026-09-30,2026-10-03,3,S004,P004,Sugar 1kg,Staples,0.42,Recursive Poisson
+2026-09-30,2026-10-03,3,S004,P005,Flour 1kg,Staples,0.784,Recursive Poisson
+2026-09-30,2026-10-03,3,S004,P006,Milk Powder 400g,Dairy,1.031,Recursive Poisson
+2026-09-30,2026-10-03,3,S004,P007,Milk Powder 1kg,Dairy,0.425,Recursive Poisson
+2026-09-30,2026-10-03,3,S004,P008,Tea 200g,Beverages,0.785,Recursive Poisson
+2026-09-30,2026-10-03,3,S004,P009,Coffee 100g,Beverages,0.461,Recursive Poisson
+2026-09-30,2026-10-03,3,S004,P010,Biscuits Pack,Snacks,0.426,Recursive Poisson
+2026-09-30,2026-10-03,3,S004,P011,Noodles Pack,Convenience,0.51,Recursive Poisson
+2026-09-30,2026-10-03,3,S004,P012,Canned Fish,Canned Goods,0.517,Recursive Poisson
+2026-09-30,2026-10-03,3,S004,P013,Coconut Milk,Canned Goods,0.364,Recursive Poisson
+2026-09-30,2026-10-03,3,S004,P014,Cooking Oil 1L,Staples,0.866,Recursive Poisson
+2026-09-30,2026-10-03,3,S004,P015,Cooking Oil 5L,Staples,0.688,Recursive Poisson
+2026-09-30,2026-10-03,3,S004,P016,Soap Bar,Personal Care,0.507,Recursive Poisson
+2026-09-30,2026-10-03,3,S004,P017,Shampoo 180ml,Personal Care,0.571,Recursive Poisson
+2026-09-30,2026-10-03,3,S004,P018,Toothpaste 120g,Personal Care,2.179,Recursive Poisson
+2026-09-30,2026-10-03,3,S004,P019,Detergent 1kg,Household,0.529,Recursive Poisson
+2026-09-30,2026-10-03,3,S004,P020,Dishwash Liquid,Household,0.412,Recursive Poisson
+2026-09-30,2026-10-03,3,S004,P021,Soft Drink 1.5L,Beverages,0.936,Recursive Poisson
+2026-09-30,2026-10-03,3,S004,P022,Bottled Water 1.5L,Beverages,0.623,Recursive Poisson
+2026-09-30,2026-10-03,3,S004,P023,Fruit Juice 1L,Beverages,0.673,Recursive Poisson
+2026-09-30,2026-10-03,3,S004,P024,Yoghurt Cup,Dairy,0.531,Recursive Poisson
+2026-09-30,2026-10-03,3,S004,P025,Cheese Pack,Dairy,0.525,Recursive Poisson
+2026-09-30,2026-10-03,3,S004,P026,Eggs 10 Pack,Fresh Food,0.727,Recursive Poisson
+2026-09-30,2026-10-03,3,S004,P027,Chicken 1kg,Fresh Food,1.187,Recursive Poisson
+2026-09-30,2026-10-03,3,S004,P028,Frozen Fish 1kg,Frozen Food,0.384,Recursive Poisson
+2026-09-30,2026-10-03,3,S004,P029,Onions 1kg,Fresh Food,0.784,Recursive Poisson
+2026-09-30,2026-10-03,3,S004,P030,Potatoes 1kg,Fresh Food,0.646,Recursive Poisson
+2026-09-30,2026-10-04,4,S001,P001,Rice 5kg,Staples,0.436,Recursive Poisson
+2026-09-30,2026-10-04,4,S001,P002,Rice 10kg,Staples,0.794,Recursive Poisson
+2026-09-30,2026-10-04,4,S001,P003,Dhal 1kg,Staples,0.566,Recursive Poisson
+2026-09-30,2026-10-04,4,S001,P004,Sugar 1kg,Staples,0.392,Recursive Poisson
+2026-09-30,2026-10-04,4,S001,P005,Flour 1kg,Staples,0.604,Recursive Poisson
+2026-09-30,2026-10-04,4,S001,P006,Milk Powder 400g,Dairy,0.929,Recursive Poisson
+2026-09-30,2026-10-04,4,S001,P007,Milk Powder 1kg,Dairy,0.375,Recursive Poisson
+2026-09-30,2026-10-04,4,S001,P008,Tea 200g,Beverages,0.504,Recursive Poisson
+2026-09-30,2026-10-04,4,S001,P009,Coffee 100g,Beverages,0.502,Recursive Poisson
+2026-09-30,2026-10-04,4,S001,P010,Biscuits Pack,Snacks,0.516,Recursive Poisson
+2026-09-30,2026-10-04,4,S001,P011,Noodles Pack,Convenience,0.734,Recursive Poisson
+2026-09-30,2026-10-04,4,S001,P012,Canned Fish,Canned Goods,0.473,Recursive Poisson
+2026-09-30,2026-10-04,4,S001,P013,Coconut Milk,Canned Goods,0.373,Recursive Poisson
+2026-09-30,2026-10-04,4,S001,P014,Cooking Oil 1L,Staples,0.605,Recursive Poisson
+2026-09-30,2026-10-04,4,S001,P015,Cooking Oil 5L,Staples,0.469,Recursive Poisson
+2026-09-30,2026-10-04,4,S001,P016,Soap Bar,Personal Care,0.619,Recursive Poisson
+2026-09-30,2026-10-04,4,S001,P017,Shampoo 180ml,Personal Care,0.57,Recursive Poisson
+2026-09-30,2026-10-04,4,S001,P018,Toothpaste 120g,Personal Care,1.348,Recursive Poisson
+2026-09-30,2026-10-04,4,S001,P019,Detergent 1kg,Household,0.489,Recursive Poisson
+2026-09-30,2026-10-04,4,S001,P020,Dishwash Liquid,Household,0.384,Recursive Poisson
+2026-09-30,2026-10-04,4,S001,P021,Soft Drink 1.5L,Beverages,1.39,Recursive Poisson
+2026-09-30,2026-10-04,4,S001,P022,Bottled Water 1.5L,Beverages,0.457,Recursive Poisson
+2026-09-30,2026-10-04,4,S001,P023,Fruit Juice 1L,Beverages,0.835,Recursive Poisson
+2026-09-30,2026-10-04,4,S001,P024,Yoghurt Cup,Dairy,0.614,Recursive Poisson
+2026-09-30,2026-10-04,4,S001,P025,Cheese Pack,Dairy,0.532,Recursive Poisson
+2026-09-30,2026-10-04,4,S001,P026,Eggs 10 Pack,Fresh Food,0.643,Recursive Poisson
+2026-09-30,2026-10-04,4,S001,P027,Chicken 1kg,Fresh Food,1.457,Recursive Poisson
+2026-09-30,2026-10-04,4,S001,P028,Frozen Fish 1kg,Frozen Food,0.684,Recursive Poisson
+2026-09-30,2026-10-04,4,S001,P029,Onions 1kg,Fresh Food,0.546,Recursive Poisson
+2026-09-30,2026-10-04,4,S001,P030,Potatoes 1kg,Fresh Food,0.528,Recursive Poisson
+2026-09-30,2026-10-04,4,S002,P001,Rice 5kg,Staples,0.471,Recursive Poisson
+2026-09-30,2026-10-04,4,S002,P002,Rice 10kg,Staples,0.907,Recursive Poisson
+2026-09-30,2026-10-04,4,S002,P003,Dhal 1kg,Staples,0.519,Recursive Poisson
+2026-09-30,2026-10-04,4,S002,P004,Sugar 1kg,Staples,0.404,Recursive Poisson
+2026-09-30,2026-10-04,4,S002,P005,Flour 1kg,Staples,0.542,Recursive Poisson
+2026-09-30,2026-10-04,4,S002,P006,Milk Powder 400g,Dairy,0.832,Recursive Poisson
+2026-09-30,2026-10-04,4,S002,P007,Milk Powder 1kg,Dairy,0.377,Recursive Poisson
+2026-09-30,2026-10-04,4,S002,P008,Tea 200g,Beverages,0.597,Recursive Poisson
+2026-09-30,2026-10-04,4,S002,P009,Coffee 100g,Beverages,0.487,Recursive Poisson
+2026-09-30,2026-10-04,4,S002,P010,Biscuits Pack,Snacks,0.415,Recursive Poisson
+2026-09-30,2026-10-04,4,S002,P011,Noodles Pack,Convenience,0.578,Recursive Poisson
+2026-09-30,2026-10-04,4,S002,P012,Canned Fish,Canned Goods,0.512,Recursive Poisson
+2026-09-30,2026-10-04,4,S002,P013,Coconut Milk,Canned Goods,0.366,Recursive Poisson
+2026-09-30,2026-10-04,4,S002,P014,Cooking Oil 1L,Staples,1.048,Recursive Poisson
+2026-09-30,2026-10-04,4,S002,P015,Cooking Oil 5L,Staples,0.905,Recursive Poisson
+2026-09-30,2026-10-04,4,S002,P016,Soap Bar,Personal Care,0.446,Recursive Poisson
+2026-09-30,2026-10-04,4,S002,P017,Shampoo 180ml,Personal Care,0.698,Recursive Poisson
+2026-09-30,2026-10-04,4,S002,P018,Toothpaste 120g,Personal Care,0.856,Recursive Poisson
+2026-09-30,2026-10-04,4,S002,P019,Detergent 1kg,Household,0.412,Recursive Poisson
+2026-09-30,2026-10-04,4,S002,P020,Dishwash Liquid,Household,0.459,Recursive Poisson
+2026-09-30,2026-10-04,4,S002,P021,Soft Drink 1.5L,Beverages,1.05,Recursive Poisson
+2026-09-30,2026-10-04,4,S002,P022,Bottled Water 1.5L,Beverages,0.42,Recursive Poisson
+2026-09-30,2026-10-04,4,S002,P023,Fruit Juice 1L,Beverages,0.642,Recursive Poisson
+2026-09-30,2026-10-04,4,S002,P024,Yoghurt Cup,Dairy,0.607,Recursive Poisson
+2026-09-30,2026-10-04,4,S002,P025,Cheese Pack,Dairy,0.717,Recursive Poisson
+2026-09-30,2026-10-04,4,S002,P026,Eggs 10 Pack,Fresh Food,0.854,Recursive Poisson
+2026-09-30,2026-10-04,4,S002,P027,Chicken 1kg,Fresh Food,0.609,Recursive Poisson
+2026-09-30,2026-10-04,4,S002,P028,Frozen Fish 1kg,Frozen Food,0.466,Recursive Poisson
+2026-09-30,2026-10-04,4,S002,P029,Onions 1kg,Fresh Food,0.521,Recursive Poisson
+2026-09-30,2026-10-04,4,S002,P030,Potatoes 1kg,Fresh Food,0.54,Recursive Poisson
+2026-09-30,2026-10-04,4,S003,P001,Rice 5kg,Staples,0.523,Recursive Poisson
+2026-09-30,2026-10-04,4,S003,P002,Rice 10kg,Staples,0.849,Recursive Poisson
+2026-09-30,2026-10-04,4,S003,P003,Dhal 1kg,Staples,0.723,Recursive Poisson
+2026-09-30,2026-10-04,4,S003,P004,Sugar 1kg,Staples,0.412,Recursive Poisson
+2026-09-30,2026-10-04,4,S003,P005,Flour 1kg,Staples,0.711,Recursive Poisson
+2026-09-30,2026-10-04,4,S003,P006,Milk Powder 400g,Dairy,1.067,Recursive Poisson
+2026-09-30,2026-10-04,4,S003,P007,Milk Powder 1kg,Dairy,0.409,Recursive Poisson
+2026-09-30,2026-10-04,4,S003,P008,Tea 200g,Beverages,0.972,Recursive Poisson
+2026-09-30,2026-10-04,4,S003,P009,Coffee 100g,Beverages,0.516,Recursive Poisson
+2026-09-30,2026-10-04,4,S003,P010,Biscuits Pack,Snacks,0.456,Recursive Poisson
+2026-09-30,2026-10-04,4,S003,P011,Noodles Pack,Convenience,0.523,Recursive Poisson
+2026-09-30,2026-10-04,4,S003,P012,Canned Fish,Canned Goods,0.617,Recursive Poisson
+2026-09-30,2026-10-04,4,S003,P013,Coconut Milk,Canned Goods,0.362,Recursive Poisson
+2026-09-30,2026-10-04,4,S003,P014,Cooking Oil 1L,Staples,0.704,Recursive Poisson
+2026-09-30,2026-10-04,4,S003,P015,Cooking Oil 5L,Staples,0.75,Recursive Poisson
+2026-09-30,2026-10-04,4,S003,P016,Soap Bar,Personal Care,0.586,Recursive Poisson
+2026-09-30,2026-10-04,4,S003,P017,Shampoo 180ml,Personal Care,0.449,Recursive Poisson
+2026-09-30,2026-10-04,4,S003,P018,Toothpaste 120g,Personal Care,1.3,Recursive Poisson
+2026-09-30,2026-10-04,4,S003,P019,Detergent 1kg,Household,0.427,Recursive Poisson
+2026-09-30,2026-10-04,4,S003,P020,Dishwash Liquid,Household,0.373,Recursive Poisson
+2026-09-30,2026-10-04,4,S003,P021,Soft Drink 1.5L,Beverages,0.881,Recursive Poisson
+2026-09-30,2026-10-04,4,S003,P022,Bottled Water 1.5L,Beverages,0.405,Recursive Poisson
+2026-09-30,2026-10-04,4,S003,P023,Fruit Juice 1L,Beverages,0.592,Recursive Poisson
+2026-09-30,2026-10-04,4,S003,P024,Yoghurt Cup,Dairy,0.765,Recursive Poisson
+2026-09-30,2026-10-04,4,S003,P025,Cheese Pack,Dairy,0.761,Recursive Poisson
+2026-09-30,2026-10-04,4,S003,P026,Eggs 10 Pack,Fresh Food,1.011,Recursive Poisson
+2026-09-30,2026-10-04,4,S003,P027,Chicken 1kg,Fresh Food,1.051,Recursive Poisson
+2026-09-30,2026-10-04,4,S003,P028,Frozen Fish 1kg,Frozen Food,0.424,Recursive Poisson
+2026-09-30,2026-10-04,4,S003,P029,Onions 1kg,Fresh Food,0.49,Recursive Poisson
+2026-09-30,2026-10-04,4,S003,P030,Potatoes 1kg,Fresh Food,0.764,Recursive Poisson
+2026-09-30,2026-10-04,4,S004,P001,Rice 5kg,Staples,0.792,Recursive Poisson
+2026-09-30,2026-10-04,4,S004,P002,Rice 10kg,Staples,1.153,Recursive Poisson
+2026-09-30,2026-10-04,4,S004,P003,Dhal 1kg,Staples,0.582,Recursive Poisson
+2026-09-30,2026-10-04,4,S004,P004,Sugar 1kg,Staples,0.433,Recursive Poisson
+2026-09-30,2026-10-04,4,S004,P005,Flour 1kg,Staples,0.828,Recursive Poisson
+2026-09-30,2026-10-04,4,S004,P006,Milk Powder 400g,Dairy,0.959,Recursive Poisson
+2026-09-30,2026-10-04,4,S004,P007,Milk Powder 1kg,Dairy,0.45,Recursive Poisson
+2026-09-30,2026-10-04,4,S004,P008,Tea 200g,Beverages,0.819,Recursive Poisson
+2026-09-30,2026-10-04,4,S004,P009,Coffee 100g,Beverages,0.464,Recursive Poisson
+2026-09-30,2026-10-04,4,S004,P010,Biscuits Pack,Snacks,0.44,Recursive Poisson
+2026-09-30,2026-10-04,4,S004,P011,Noodles Pack,Convenience,0.482,Recursive Poisson
+2026-09-30,2026-10-04,4,S004,P012,Canned Fish,Canned Goods,0.535,Recursive Poisson
+2026-09-30,2026-10-04,4,S004,P013,Coconut Milk,Canned Goods,0.374,Recursive Poisson
+2026-09-30,2026-10-04,4,S004,P014,Cooking Oil 1L,Staples,0.902,Recursive Poisson
+2026-09-30,2026-10-04,4,S004,P015,Cooking Oil 5L,Staples,0.703,Recursive Poisson
+2026-09-30,2026-10-04,4,S004,P016,Soap Bar,Personal Care,0.518,Recursive Poisson
+2026-09-30,2026-10-04,4,S004,P017,Shampoo 180ml,Personal Care,0.592,Recursive Poisson
+2026-09-30,2026-10-04,4,S004,P018,Toothpaste 120g,Personal Care,2.118,Recursive Poisson
+2026-09-30,2026-10-04,4,S004,P019,Detergent 1kg,Household,0.547,Recursive Poisson
+2026-09-30,2026-10-04,4,S004,P020,Dishwash Liquid,Household,0.425,Recursive Poisson
+2026-09-30,2026-10-04,4,S004,P021,Soft Drink 1.5L,Beverages,0.908,Recursive Poisson
+2026-09-30,2026-10-04,4,S004,P022,Bottled Water 1.5L,Beverages,0.635,Recursive Poisson
+2026-09-30,2026-10-04,4,S004,P023,Fruit Juice 1L,Beverages,0.692,Recursive Poisson
+2026-09-30,2026-10-04,4,S004,P024,Yoghurt Cup,Dairy,0.541,Recursive Poisson
+2026-09-30,2026-10-04,4,S004,P025,Cheese Pack,Dairy,0.533,Recursive Poisson
+2026-09-30,2026-10-04,4,S004,P026,Eggs 10 Pack,Fresh Food,0.739,Recursive Poisson
+2026-09-30,2026-10-04,4,S004,P027,Chicken 1kg,Fresh Food,1.177,Recursive Poisson
+2026-09-30,2026-10-04,4,S004,P028,Frozen Fish 1kg,Frozen Food,0.395,Recursive Poisson
+2026-09-30,2026-10-04,4,S004,P029,Onions 1kg,Fresh Food,0.689,Recursive Poisson
+2026-09-30,2026-10-04,4,S004,P030,Potatoes 1kg,Fresh Food,0.667,Recursive Poisson
+2026-09-30,2026-10-05,5,S001,P001,Rice 5kg,Staples,0.372,Recursive Poisson
+2026-09-30,2026-10-05,5,S001,P002,Rice 10kg,Staples,0.559,Recursive Poisson
+2026-09-30,2026-10-05,5,S001,P003,Dhal 1kg,Staples,0.464,Recursive Poisson
+2026-09-30,2026-10-05,5,S001,P004,Sugar 1kg,Staples,0.334,Recursive Poisson
+2026-09-30,2026-10-05,5,S001,P005,Flour 1kg,Staples,0.505,Recursive Poisson
+2026-09-30,2026-10-05,5,S001,P006,Milk Powder 400g,Dairy,0.784,Recursive Poisson
+2026-09-30,2026-10-05,5,S001,P007,Milk Powder 1kg,Dairy,0.319,Recursive Poisson
+2026-09-30,2026-10-05,5,S001,P008,Tea 200g,Beverages,0.412,Recursive Poisson
+2026-09-30,2026-10-05,5,S001,P009,Coffee 100g,Beverages,0.414,Recursive Poisson
+2026-09-30,2026-10-05,5,S001,P010,Biscuits Pack,Snacks,0.476,Recursive Poisson
+2026-09-30,2026-10-05,5,S001,P011,Noodles Pack,Convenience,0.599,Recursive Poisson
+2026-09-30,2026-10-05,5,S001,P012,Canned Fish,Canned Goods,0.405,Recursive Poisson
+2026-09-30,2026-10-05,5,S001,P013,Coconut Milk,Canned Goods,0.317,Recursive Poisson
+2026-09-30,2026-10-05,5,S001,P014,Cooking Oil 1L,Staples,0.532,Recursive Poisson
+2026-09-30,2026-10-05,5,S001,P015,Cooking Oil 5L,Staples,0.397,Recursive Poisson
+2026-09-30,2026-10-05,5,S001,P016,Soap Bar,Personal Care,0.519,Recursive Poisson
+2026-09-30,2026-10-05,5,S001,P017,Shampoo 180ml,Personal Care,0.488,Recursive Poisson
+2026-09-30,2026-10-05,5,S001,P018,Toothpaste 120g,Personal Care,1.112,Recursive Poisson
+2026-09-30,2026-10-05,5,S001,P019,Detergent 1kg,Household,0.417,Recursive Poisson
+2026-09-30,2026-10-05,5,S001,P020,Dishwash Liquid,Household,0.326,Recursive Poisson
+2026-09-30,2026-10-05,5,S001,P021,Soft Drink 1.5L,Beverages,1.154,Recursive Poisson
+2026-09-30,2026-10-05,5,S001,P022,Bottled Water 1.5L,Beverages,0.389,Recursive Poisson
+2026-09-30,2026-10-05,5,S001,P023,Fruit Juice 1L,Beverages,0.722,Recursive Poisson
+2026-09-30,2026-10-05,5,S001,P024,Yoghurt Cup,Dairy,0.524,Recursive Poisson
+2026-09-30,2026-10-05,5,S001,P025,Cheese Pack,Dairy,0.456,Recursive Poisson
+2026-09-30,2026-10-05,5,S001,P026,Eggs 10 Pack,Fresh Food,0.553,Recursive Poisson
+2026-09-30,2026-10-05,5,S001,P027,Chicken 1kg,Fresh Food,1.04,Recursive Poisson
+2026-09-30,2026-10-05,5,S001,P028,Frozen Fish 1kg,Frozen Food,0.589,Recursive Poisson
+2026-09-30,2026-10-05,5,S001,P029,Onions 1kg,Fresh Food,0.479,Recursive Poisson
+2026-09-30,2026-10-05,5,S001,P030,Potatoes 1kg,Fresh Food,0.444,Recursive Poisson
+2026-09-30,2026-10-05,5,S002,P001,Rice 5kg,Staples,0.402,Recursive Poisson
+2026-09-30,2026-10-05,5,S002,P002,Rice 10kg,Staples,0.765,Recursive Poisson
+2026-09-30,2026-10-05,5,S002,P003,Dhal 1kg,Staples,0.445,Recursive Poisson
+2026-09-30,2026-10-05,5,S002,P004,Sugar 1kg,Staples,0.345,Recursive Poisson
+2026-09-30,2026-10-05,5,S002,P005,Flour 1kg,Staples,0.439,Recursive Poisson
+2026-09-30,2026-10-05,5,S002,P006,Milk Powder 400g,Dairy,0.687,Recursive Poisson
+2026-09-30,2026-10-05,5,S002,P007,Milk Powder 1kg,Dairy,0.321,Recursive Poisson
+2026-09-30,2026-10-05,5,S002,P008,Tea 200g,Beverages,0.494,Recursive Poisson
+2026-09-30,2026-10-05,5,S002,P009,Coffee 100g,Beverages,0.416,Recursive Poisson
+2026-09-30,2026-10-05,5,S002,P010,Biscuits Pack,Snacks,0.353,Recursive Poisson
+2026-09-30,2026-10-05,5,S002,P011,Noodles Pack,Convenience,0.477,Recursive Poisson
+2026-09-30,2026-10-05,5,S002,P012,Canned Fish,Canned Goods,0.419,Recursive Poisson
+2026-09-30,2026-10-05,5,S002,P013,Coconut Milk,Canned Goods,0.312,Recursive Poisson
+2026-09-30,2026-10-05,5,S002,P014,Cooking Oil 1L,Staples,0.811,Recursive Poisson
+2026-09-30,2026-10-05,5,S002,P015,Cooking Oil 5L,Staples,0.752,Recursive Poisson
+2026-09-30,2026-10-05,5,S002,P016,Soap Bar,Personal Care,0.381,Recursive Poisson
+2026-09-30,2026-10-05,5,S002,P017,Shampoo 180ml,Personal Care,0.523,Recursive Poisson
+2026-09-30,2026-10-05,5,S002,P018,Toothpaste 120g,Personal Care,0.739,Recursive Poisson
+2026-09-30,2026-10-05,5,S002,P019,Detergent 1kg,Household,0.352,Recursive Poisson
+2026-09-30,2026-10-05,5,S002,P020,Dishwash Liquid,Household,0.396,Recursive Poisson
+2026-09-30,2026-10-05,5,S002,P021,Soft Drink 1.5L,Beverages,0.87,Recursive Poisson
+2026-09-30,2026-10-05,5,S002,P022,Bottled Water 1.5L,Beverages,0.358,Recursive Poisson
+2026-09-30,2026-10-05,5,S002,P023,Fruit Juice 1L,Beverages,0.556,Recursive Poisson
+2026-09-30,2026-10-05,5,S002,P024,Yoghurt Cup,Dairy,0.521,Recursive Poisson
+2026-09-30,2026-10-05,5,S002,P025,Cheese Pack,Dairy,0.597,Recursive Poisson
+2026-09-30,2026-10-05,5,S002,P026,Eggs 10 Pack,Fresh Food,0.738,Recursive Poisson
+2026-09-30,2026-10-05,5,S002,P027,Chicken 1kg,Fresh Food,0.531,Recursive Poisson
+2026-09-30,2026-10-05,5,S002,P028,Frozen Fish 1kg,Frozen Food,0.388,Recursive Poisson
+2026-09-30,2026-10-05,5,S002,P029,Onions 1kg,Fresh Food,0.417,Recursive Poisson
+2026-09-30,2026-10-05,5,S002,P030,Potatoes 1kg,Fresh Food,0.461,Recursive Poisson
+2026-09-30,2026-10-05,5,S003,P001,Rice 5kg,Staples,0.448,Recursive Poisson
+2026-09-30,2026-10-05,5,S003,P002,Rice 10kg,Staples,0.735,Recursive Poisson
+2026-09-30,2026-10-05,5,S003,P003,Dhal 1kg,Staples,0.601,Recursive Poisson
+2026-09-30,2026-10-05,5,S003,P004,Sugar 1kg,Staples,0.348,Recursive Poisson
+2026-09-30,2026-10-05,5,S003,P005,Flour 1kg,Staples,0.572,Recursive Poisson
+2026-09-30,2026-10-05,5,S003,P006,Milk Powder 400g,Dairy,0.953,Recursive Poisson
+2026-09-30,2026-10-05,5,S003,P007,Milk Powder 1kg,Dairy,0.349,Recursive Poisson
+2026-09-30,2026-10-05,5,S003,P008,Tea 200g,Beverages,0.837,Recursive Poisson
+2026-09-30,2026-10-05,5,S003,P009,Coffee 100g,Beverages,0.394,Recursive Poisson
+2026-09-30,2026-10-05,5,S003,P010,Biscuits Pack,Snacks,0.399,Recursive Poisson
+2026-09-30,2026-10-05,5,S003,P011,Noodles Pack,Convenience,0.448,Recursive Poisson
+2026-09-30,2026-10-05,5,S003,P012,Canned Fish,Canned Goods,0.53,Recursive Poisson
+2026-09-30,2026-10-05,5,S003,P013,Coconut Milk,Canned Goods,0.308,Recursive Poisson
+2026-09-30,2026-10-05,5,S003,P014,Cooking Oil 1L,Staples,0.559,Recursive Poisson
+2026-09-30,2026-10-05,5,S003,P015,Cooking Oil 5L,Staples,0.639,Recursive Poisson
+2026-09-30,2026-10-05,5,S003,P016,Soap Bar,Personal Care,0.502,Recursive Poisson
+2026-09-30,2026-10-05,5,S003,P017,Shampoo 180ml,Personal Care,0.383,Recursive Poisson
+2026-09-30,2026-10-05,5,S003,P018,Toothpaste 120g,Personal Care,1.039,Recursive Poisson
+2026-09-30,2026-10-05,5,S003,P019,Detergent 1kg,Household,0.364,Recursive Poisson
+2026-09-30,2026-10-05,5,S003,P020,Dishwash Liquid,Household,0.318,Recursive Poisson
+2026-09-30,2026-10-05,5,S003,P021,Soft Drink 1.5L,Beverages,0.758,Recursive Poisson
+2026-09-30,2026-10-05,5,S003,P022,Bottled Water 1.5L,Beverages,0.345,Recursive Poisson
+2026-09-30,2026-10-05,5,S003,P023,Fruit Juice 1L,Beverages,0.508,Recursive Poisson
+2026-09-30,2026-10-05,5,S003,P024,Yoghurt Cup,Dairy,0.648,Recursive Poisson
+2026-09-30,2026-10-05,5,S003,P025,Cheese Pack,Dairy,0.656,Recursive Poisson
+2026-09-30,2026-10-05,5,S003,P026,Eggs 10 Pack,Fresh Food,0.858,Recursive Poisson
+2026-09-30,2026-10-05,5,S003,P027,Chicken 1kg,Fresh Food,0.863,Recursive Poisson
+2026-09-30,2026-10-05,5,S003,P028,Frozen Fish 1kg,Frozen Food,0.361,Recursive Poisson
+2026-09-30,2026-10-05,5,S003,P029,Onions 1kg,Fresh Food,0.419,Recursive Poisson
+2026-09-30,2026-10-05,5,S003,P030,Potatoes 1kg,Fresh Food,0.64,Recursive Poisson
+2026-09-30,2026-10-05,5,S004,P001,Rice 5kg,Staples,0.636,Recursive Poisson
+2026-09-30,2026-10-05,5,S004,P002,Rice 10kg,Staples,0.95,Recursive Poisson
+2026-09-30,2026-10-05,5,S004,P003,Dhal 1kg,Staples,0.433,Recursive Poisson
+2026-09-30,2026-10-05,5,S004,P004,Sugar 1kg,Staples,0.369,Recursive Poisson
+2026-09-30,2026-10-05,5,S004,P005,Flour 1kg,Staples,0.705,Recursive Poisson
+2026-09-30,2026-10-05,5,S004,P006,Milk Powder 400g,Dairy,0.796,Recursive Poisson
+2026-09-30,2026-10-05,5,S004,P007,Milk Powder 1kg,Dairy,0.374,Recursive Poisson
+2026-09-30,2026-10-05,5,S004,P008,Tea 200g,Beverages,0.676,Recursive Poisson
+2026-09-30,2026-10-05,5,S004,P009,Coffee 100g,Beverages,0.354,Recursive Poisson
+2026-09-30,2026-10-05,5,S004,P010,Biscuits Pack,Snacks,0.375,Recursive Poisson
+2026-09-30,2026-10-05,5,S004,P011,Noodles Pack,Convenience,0.412,Recursive Poisson
+2026-09-30,2026-10-05,5,S004,P012,Canned Fish,Canned Goods,0.481,Recursive Poisson
+2026-09-30,2026-10-05,5,S004,P013,Coconut Milk,Canned Goods,0.319,Recursive Poisson
+2026-09-30,2026-10-05,5,S004,P014,Cooking Oil 1L,Staples,0.727,Recursive Poisson
+2026-09-30,2026-10-05,5,S004,P015,Cooking Oil 5L,Staples,0.603,Recursive Poisson
+2026-09-30,2026-10-05,5,S004,P016,Soap Bar,Personal Care,0.44,Recursive Poisson
+2026-09-30,2026-10-05,5,S004,P017,Shampoo 180ml,Personal Care,0.508,Recursive Poisson
+2026-09-30,2026-10-05,5,S004,P018,Toothpaste 120g,Personal Care,1.755,Recursive Poisson
+2026-09-30,2026-10-05,5,S004,P019,Detergent 1kg,Household,0.487,Recursive Poisson
+2026-09-30,2026-10-05,5,S004,P020,Dishwash Liquid,Household,0.362,Recursive Poisson
+2026-09-30,2026-10-05,5,S004,P021,Soft Drink 1.5L,Beverages,0.787,Recursive Poisson
+2026-09-30,2026-10-05,5,S004,P022,Bottled Water 1.5L,Beverages,0.509,Recursive Poisson
+2026-09-30,2026-10-05,5,S004,P023,Fruit Juice 1L,Beverages,0.554,Recursive Poisson
+2026-09-30,2026-10-05,5,S004,P024,Yoghurt Cup,Dairy,0.441,Recursive Poisson
+2026-09-30,2026-10-05,5,S004,P025,Cheese Pack,Dairy,0.457,Recursive Poisson
+2026-09-30,2026-10-05,5,S004,P026,Eggs 10 Pack,Fresh Food,0.595,Recursive Poisson
+2026-09-30,2026-10-05,5,S004,P027,Chicken 1kg,Fresh Food,1.006,Recursive Poisson
+2026-09-30,2026-10-05,5,S004,P028,Frozen Fish 1kg,Frozen Food,0.337,Recursive Poisson
+2026-09-30,2026-10-05,5,S004,P029,Onions 1kg,Fresh Food,0.6,Recursive Poisson
+2026-09-30,2026-10-05,5,S004,P030,Potatoes 1kg,Fresh Food,0.548,Recursive Poisson
+2026-09-30,2026-10-06,6,S001,P001,Rice 5kg,Staples,0.383,Recursive Poisson
+2026-09-30,2026-10-06,6,S001,P002,Rice 10kg,Staples,0.579,Recursive Poisson
+2026-09-30,2026-10-06,6,S001,P003,Dhal 1kg,Staples,0.479,Recursive Poisson
+2026-09-30,2026-10-06,6,S001,P004,Sugar 1kg,Staples,0.344,Recursive Poisson
+2026-09-30,2026-10-06,6,S001,P005,Flour 1kg,Staples,0.52,Recursive Poisson
+2026-09-30,2026-10-06,6,S001,P006,Milk Powder 400g,Dairy,0.802,Recursive Poisson
+2026-09-30,2026-10-06,6,S001,P007,Milk Powder 1kg,Dairy,0.328,Recursive Poisson
+2026-09-30,2026-10-06,6,S001,P008,Tea 200g,Beverages,0.436,Recursive Poisson
+2026-09-30,2026-10-06,6,S001,P009,Coffee 100g,Beverages,0.427,Recursive Poisson
+2026-09-30,2026-10-06,6,S001,P010,Biscuits Pack,Snacks,0.456,Recursive Poisson
+2026-09-30,2026-10-06,6,S001,P011,Noodles Pack,Convenience,0.597,Recursive Poisson
+2026-09-30,2026-10-06,6,S001,P012,Canned Fish,Canned Goods,0.417,Recursive Poisson
+2026-09-30,2026-10-06,6,S001,P013,Coconut Milk,Canned Goods,0.334,Recursive Poisson
+2026-09-30,2026-10-06,6,S001,P014,Cooking Oil 1L,Staples,0.537,Recursive Poisson
+2026-09-30,2026-10-06,6,S001,P015,Cooking Oil 5L,Staples,0.404,Recursive Poisson
+2026-09-30,2026-10-06,6,S001,P016,Soap Bar,Personal Care,0.537,Recursive Poisson
+2026-09-30,2026-10-06,6,S001,P017,Shampoo 180ml,Personal Care,0.471,Recursive Poisson
+2026-09-30,2026-10-06,6,S001,P018,Toothpaste 120g,Personal Care,1.17,Recursive Poisson
+2026-09-30,2026-10-06,6,S001,P019,Detergent 1kg,Household,0.426,Recursive Poisson
+2026-09-30,2026-10-06,6,S001,P020,Dishwash Liquid,Household,0.329,Recursive Poisson
+2026-09-30,2026-10-06,6,S001,P021,Soft Drink 1.5L,Beverages,1.218,Recursive Poisson
+2026-09-30,2026-10-06,6,S001,P022,Bottled Water 1.5L,Beverages,0.394,Recursive Poisson
+2026-09-30,2026-10-06,6,S001,P023,Fruit Juice 1L,Beverages,0.719,Recursive Poisson
+2026-09-30,2026-10-06,6,S001,P024,Yoghurt Cup,Dairy,0.506,Recursive Poisson
+2026-09-30,2026-10-06,6,S001,P025,Cheese Pack,Dairy,0.47,Recursive Poisson
+2026-09-30,2026-10-06,6,S001,P026,Eggs 10 Pack,Fresh Food,0.541,Recursive Poisson
+2026-09-30,2026-10-06,6,S001,P027,Chicken 1kg,Fresh Food,1.095,Recursive Poisson
+2026-09-30,2026-10-06,6,S001,P028,Frozen Fish 1kg,Frozen Food,0.581,Recursive Poisson
+2026-09-30,2026-10-06,6,S001,P029,Onions 1kg,Fresh Food,0.483,Recursive Poisson
+2026-09-30,2026-10-06,6,S001,P030,Potatoes 1kg,Fresh Food,0.458,Recursive Poisson
+2026-09-30,2026-10-06,6,S002,P001,Rice 5kg,Staples,0.414,Recursive Poisson
+2026-09-30,2026-10-06,6,S002,P002,Rice 10kg,Staples,0.738,Recursive Poisson
+2026-09-30,2026-10-06,6,S002,P003,Dhal 1kg,Staples,0.459,Recursive Poisson
+2026-09-30,2026-10-06,6,S002,P004,Sugar 1kg,Staples,0.354,Recursive Poisson
+2026-09-30,2026-10-06,6,S002,P005,Flour 1kg,Staples,0.453,Recursive Poisson
+2026-09-30,2026-10-06,6,S002,P006,Milk Powder 400g,Dairy,0.707,Recursive Poisson
+2026-09-30,2026-10-06,6,S002,P007,Milk Powder 1kg,Dairy,0.33,Recursive Poisson
+2026-09-30,2026-10-06,6,S002,P008,Tea 200g,Beverages,0.511,Recursive Poisson
+2026-09-30,2026-10-06,6,S002,P009,Coffee 100g,Beverages,0.429,Recursive Poisson
+2026-09-30,2026-10-06,6,S002,P010,Biscuits Pack,Snacks,0.36,Recursive Poisson
+2026-09-30,2026-10-06,6,S002,P011,Noodles Pack,Convenience,0.492,Recursive Poisson
+2026-09-30,2026-10-06,6,S002,P012,Canned Fish,Canned Goods,0.432,Recursive Poisson
+2026-09-30,2026-10-06,6,S002,P013,Coconut Milk,Canned Goods,0.32,Recursive Poisson
+2026-09-30,2026-10-06,6,S002,P014,Cooking Oil 1L,Staples,0.835,Recursive Poisson
+2026-09-30,2026-10-06,6,S002,P015,Cooking Oil 5L,Staples,0.742,Recursive Poisson
+2026-09-30,2026-10-06,6,S002,P016,Soap Bar,Personal Care,0.392,Recursive Poisson
+2026-09-30,2026-10-06,6,S002,P017,Shampoo 180ml,Personal Care,0.541,Recursive Poisson
+2026-09-30,2026-10-06,6,S002,P018,Toothpaste 120g,Personal Care,0.785,Recursive Poisson
+2026-09-30,2026-10-06,6,S002,P019,Detergent 1kg,Household,0.362,Recursive Poisson
+2026-09-30,2026-10-06,6,S002,P020,Dishwash Liquid,Household,0.384,Recursive Poisson
+2026-09-30,2026-10-06,6,S002,P021,Soft Drink 1.5L,Beverages,0.932,Recursive Poisson
+2026-09-30,2026-10-06,6,S002,P022,Bottled Water 1.5L,Beverages,0.373,Recursive Poisson
+2026-09-30,2026-10-06,6,S002,P023,Fruit Juice 1L,Beverages,0.479,Recursive Poisson
+2026-09-30,2026-10-06,6,S002,P024,Yoghurt Cup,Dairy,0.539,Recursive Poisson
+2026-09-30,2026-10-06,6,S002,P025,Cheese Pack,Dairy,0.612,Recursive Poisson
+2026-09-30,2026-10-06,6,S002,P026,Eggs 10 Pack,Fresh Food,0.68,Recursive Poisson
+2026-09-30,2026-10-06,6,S002,P027,Chicken 1kg,Fresh Food,0.536,Recursive Poisson
+2026-09-30,2026-10-06,6,S002,P028,Frozen Fish 1kg,Frozen Food,0.4,Recursive Poisson
+2026-09-30,2026-10-06,6,S002,P029,Onions 1kg,Fresh Food,0.428,Recursive Poisson
+2026-09-30,2026-10-06,6,S002,P030,Potatoes 1kg,Fresh Food,0.466,Recursive Poisson
+2026-09-30,2026-10-06,6,S003,P001,Rice 5kg,Staples,0.479,Recursive Poisson
+2026-09-30,2026-10-06,6,S003,P002,Rice 10kg,Staples,0.715,Recursive Poisson
+2026-09-30,2026-10-06,6,S003,P003,Dhal 1kg,Staples,0.606,Recursive Poisson
+2026-09-30,2026-10-06,6,S003,P004,Sugar 1kg,Staples,0.358,Recursive Poisson
+2026-09-30,2026-10-06,6,S003,P005,Flour 1kg,Staples,0.593,Recursive Poisson
+2026-09-30,2026-10-06,6,S003,P006,Milk Powder 400g,Dairy,0.821,Recursive Poisson
+2026-09-30,2026-10-06,6,S003,P007,Milk Powder 1kg,Dairy,0.359,Recursive Poisson
+2026-09-30,2026-10-06,6,S003,P008,Tea 200g,Beverages,0.825,Recursive Poisson
+2026-09-30,2026-10-06,6,S003,P009,Coffee 100g,Beverages,0.406,Recursive Poisson
+2026-09-30,2026-10-06,6,S003,P010,Biscuits Pack,Snacks,0.401,Recursive Poisson
+2026-09-30,2026-10-06,6,S003,P011,Noodles Pack,Convenience,0.413,Recursive Poisson
+2026-09-30,2026-10-06,6,S003,P012,Canned Fish,Canned Goods,0.533,Recursive Poisson
+2026-09-30,2026-10-06,6,S003,P013,Coconut Milk,Canned Goods,0.316,Recursive Poisson
+2026-09-30,2026-10-06,6,S003,P014,Cooking Oil 1L,Staples,0.541,Recursive Poisson
+2026-09-30,2026-10-06,6,S003,P015,Cooking Oil 5L,Staples,0.664,Recursive Poisson
+2026-09-30,2026-10-06,6,S003,P016,Soap Bar,Personal Care,0.545,Recursive Poisson
+2026-09-30,2026-10-06,6,S003,P017,Shampoo 180ml,Personal Care,0.395,Recursive Poisson
+2026-09-30,2026-10-06,6,S003,P018,Toothpaste 120g,Personal Care,1.084,Recursive Poisson
+2026-09-30,2026-10-06,6,S003,P019,Detergent 1kg,Household,0.375,Recursive Poisson
+2026-09-30,2026-10-06,6,S003,P020,Dishwash Liquid,Household,0.327,Recursive Poisson
+2026-09-30,2026-10-06,6,S003,P021,Soft Drink 1.5L,Beverages,0.81,Recursive Poisson
+2026-09-30,2026-10-06,6,S003,P022,Bottled Water 1.5L,Beverages,0.355,Recursive Poisson
+2026-09-30,2026-10-06,6,S003,P023,Fruit Juice 1L,Beverages,0.525,Recursive Poisson
+2026-09-30,2026-10-06,6,S003,P024,Yoghurt Cup,Dairy,0.636,Recursive Poisson
+2026-09-30,2026-10-06,6,S003,P025,Cheese Pack,Dairy,0.716,Recursive Poisson
+2026-09-30,2026-10-06,6,S003,P026,Eggs 10 Pack,Fresh Food,0.866,Recursive Poisson
+2026-09-30,2026-10-06,6,S003,P027,Chicken 1kg,Fresh Food,0.891,Recursive Poisson
+2026-09-30,2026-10-06,6,S003,P028,Frozen Fish 1kg,Frozen Food,0.372,Recursive Poisson
+2026-09-30,2026-10-06,6,S003,P029,Onions 1kg,Fresh Food,0.431,Recursive Poisson
+2026-09-30,2026-10-06,6,S003,P030,Potatoes 1kg,Fresh Food,0.671,Recursive Poisson
+2026-09-30,2026-10-06,6,S004,P001,Rice 5kg,Staples,0.637,Recursive Poisson
+2026-09-30,2026-10-06,6,S004,P002,Rice 10kg,Staples,0.997,Recursive Poisson
+2026-09-30,2026-10-06,6,S004,P003,Dhal 1kg,Staples,0.439,Recursive Poisson
+2026-09-30,2026-10-06,6,S004,P004,Sugar 1kg,Staples,0.38,Recursive Poisson
+2026-09-30,2026-10-06,6,S004,P005,Flour 1kg,Staples,0.663,Recursive Poisson
+2026-09-30,2026-10-06,6,S004,P006,Milk Powder 400g,Dairy,0.759,Recursive Poisson
+2026-09-30,2026-10-06,6,S004,P007,Milk Powder 1kg,Dairy,0.385,Recursive Poisson
+2026-09-30,2026-10-06,6,S004,P008,Tea 200g,Beverages,0.704,Recursive Poisson
+2026-09-30,2026-10-06,6,S004,P009,Coffee 100g,Beverages,0.364,Recursive Poisson
+2026-09-30,2026-10-06,6,S004,P010,Biscuits Pack,Snacks,0.369,Recursive Poisson
+2026-09-30,2026-10-06,6,S004,P011,Noodles Pack,Convenience,0.396,Recursive Poisson
+2026-09-30,2026-10-06,6,S004,P012,Canned Fish,Canned Goods,0.462,Recursive Poisson
+2026-09-30,2026-10-06,6,S004,P013,Coconut Milk,Canned Goods,0.336,Recursive Poisson
+2026-09-30,2026-10-06,6,S004,P014,Cooking Oil 1L,Staples,0.757,Recursive Poisson
+2026-09-30,2026-10-06,6,S004,P015,Cooking Oil 5L,Staples,0.608,Recursive Poisson
+2026-09-30,2026-10-06,6,S004,P016,Soap Bar,Personal Care,0.45,Recursive Poisson
+2026-09-30,2026-10-06,6,S004,P017,Shampoo 180ml,Personal Care,0.523,Recursive Poisson
+2026-09-30,2026-10-06,6,S004,P018,Toothpaste 120g,Personal Care,1.434,Recursive Poisson
+2026-09-30,2026-10-06,6,S004,P019,Detergent 1kg,Household,0.442,Recursive Poisson
+2026-09-30,2026-10-06,6,S004,P020,Dishwash Liquid,Household,0.373,Recursive Poisson
+2026-09-30,2026-10-06,6,S004,P021,Soft Drink 1.5L,Beverages,0.833,Recursive Poisson
+2026-09-30,2026-10-06,6,S004,P022,Bottled Water 1.5L,Beverages,0.521,Recursive Poisson
+2026-09-30,2026-10-06,6,S004,P023,Fruit Juice 1L,Beverages,0.574,Recursive Poisson
+2026-09-30,2026-10-06,6,S004,P024,Yoghurt Cup,Dairy,0.46,Recursive Poisson
+2026-09-30,2026-10-06,6,S004,P025,Cheese Pack,Dairy,0.477,Recursive Poisson
+2026-09-30,2026-10-06,6,S004,P026,Eggs 10 Pack,Fresh Food,0.625,Recursive Poisson
+2026-09-30,2026-10-06,6,S004,P027,Chicken 1kg,Fresh Food,1.125,Recursive Poisson
+2026-09-30,2026-10-06,6,S004,P028,Frozen Fish 1kg,Frozen Food,0.346,Recursive Poisson
+2026-09-30,2026-10-06,6,S004,P029,Onions 1kg,Fresh Food,0.62,Recursive Poisson
+2026-09-30,2026-10-06,6,S004,P030,Potatoes 1kg,Fresh Food,0.567,Recursive Poisson
+2026-09-30,2026-10-07,7,S001,P001,Rice 5kg,Staples,0.404,Recursive Poisson
+2026-09-30,2026-10-07,7,S001,P002,Rice 10kg,Staples,0.6,Recursive Poisson
+2026-09-30,2026-10-07,7,S001,P003,Dhal 1kg,Staples,0.495,Recursive Poisson
+2026-09-30,2026-10-07,7,S001,P004,Sugar 1kg,Staples,0.353,Recursive Poisson
+2026-09-30,2026-10-07,7,S001,P005,Flour 1kg,Staples,0.528,Recursive Poisson
+2026-09-30,2026-10-07,7,S001,P006,Milk Powder 400g,Dairy,0.775,Recursive Poisson
+2026-09-30,2026-10-07,7,S001,P007,Milk Powder 1kg,Dairy,0.337,Recursive Poisson
+2026-09-30,2026-10-07,7,S001,P008,Tea 200g,Beverages,0.438,Recursive Poisson
+2026-09-30,2026-10-07,7,S001,P009,Coffee 100g,Beverages,0.44,Recursive Poisson
+2026-09-30,2026-10-07,7,S001,P010,Biscuits Pack,Snacks,0.471,Recursive Poisson
+2026-09-30,2026-10-07,7,S001,P011,Noodles Pack,Convenience,0.608,Recursive Poisson
+2026-09-30,2026-10-07,7,S001,P012,Canned Fish,Canned Goods,0.43,Recursive Poisson
+2026-09-30,2026-10-07,7,S001,P013,Coconut Milk,Canned Goods,0.335,Recursive Poisson
+2026-09-30,2026-10-07,7,S001,P014,Cooking Oil 1L,Staples,0.562,Recursive Poisson
+2026-09-30,2026-10-07,7,S001,P015,Cooking Oil 5L,Staples,0.421,Recursive Poisson
+2026-09-30,2026-10-07,7,S001,P016,Soap Bar,Personal Care,0.556,Recursive Poisson
+2026-09-30,2026-10-07,7,S001,P017,Shampoo 180ml,Personal Care,0.485,Recursive Poisson
+2026-09-30,2026-10-07,7,S001,P018,Toothpaste 120g,Personal Care,1.221,Recursive Poisson
+2026-09-30,2026-10-07,7,S001,P019,Detergent 1kg,Household,0.44,Recursive Poisson
+2026-09-30,2026-10-07,7,S001,P020,Dishwash Liquid,Household,0.343,Recursive Poisson
+2026-09-30,2026-10-07,7,S001,P021,Soft Drink 1.5L,Beverages,1.282,Recursive Poisson
+2026-09-30,2026-10-07,7,S001,P022,Bottled Water 1.5L,Beverages,0.406,Recursive Poisson
+2026-09-30,2026-10-07,7,S001,P023,Fruit Juice 1L,Beverages,0.744,Recursive Poisson
+2026-09-30,2026-10-07,7,S001,P024,Yoghurt Cup,Dairy,0.522,Recursive Poisson
+2026-09-30,2026-10-07,7,S001,P025,Cheese Pack,Dairy,0.486,Recursive Poisson
+2026-09-30,2026-10-07,7,S001,P026,Eggs 10 Pack,Fresh Food,0.56,Recursive Poisson
+2026-09-30,2026-10-07,7,S001,P027,Chicken 1kg,Fresh Food,1.143,Recursive Poisson
+2026-09-30,2026-10-07,7,S001,P028,Frozen Fish 1kg,Frozen Food,0.584,Recursive Poisson
+2026-09-30,2026-10-07,7,S001,P029,Onions 1kg,Fresh Food,0.499,Recursive Poisson
+2026-09-30,2026-10-07,7,S001,P030,Potatoes 1kg,Fresh Food,0.485,Recursive Poisson
+2026-09-30,2026-10-07,7,S002,P001,Rice 5kg,Staples,0.427,Recursive Poisson
+2026-09-30,2026-10-07,7,S002,P002,Rice 10kg,Staples,0.745,Recursive Poisson
+2026-09-30,2026-10-07,7,S002,P003,Dhal 1kg,Staples,0.473,Recursive Poisson
+2026-09-30,2026-10-07,7,S002,P004,Sugar 1kg,Staples,0.364,Recursive Poisson
+2026-09-30,2026-10-07,7,S002,P005,Flour 1kg,Staples,0.437,Recursive Poisson
+2026-09-30,2026-10-07,7,S002,P006,Milk Powder 400g,Dairy,0.737,Recursive Poisson
+2026-09-30,2026-10-07,7,S002,P007,Milk Powder 1kg,Dairy,0.339,Recursive Poisson
+2026-09-30,2026-10-07,7,S002,P008,Tea 200g,Beverages,0.536,Recursive Poisson
+2026-09-30,2026-10-07,7,S002,P009,Coffee 100g,Beverages,0.443,Recursive Poisson
+2026-09-30,2026-10-07,7,S002,P010,Biscuits Pack,Snacks,0.384,Recursive Poisson
+2026-09-30,2026-10-07,7,S002,P011,Noodles Pack,Convenience,0.509,Recursive Poisson
+2026-09-30,2026-10-07,7,S002,P012,Canned Fish,Canned Goods,0.445,Recursive Poisson
+2026-09-30,2026-10-07,7,S002,P013,Coconut Milk,Canned Goods,0.329,Recursive Poisson
+2026-09-30,2026-10-07,7,S002,P014,Cooking Oil 1L,Staples,0.79,Recursive Poisson
+2026-09-30,2026-10-07,7,S002,P015,Cooking Oil 5L,Staples,0.784,Recursive Poisson
+2026-09-30,2026-10-07,7,S002,P016,Soap Bar,Personal Care,0.404,Recursive Poisson
+2026-09-30,2026-10-07,7,S002,P017,Shampoo 180ml,Personal Care,0.56,Recursive Poisson
+2026-09-30,2026-10-07,7,S002,P018,Toothpaste 120g,Personal Care,0.796,Recursive Poisson
+2026-09-30,2026-10-07,7,S002,P019,Detergent 1kg,Household,0.372,Recursive Poisson
+2026-09-30,2026-10-07,7,S002,P020,Dishwash Liquid,Household,0.395,Recursive Poisson
+2026-09-30,2026-10-07,7,S002,P021,Soft Drink 1.5L,Beverages,0.913,Recursive Poisson
+2026-09-30,2026-10-07,7,S002,P022,Bottled Water 1.5L,Beverages,0.379,Recursive Poisson
+2026-09-30,2026-10-07,7,S002,P023,Fruit Juice 1L,Beverages,0.495,Recursive Poisson
+2026-09-30,2026-10-07,7,S002,P024,Yoghurt Cup,Dairy,0.557,Recursive Poisson
+2026-09-30,2026-10-07,7,S002,P025,Cheese Pack,Dairy,0.635,Recursive Poisson
+2026-09-30,2026-10-07,7,S002,P026,Eggs 10 Pack,Fresh Food,0.671,Recursive Poisson
+2026-09-30,2026-10-07,7,S002,P027,Chicken 1kg,Fresh Food,0.554,Recursive Poisson
+2026-09-30,2026-10-07,7,S002,P028,Frozen Fish 1kg,Frozen Food,0.412,Recursive Poisson
+2026-09-30,2026-10-07,7,S002,P029,Onions 1kg,Fresh Food,0.434,Recursive Poisson
+2026-09-30,2026-10-07,7,S002,P030,Potatoes 1kg,Fresh Food,0.468,Recursive Poisson
+2026-09-30,2026-10-07,7,S003,P001,Rice 5kg,Staples,0.483,Recursive Poisson
+2026-09-30,2026-10-07,7,S003,P002,Rice 10kg,Staples,0.708,Recursive Poisson
+2026-09-30,2026-10-07,7,S003,P003,Dhal 1kg,Staples,0.606,Recursive Poisson
+2026-09-30,2026-10-07,7,S003,P004,Sugar 1kg,Staples,0.369,Recursive Poisson
+2026-09-30,2026-10-07,7,S003,P005,Flour 1kg,Staples,0.613,Recursive Poisson
+2026-09-30,2026-10-07,7,S003,P006,Milk Powder 400g,Dairy,0.912,Recursive Poisson
+2026-09-30,2026-10-07,7,S003,P007,Milk Powder 1kg,Dairy,0.369,Recursive Poisson
+2026-09-30,2026-10-07,7,S003,P008,Tea 200g,Beverages,0.839,Recursive Poisson
+2026-09-30,2026-10-07,7,S003,P009,Coffee 100g,Beverages,0.391,Recursive Poisson
+2026-09-30,2026-10-07,7,S003,P010,Biscuits Pack,Snacks,0.404,Recursive Poisson
+2026-09-30,2026-10-07,7,S003,P011,Noodles Pack,Convenience,0.425,Recursive Poisson
+2026-09-30,2026-10-07,7,S003,P012,Canned Fish,Canned Goods,0.579,Recursive Poisson
+2026-09-30,2026-10-07,7,S003,P013,Coconut Milk,Canned Goods,0.325,Recursive Poisson
+2026-09-30,2026-10-07,7,S003,P014,Cooking Oil 1L,Staples,0.56,Recursive Poisson
+2026-09-30,2026-10-07,7,S003,P015,Cooking Oil 5L,Staples,0.685,Recursive Poisson
+2026-09-30,2026-10-07,7,S003,P016,Soap Bar,Personal Care,0.491,Recursive Poisson
+2026-09-30,2026-10-07,7,S003,P017,Shampoo 180ml,Personal Care,0.407,Recursive Poisson
+2026-09-30,2026-10-07,7,S003,P018,Toothpaste 120g,Personal Care,1.015,Recursive Poisson
+2026-09-30,2026-10-07,7,S003,P019,Detergent 1kg,Household,0.386,Recursive Poisson
+2026-09-30,2026-10-07,7,S003,P020,Dishwash Liquid,Household,0.336,Recursive Poisson
+2026-09-30,2026-10-07,7,S003,P021,Soft Drink 1.5L,Beverages,0.825,Recursive Poisson
+2026-09-30,2026-10-07,7,S003,P022,Bottled Water 1.5L,Beverages,0.365,Recursive Poisson
+2026-09-30,2026-10-07,7,S003,P023,Fruit Juice 1L,Beverages,0.54,Recursive Poisson
+2026-09-30,2026-10-07,7,S003,P024,Yoghurt Cup,Dairy,0.656,Recursive Poisson
+2026-09-30,2026-10-07,7,S003,P025,Cheese Pack,Dairy,0.745,Recursive Poisson
+2026-09-30,2026-10-07,7,S003,P026,Eggs 10 Pack,Fresh Food,0.854,Recursive Poisson
+2026-09-30,2026-10-07,7,S003,P027,Chicken 1kg,Fresh Food,0.863,Recursive Poisson
+2026-09-30,2026-10-07,7,S003,P028,Frozen Fish 1kg,Frozen Food,0.382,Recursive Poisson
+2026-09-30,2026-10-07,7,S003,P029,Onions 1kg,Fresh Food,0.445,Recursive Poisson
+2026-09-30,2026-10-07,7,S003,P030,Potatoes 1kg,Fresh Food,0.672,Recursive Poisson
+2026-09-30,2026-10-07,7,S004,P001,Rice 5kg,Staples,0.712,Recursive Poisson
+2026-09-30,2026-10-07,7,S004,P002,Rice 10kg,Staples,1.043,Recursive Poisson
+2026-09-30,2026-10-07,7,S004,P003,Dhal 1kg,Staples,0.453,Recursive Poisson
+2026-09-30,2026-10-07,7,S004,P004,Sugar 1kg,Staples,0.391,Recursive Poisson
+2026-09-30,2026-10-07,7,S004,P005,Flour 1kg,Staples,0.629,Recursive Poisson
+2026-09-30,2026-10-07,7,S004,P006,Milk Powder 400g,Dairy,0.703,Recursive Poisson
+2026-09-30,2026-10-07,7,S004,P007,Milk Powder 1kg,Dairy,0.396,Recursive Poisson
+2026-09-30,2026-10-07,7,S004,P008,Tea 200g,Beverages,0.711,Recursive Poisson
+2026-09-30,2026-10-07,7,S004,P009,Coffee 100g,Beverages,0.374,Recursive Poisson
+2026-09-30,2026-10-07,7,S004,P010,Biscuits Pack,Snacks,0.38,Recursive Poisson
+2026-09-30,2026-10-07,7,S004,P011,Noodles Pack,Convenience,0.407,Recursive Poisson
+2026-09-30,2026-10-07,7,S004,P012,Canned Fish,Canned Goods,0.466,Recursive Poisson
+2026-09-30,2026-10-07,7,S004,P013,Coconut Milk,Canned Goods,0.337,Recursive Poisson
+2026-09-30,2026-10-07,7,S004,P014,Cooking Oil 1L,Staples,0.789,Recursive Poisson
+2026-09-30,2026-10-07,7,S004,P015,Cooking Oil 5L,Staples,0.664,Recursive Poisson
+2026-09-30,2026-10-07,7,S004,P016,Soap Bar,Personal Care,0.447,Recursive Poisson
+2026-09-30,2026-10-07,7,S004,P017,Shampoo 180ml,Personal Care,0.526,Recursive Poisson
+2026-09-30,2026-10-07,7,S004,P018,Toothpaste 120g,Personal Care,1.427,Recursive Poisson
+2026-09-30,2026-10-07,7,S004,P019,Detergent 1kg,Household,0.446,Recursive Poisson
+2026-09-30,2026-10-07,7,S004,P020,Dishwash Liquid,Household,0.384,Recursive Poisson
+2026-09-30,2026-10-07,7,S004,P021,Soft Drink 1.5L,Beverages,0.798,Recursive Poisson
+2026-09-30,2026-10-07,7,S004,P022,Bottled Water 1.5L,Beverages,0.515,Recursive Poisson
+2026-09-30,2026-10-07,7,S004,P023,Fruit Juice 1L,Beverages,0.591,Recursive Poisson
+2026-09-30,2026-10-07,7,S004,P024,Yoghurt Cup,Dairy,0.469,Recursive Poisson
+2026-09-30,2026-10-07,7,S004,P025,Cheese Pack,Dairy,0.487,Recursive Poisson
+2026-09-30,2026-10-07,7,S004,P026,Eggs 10 Pack,Fresh Food,0.691,Recursive Poisson
+2026-09-30,2026-10-07,7,S004,P027,Chicken 1kg,Fresh Food,1.043,Recursive Poisson
+2026-09-30,2026-10-07,7,S004,P028,Frozen Fish 1kg,Frozen Food,0.365,Recursive Poisson
+2026-09-30,2026-10-07,7,S004,P029,Onions 1kg,Fresh Food,0.619,Recursive Poisson
+2026-09-30,2026-10-07,7,S004,P030,Potatoes 1kg,Fresh Food,0.585,Recursive Poisson
+2026-09-30,2026-10-08,8,S001,P001,Rice 5kg,Staples,0.406,Recursive Poisson
+2026-09-30,2026-10-08,8,S001,P002,Rice 10kg,Staples,0.594,Recursive Poisson
+2026-09-30,2026-10-08,8,S001,P003,Dhal 1kg,Staples,0.511,Recursive Poisson
+2026-09-30,2026-10-08,8,S001,P004,Sugar 1kg,Staples,0.363,Recursive Poisson
+2026-09-30,2026-10-08,8,S001,P005,Flour 1kg,Staples,0.546,Recursive Poisson
+2026-09-30,2026-10-08,8,S001,P006,Milk Powder 400g,Dairy,0.738,Recursive Poisson
+2026-09-30,2026-10-08,8,S001,P007,Milk Powder 1kg,Dairy,0.346,Recursive Poisson
+2026-09-30,2026-10-08,8,S001,P008,Tea 200g,Beverages,0.452,Recursive Poisson
+2026-09-30,2026-10-08,8,S001,P009,Coffee 100g,Beverages,0.434,Recursive Poisson
+2026-09-30,2026-10-08,8,S001,P010,Biscuits Pack,Snacks,0.498,Recursive Poisson
+2026-09-30,2026-10-08,8,S001,P011,Noodles Pack,Convenience,0.576,Recursive Poisson
+2026-09-30,2026-10-08,8,S001,P012,Canned Fish,Canned Goods,0.433,Recursive Poisson
+2026-09-30,2026-10-08,8,S001,P013,Coconut Milk,Canned Goods,0.344,Recursive Poisson
+2026-09-30,2026-10-08,8,S001,P014,Cooking Oil 1L,Staples,0.589,Recursive Poisson
+2026-09-30,2026-10-08,8,S001,P015,Cooking Oil 5L,Staples,0.429,Recursive Poisson
+2026-09-30,2026-10-08,8,S001,P016,Soap Bar,Personal Care,0.575,Recursive Poisson
+2026-09-30,2026-10-08,8,S001,P017,Shampoo 180ml,Personal Care,0.46,Recursive Poisson
+2026-09-30,2026-10-08,8,S001,P018,Toothpaste 120g,Personal Care,1.309,Recursive Poisson
+2026-09-30,2026-10-08,8,S001,P019,Detergent 1kg,Household,0.476,Recursive Poisson
+2026-09-30,2026-10-08,8,S001,P020,Dishwash Liquid,Household,0.348,Recursive Poisson
+2026-09-30,2026-10-08,8,S001,P021,Soft Drink 1.5L,Beverages,1.241,Recursive Poisson
+2026-09-30,2026-10-08,8,S001,P022,Bottled Water 1.5L,Beverages,0.418,Recursive Poisson
+2026-09-30,2026-10-08,8,S001,P023,Fruit Juice 1L,Beverages,0.756,Recursive Poisson
+2026-09-30,2026-10-08,8,S001,P024,Yoghurt Cup,Dairy,0.535,Recursive Poisson
+2026-09-30,2026-10-08,8,S001,P025,Cheese Pack,Dairy,0.501,Recursive Poisson
+2026-09-30,2026-10-08,8,S001,P026,Eggs 10 Pack,Fresh Food,0.567,Recursive Poisson
+2026-09-30,2026-10-08,8,S001,P027,Chicken 1kg,Fresh Food,1.081,Recursive Poisson
+2026-09-30,2026-10-08,8,S001,P028,Frozen Fish 1kg,Frozen Food,0.594,Recursive Poisson
+2026-09-30,2026-10-08,8,S001,P029,Onions 1kg,Fresh Food,0.515,Recursive Poisson
+2026-09-30,2026-10-08,8,S001,P030,Potatoes 1kg,Fresh Food,0.488,Recursive Poisson
+2026-09-30,2026-10-08,8,S002,P001,Rice 5kg,Staples,0.446,Recursive Poisson
+2026-09-30,2026-10-08,8,S002,P002,Rice 10kg,Staples,0.726,Recursive Poisson
+2026-09-30,2026-10-08,8,S002,P003,Dhal 1kg,Staples,0.456,Recursive Poisson
+2026-09-30,2026-10-08,8,S002,P004,Sugar 1kg,Staples,0.375,Recursive Poisson
+2026-09-30,2026-10-08,8,S002,P005,Flour 1kg,Staples,0.45,Recursive Poisson
+2026-09-30,2026-10-08,8,S002,P006,Milk Powder 400g,Dairy,0.751,Recursive Poisson
+2026-09-30,2026-10-08,8,S002,P007,Milk Powder 1kg,Dairy,0.349,Recursive Poisson
+2026-09-30,2026-10-08,8,S002,P008,Tea 200g,Beverages,0.534,Recursive Poisson
+2026-09-30,2026-10-08,8,S002,P009,Coffee 100g,Beverages,0.456,Recursive Poisson
+2026-09-30,2026-10-08,8,S002,P010,Biscuits Pack,Snacks,0.381,Recursive Poisson
+2026-09-30,2026-10-08,8,S002,P011,Noodles Pack,Convenience,0.539,Recursive Poisson
+2026-09-30,2026-10-08,8,S002,P012,Canned Fish,Canned Goods,0.459,Recursive Poisson
+2026-09-30,2026-10-08,8,S002,P013,Coconut Milk,Canned Goods,0.338,Recursive Poisson
+2026-09-30,2026-10-08,8,S002,P014,Cooking Oil 1L,Staples,0.823,Recursive Poisson
+2026-09-30,2026-10-08,8,S002,P015,Cooking Oil 5L,Staples,0.777,Recursive Poisson
+2026-09-30,2026-10-08,8,S002,P016,Soap Bar,Personal Care,0.416,Recursive Poisson
+2026-09-30,2026-10-08,8,S002,P017,Shampoo 180ml,Personal Care,0.58,Recursive Poisson
+2026-09-30,2026-10-08,8,S002,P018,Toothpaste 120g,Personal Care,0.816,Recursive Poisson
+2026-09-30,2026-10-08,8,S002,P019,Detergent 1kg,Household,0.383,Recursive Poisson
+2026-09-30,2026-10-08,8,S002,P020,Dishwash Liquid,Household,0.407,Recursive Poisson
+2026-09-30,2026-10-08,8,S002,P021,Soft Drink 1.5L,Beverages,0.908,Recursive Poisson
+2026-09-30,2026-10-08,8,S002,P022,Bottled Water 1.5L,Beverages,0.395,Recursive Poisson
+2026-09-30,2026-10-08,8,S002,P023,Fruit Juice 1L,Beverages,0.511,Recursive Poisson
+2026-09-30,2026-10-08,8,S002,P024,Yoghurt Cup,Dairy,0.613,Recursive Poisson
+2026-09-30,2026-10-08,8,S002,P025,Cheese Pack,Dairy,0.658,Recursive Poisson
+2026-09-30,2026-10-08,8,S002,P026,Eggs 10 Pack,Fresh Food,0.683,Recursive Poisson
+2026-09-30,2026-10-08,8,S002,P027,Chicken 1kg,Fresh Food,0.573,Recursive Poisson
+2026-09-30,2026-10-08,8,S002,P028,Frozen Fish 1kg,Frozen Food,0.424,Recursive Poisson
+2026-09-30,2026-10-08,8,S002,P029,Onions 1kg,Fresh Food,0.452,Recursive Poisson
+2026-09-30,2026-10-08,8,S002,P030,Potatoes 1kg,Fresh Food,0.483,Recursive Poisson
+2026-09-30,2026-10-08,8,S003,P001,Rice 5kg,Staples,0.471,Recursive Poisson
+2026-09-30,2026-10-08,8,S003,P002,Rice 10kg,Staples,0.723,Recursive Poisson
+2026-09-30,2026-10-08,8,S003,P003,Dhal 1kg,Staples,0.644,Recursive Poisson
+2026-09-30,2026-10-08,8,S003,P004,Sugar 1kg,Staples,0.379,Recursive Poisson
+2026-09-30,2026-10-08,8,S003,P005,Flour 1kg,Staples,0.634,Recursive Poisson
+2026-09-30,2026-10-08,8,S003,P006,Milk Powder 400g,Dairy,0.877,Recursive Poisson
+2026-09-30,2026-10-08,8,S003,P007,Milk Powder 1kg,Dairy,0.38,Recursive Poisson
+2026-09-30,2026-10-08,8,S003,P008,Tea 200g,Beverages,0.921,Recursive Poisson
+2026-09-30,2026-10-08,8,S003,P009,Coffee 100g,Beverages,0.402,Recursive Poisson
+2026-09-30,2026-10-08,8,S003,P010,Biscuits Pack,Snacks,0.416,Recursive Poisson
+2026-09-30,2026-10-08,8,S003,P011,Noodles Pack,Convenience,0.438,Recursive Poisson
+2026-09-30,2026-10-08,8,S003,P012,Canned Fish,Canned Goods,0.556,Recursive Poisson
+2026-09-30,2026-10-08,8,S003,P013,Coconut Milk,Canned Goods,0.333,Recursive Poisson
+2026-09-30,2026-10-08,8,S003,P014,Cooking Oil 1L,Staples,0.589,Recursive Poisson
+2026-09-30,2026-10-08,8,S003,P015,Cooking Oil 5L,Staples,0.715,Recursive Poisson
+2026-09-30,2026-10-08,8,S003,P016,Soap Bar,Personal Care,0.521,Recursive Poisson
+2026-09-30,2026-10-08,8,S003,P017,Shampoo 180ml,Personal Care,0.419,Recursive Poisson
+2026-09-30,2026-10-08,8,S003,P018,Toothpaste 120g,Personal Care,1.05,Recursive Poisson
+2026-09-30,2026-10-08,8,S003,P019,Detergent 1kg,Household,0.397,Recursive Poisson
+2026-09-30,2026-10-08,8,S003,P020,Dishwash Liquid,Household,0.345,Recursive Poisson
+2026-09-30,2026-10-08,8,S003,P021,Soft Drink 1.5L,Beverages,0.726,Recursive Poisson
+2026-09-30,2026-10-08,8,S003,P022,Bottled Water 1.5L,Beverages,0.375,Recursive Poisson
+2026-09-30,2026-10-08,8,S003,P023,Fruit Juice 1L,Beverages,0.559,Recursive Poisson
+2026-09-30,2026-10-08,8,S003,P024,Yoghurt Cup,Dairy,0.656,Recursive Poisson
+2026-09-30,2026-10-08,8,S003,P025,Cheese Pack,Dairy,0.684,Recursive Poisson
+2026-09-30,2026-10-08,8,S003,P026,Eggs 10 Pack,Fresh Food,0.891,Recursive Poisson
+2026-09-30,2026-10-08,8,S003,P027,Chicken 1kg,Fresh Food,0.902,Recursive Poisson
+2026-09-30,2026-10-08,8,S003,P028,Frozen Fish 1kg,Frozen Food,0.39,Recursive Poisson
+2026-09-30,2026-10-08,8,S003,P029,Onions 1kg,Fresh Food,0.459,Recursive Poisson
+2026-09-30,2026-10-08,8,S003,P030,Potatoes 1kg,Fresh Food,0.66,Recursive Poisson
+2026-09-30,2026-10-08,8,S004,P001,Rice 5kg,Staples,0.675,Recursive Poisson
+2026-09-30,2026-10-08,8,S004,P002,Rice 10kg,Staples,1.107,Recursive Poisson
+2026-09-30,2026-10-08,8,S004,P003,Dhal 1kg,Staples,0.467,Recursive Poisson
+2026-09-30,2026-10-08,8,S004,P004,Sugar 1kg,Staples,0.403,Recursive Poisson
+2026-09-30,2026-10-08,8,S004,P005,Flour 1kg,Staples,0.668,Recursive Poisson
+2026-09-30,2026-10-08,8,S004,P006,Milk Powder 400g,Dairy,0.695,Recursive Poisson
+2026-09-30,2026-10-08,8,S004,P007,Milk Powder 1kg,Dairy,0.404,Recursive Poisson
+2026-09-30,2026-10-08,8,S004,P008,Tea 200g,Beverages,0.65,Recursive Poisson
+2026-09-30,2026-10-08,8,S004,P009,Coffee 100g,Beverages,0.385,Recursive Poisson
+2026-09-30,2026-10-08,8,S004,P010,Biscuits Pack,Snacks,0.391,Recursive Poisson
+2026-09-30,2026-10-08,8,S004,P011,Noodles Pack,Convenience,0.412,Recursive Poisson
+2026-09-30,2026-10-08,8,S004,P012,Canned Fish,Canned Goods,0.481,Recursive Poisson
+2026-09-30,2026-10-08,8,S004,P013,Coconut Milk,Canned Goods,0.346,Recursive Poisson
+2026-09-30,2026-10-08,8,S004,P014,Cooking Oil 1L,Staples,0.854,Recursive Poisson
+2026-09-30,2026-10-08,8,S004,P015,Cooking Oil 5L,Staples,0.648,Recursive Poisson
+2026-09-30,2026-10-08,8,S004,P016,Soap Bar,Personal Care,0.461,Recursive Poisson
+2026-09-30,2026-10-08,8,S004,P017,Shampoo 180ml,Personal Care,0.544,Recursive Poisson
+2026-09-30,2026-10-08,8,S004,P018,Toothpaste 120g,Personal Care,1.454,Recursive Poisson
+2026-09-30,2026-10-08,8,S004,P019,Detergent 1kg,Household,0.466,Recursive Poisson
+2026-09-30,2026-10-08,8,S004,P020,Dishwash Liquid,Household,0.377,Recursive Poisson
+2026-09-30,2026-10-08,8,S004,P021,Soft Drink 1.5L,Beverages,0.84,Recursive Poisson
+2026-09-30,2026-10-08,8,S004,P022,Bottled Water 1.5L,Beverages,0.486,Recursive Poisson
+2026-09-30,2026-10-08,8,S004,P023,Fruit Juice 1L,Beverages,0.59,Recursive Poisson
+2026-09-30,2026-10-08,8,S004,P024,Yoghurt Cup,Dairy,0.49,Recursive Poisson
+2026-09-30,2026-10-08,8,S004,P025,Cheese Pack,Dairy,0.439,Recursive Poisson
+2026-09-30,2026-10-08,8,S004,P026,Eggs 10 Pack,Fresh Food,0.651,Recursive Poisson
+2026-09-30,2026-10-08,8,S004,P027,Chicken 1kg,Fresh Food,1.001,Recursive Poisson
+2026-09-30,2026-10-08,8,S004,P028,Frozen Fish 1kg,Frozen Food,0.366,Recursive Poisson
+2026-09-30,2026-10-08,8,S004,P029,Onions 1kg,Fresh Food,0.657,Recursive Poisson
+2026-09-30,2026-10-08,8,S004,P030,Potatoes 1kg,Fresh Food,0.605,Recursive Poisson
+2026-09-30,2026-10-09,9,S001,P001,Rice 5kg,Staples,0.416,Recursive Poisson
+2026-09-30,2026-10-09,9,S001,P002,Rice 10kg,Staples,0.612,Recursive Poisson
+2026-09-30,2026-10-09,9,S001,P003,Dhal 1kg,Staples,0.525,Recursive Poisson
+2026-09-30,2026-10-09,9,S001,P004,Sugar 1kg,Staples,0.372,Recursive Poisson
+2026-09-30,2026-10-09,9,S001,P005,Flour 1kg,Staples,0.583,Recursive Poisson
+2026-09-30,2026-10-09,9,S001,P006,Milk Powder 400g,Dairy,0.762,Recursive Poisson
+2026-09-30,2026-10-09,9,S001,P007,Milk Powder 1kg,Dairy,0.355,Recursive Poisson
+2026-09-30,2026-10-09,9,S001,P008,Tea 200g,Beverages,0.464,Recursive Poisson
+2026-09-30,2026-10-09,9,S001,P009,Coffee 100g,Beverages,0.445,Recursive Poisson
+2026-09-30,2026-10-09,9,S001,P010,Biscuits Pack,Snacks,0.5,Recursive Poisson
+2026-09-30,2026-10-09,9,S001,P011,Noodles Pack,Convenience,0.593,Recursive Poisson
+2026-09-30,2026-10-09,9,S001,P012,Canned Fish,Canned Goods,0.444,Recursive Poisson
+2026-09-30,2026-10-09,9,S001,P013,Coconut Milk,Canned Goods,0.353,Recursive Poisson
+2026-09-30,2026-10-09,9,S001,P014,Cooking Oil 1L,Staples,0.593,Recursive Poisson
+2026-09-30,2026-10-09,9,S001,P015,Cooking Oil 5L,Staples,0.44,Recursive Poisson
+2026-09-30,2026-10-09,9,S001,P016,Soap Bar,Personal Care,0.541,Recursive Poisson
+2026-09-30,2026-10-09,9,S001,P017,Shampoo 180ml,Personal Care,0.472,Recursive Poisson
+2026-09-30,2026-10-09,9,S001,P018,Toothpaste 120g,Personal Care,1.22,Recursive Poisson
+2026-09-30,2026-10-09,9,S001,P019,Detergent 1kg,Household,0.456,Recursive Poisson
+2026-09-30,2026-10-09,9,S001,P020,Dishwash Liquid,Household,0.357,Recursive Poisson
+2026-09-30,2026-10-09,9,S001,P021,Soft Drink 1.5L,Beverages,1.273,Recursive Poisson
+2026-09-30,2026-10-09,9,S001,P022,Bottled Water 1.5L,Beverages,0.419,Recursive Poisson
+2026-09-30,2026-10-09,9,S001,P023,Fruit Juice 1L,Beverages,0.773,Recursive Poisson
+2026-09-30,2026-10-09,9,S001,P024,Yoghurt Cup,Dairy,0.551,Recursive Poisson
+2026-09-30,2026-10-09,9,S001,P025,Cheese Pack,Dairy,0.516,Recursive Poisson
+2026-09-30,2026-10-09,9,S001,P026,Eggs 10 Pack,Fresh Food,0.584,Recursive Poisson
+2026-09-30,2026-10-09,9,S001,P027,Chicken 1kg,Fresh Food,1.127,Recursive Poisson
+2026-09-30,2026-10-09,9,S001,P028,Frozen Fish 1kg,Frozen Food,0.627,Recursive Poisson
+2026-09-30,2026-10-09,9,S001,P029,Onions 1kg,Fresh Food,0.53,Recursive Poisson
+2026-09-30,2026-10-09,9,S001,P030,Potatoes 1kg,Fresh Food,0.491,Recursive Poisson
+2026-09-30,2026-10-09,9,S002,P001,Rice 5kg,Staples,0.448,Recursive Poisson
+2026-09-30,2026-10-09,9,S002,P002,Rice 10kg,Staples,0.768,Recursive Poisson
+2026-09-30,2026-10-09,9,S002,P003,Dhal 1kg,Staples,0.448,Recursive Poisson
+2026-09-30,2026-10-09,9,S002,P004,Sugar 1kg,Staples,0.389,Recursive Poisson
+2026-09-30,2026-10-09,9,S002,P005,Flour 1kg,Staples,0.463,Recursive Poisson
+2026-09-30,2026-10-09,9,S002,P006,Milk Powder 400g,Dairy,0.795,Recursive Poisson
+2026-09-30,2026-10-09,9,S002,P007,Milk Powder 1kg,Dairy,0.357,Recursive Poisson
+2026-09-30,2026-10-09,9,S002,P008,Tea 200g,Beverages,0.549,Recursive Poisson
+2026-09-30,2026-10-09,9,S002,P009,Coffee 100g,Beverages,0.448,Recursive Poisson
+2026-09-30,2026-10-09,9,S002,P010,Biscuits Pack,Snacks,0.391,Recursive Poisson
+2026-09-30,2026-10-09,9,S002,P011,Noodles Pack,Convenience,0.541,Recursive Poisson
+2026-09-30,2026-10-09,9,S002,P012,Canned Fish,Canned Goods,0.472,Recursive Poisson
+2026-09-30,2026-10-09,9,S002,P013,Coconut Milk,Canned Goods,0.346,Recursive Poisson
+2026-09-30,2026-10-09,9,S002,P014,Cooking Oil 1L,Staples,0.884,Recursive Poisson
+2026-09-30,2026-10-09,9,S002,P015,Cooking Oil 5L,Staples,0.734,Recursive Poisson
+2026-09-30,2026-10-09,9,S002,P016,Soap Bar,Personal Care,0.427,Recursive Poisson
+2026-09-30,2026-10-09,9,S002,P017,Shampoo 180ml,Personal Care,0.667,Recursive Poisson
+2026-09-30,2026-10-09,9,S002,P018,Toothpaste 120g,Personal Care,0.745,Recursive Poisson
+2026-09-30,2026-10-09,9,S002,P019,Detergent 1kg,Household,0.35,Recursive Poisson
+2026-09-30,2026-10-09,9,S002,P020,Dishwash Liquid,Household,0.418,Recursive Poisson
+2026-09-30,2026-10-09,9,S002,P021,Soft Drink 1.5L,Beverages,0.888,Recursive Poisson
+2026-09-30,2026-10-09,9,S002,P022,Bottled Water 1.5L,Beverages,0.4,Recursive Poisson
+2026-09-30,2026-10-09,9,S002,P023,Fruit Juice 1L,Beverages,0.566,Recursive Poisson
+2026-09-30,2026-10-09,9,S002,P024,Yoghurt Cup,Dairy,0.543,Recursive Poisson
+2026-09-30,2026-10-09,9,S002,P025,Cheese Pack,Dairy,0.679,Recursive Poisson
+2026-09-30,2026-10-09,9,S002,P026,Eggs 10 Pack,Fresh Food,0.687,Recursive Poisson
+2026-09-30,2026-10-09,9,S002,P027,Chicken 1kg,Fresh Food,0.565,Recursive Poisson
+2026-09-30,2026-10-09,9,S002,P028,Frozen Fish 1kg,Frozen Food,0.436,Recursive Poisson
+2026-09-30,2026-10-09,9,S002,P029,Onions 1kg,Fresh Food,0.459,Recursive Poisson
+2026-09-30,2026-10-09,9,S002,P030,Potatoes 1kg,Fresh Food,0.496,Recursive Poisson
+2026-09-30,2026-10-09,9,S003,P001,Rice 5kg,Staples,0.484,Recursive Poisson
+2026-09-30,2026-10-09,9,S003,P002,Rice 10kg,Staples,0.697,Recursive Poisson
+2026-09-30,2026-10-09,9,S003,P003,Dhal 1kg,Staples,0.648,Recursive Poisson
+2026-09-30,2026-10-09,9,S003,P004,Sugar 1kg,Staples,0.389,Recursive Poisson
+2026-09-30,2026-10-09,9,S003,P005,Flour 1kg,Staples,0.601,Recursive Poisson
+2026-09-30,2026-10-09,9,S003,P006,Milk Powder 400g,Dairy,0.932,Recursive Poisson
+2026-09-30,2026-10-09,9,S003,P007,Milk Powder 1kg,Dairy,0.39,Recursive Poisson
+2026-09-30,2026-10-09,9,S003,P008,Tea 200g,Beverages,0.91,Recursive Poisson
+2026-09-30,2026-10-09,9,S003,P009,Coffee 100g,Beverages,0.413,Recursive Poisson
+2026-09-30,2026-10-09,9,S003,P010,Biscuits Pack,Snacks,0.427,Recursive Poisson
+2026-09-30,2026-10-09,9,S003,P011,Noodles Pack,Convenience,0.45,Recursive Poisson
+2026-09-30,2026-10-09,9,S003,P012,Canned Fish,Canned Goods,0.56,Recursive Poisson
+2026-09-30,2026-10-09,9,S003,P013,Coconut Milk,Canned Goods,0.342,Recursive Poisson
+2026-09-30,2026-10-09,9,S003,P014,Cooking Oil 1L,Staples,0.584,Recursive Poisson
+2026-09-30,2026-10-09,9,S003,P015,Cooking Oil 5L,Staples,0.657,Recursive Poisson
+2026-09-30,2026-10-09,9,S003,P016,Soap Bar,Personal Care,0.51,Recursive Poisson
+2026-09-30,2026-10-09,9,S003,P017,Shampoo 180ml,Personal Care,0.43,Recursive Poisson
+2026-09-30,2026-10-09,9,S003,P018,Toothpaste 120g,Personal Care,1.108,Recursive Poisson
+2026-09-30,2026-10-09,9,S003,P019,Detergent 1kg,Household,0.407,Recursive Poisson
+2026-09-30,2026-10-09,9,S003,P020,Dishwash Liquid,Household,0.354,Recursive Poisson
+2026-09-30,2026-10-09,9,S003,P021,Soft Drink 1.5L,Beverages,0.779,Recursive Poisson
+2026-09-30,2026-10-09,9,S003,P022,Bottled Water 1.5L,Beverages,0.385,Recursive Poisson
+2026-09-30,2026-10-09,9,S003,P023,Fruit Juice 1L,Beverages,0.555,Recursive Poisson
+2026-09-30,2026-10-09,9,S003,P024,Yoghurt Cup,Dairy,0.677,Recursive Poisson
+2026-09-30,2026-10-09,9,S003,P025,Cheese Pack,Dairy,0.65,Recursive Poisson
+2026-09-30,2026-10-09,9,S003,P026,Eggs 10 Pack,Fresh Food,0.849,Recursive Poisson
+2026-09-30,2026-10-09,9,S003,P027,Chicken 1kg,Fresh Food,0.834,Recursive Poisson
+2026-09-30,2026-10-09,9,S003,P028,Frozen Fish 1kg,Frozen Food,0.4,Recursive Poisson
+2026-09-30,2026-10-09,9,S003,P029,Onions 1kg,Fresh Food,0.461,Recursive Poisson
+2026-09-30,2026-10-09,9,S003,P030,Potatoes 1kg,Fresh Food,0.716,Recursive Poisson
+2026-09-30,2026-10-09,9,S004,P001,Rice 5kg,Staples,0.633,Recursive Poisson
+2026-09-30,2026-10-09,9,S004,P002,Rice 10kg,Staples,1.078,Recursive Poisson
+2026-09-30,2026-10-09,9,S004,P003,Dhal 1kg,Staples,0.48,Recursive Poisson
+2026-09-30,2026-10-09,9,S004,P004,Sugar 1kg,Staples,0.377,Recursive Poisson
+2026-09-30,2026-10-09,9,S004,P005,Flour 1kg,Staples,0.673,Recursive Poisson
+2026-09-30,2026-10-09,9,S004,P006,Milk Powder 400g,Dairy,0.717,Recursive Poisson
+2026-09-30,2026-10-09,9,S004,P007,Milk Powder 1kg,Dairy,0.431,Recursive Poisson
+2026-09-30,2026-10-09,9,S004,P008,Tea 200g,Beverages,0.695,Recursive Poisson
+2026-09-30,2026-10-09,9,S004,P009,Coffee 100g,Beverages,0.395,Recursive Poisson
+2026-09-30,2026-10-09,9,S004,P010,Biscuits Pack,Snacks,0.401,Recursive Poisson
+2026-09-30,2026-10-09,9,S004,P011,Noodles Pack,Convenience,0.422,Recursive Poisson
+2026-09-30,2026-10-09,9,S004,P012,Canned Fish,Canned Goods,0.452,Recursive Poisson
+2026-09-30,2026-10-09,9,S004,P013,Coconut Milk,Canned Goods,0.354,Recursive Poisson
+2026-09-30,2026-10-09,9,S004,P014,Cooking Oil 1L,Staples,0.855,Recursive Poisson
+2026-09-30,2026-10-09,9,S004,P015,Cooking Oil 5L,Staples,0.669,Recursive Poisson
+2026-09-30,2026-10-09,9,S004,P016,Soap Bar,Personal Care,0.474,Recursive Poisson
+2026-09-30,2026-10-09,9,S004,P017,Shampoo 180ml,Personal Care,0.56,Recursive Poisson
+2026-09-30,2026-10-09,9,S004,P018,Toothpaste 120g,Personal Care,1.523,Recursive Poisson
+2026-09-30,2026-10-09,9,S004,P019,Detergent 1kg,Household,0.503,Recursive Poisson
+2026-09-30,2026-10-09,9,S004,P020,Dishwash Liquid,Household,0.387,Recursive Poisson
+2026-09-30,2026-10-09,9,S004,P021,Soft Drink 1.5L,Beverages,0.839,Recursive Poisson
+2026-09-30,2026-10-09,9,S004,P022,Bottled Water 1.5L,Beverages,0.519,Recursive Poisson
+2026-09-30,2026-10-09,9,S004,P023,Fruit Juice 1L,Beverages,0.608,Recursive Poisson
+2026-09-30,2026-10-09,9,S004,P024,Yoghurt Cup,Dairy,0.465,Recursive Poisson
+2026-09-30,2026-10-09,9,S004,P025,Cheese Pack,Dairy,0.45,Recursive Poisson
+2026-09-30,2026-10-09,9,S004,P026,Eggs 10 Pack,Fresh Food,0.656,Recursive Poisson
+2026-09-30,2026-10-09,9,S004,P027,Chicken 1kg,Fresh Food,1.147,Recursive Poisson
+2026-09-30,2026-10-09,9,S004,P028,Frozen Fish 1kg,Frozen Food,0.375,Recursive Poisson
+2026-09-30,2026-10-09,9,S004,P029,Onions 1kg,Fresh Food,0.662,Recursive Poisson
+2026-09-30,2026-10-09,9,S004,P030,Potatoes 1kg,Fresh Food,0.608,Recursive Poisson
+2026-09-30,2026-10-10,10,S001,P001,Rice 5kg,Staples,0.46,Recursive Poisson
+2026-09-30,2026-10-10,10,S001,P002,Rice 10kg,Staples,0.695,Recursive Poisson
+2026-09-30,2026-10-10,10,S001,P003,Dhal 1kg,Staples,0.508,Recursive Poisson
+2026-09-30,2026-10-10,10,S001,P004,Sugar 1kg,Staples,0.411,Recursive Poisson
+2026-09-30,2026-10-10,10,S001,P005,Flour 1kg,Staples,0.624,Recursive Poisson
+2026-09-30,2026-10-10,10,S001,P006,Milk Powder 400g,Dairy,0.902,Recursive Poisson
+2026-09-30,2026-10-10,10,S001,P007,Milk Powder 1kg,Dairy,0.392,Recursive Poisson
+2026-09-30,2026-10-10,10,S001,P008,Tea 200g,Beverages,0.469,Recursive Poisson
+2026-09-30,2026-10-10,10,S001,P009,Coffee 100g,Beverages,0.492,Recursive Poisson
+2026-09-30,2026-10-10,10,S001,P010,Biscuits Pack,Snacks,0.554,Recursive Poisson
+2026-09-30,2026-10-10,10,S001,P011,Noodles Pack,Convenience,0.658,Recursive Poisson
+2026-09-30,2026-10-10,10,S001,P012,Canned Fish,Canned Goods,0.491,Recursive Poisson
+2026-09-30,2026-10-10,10,S001,P013,Coconut Milk,Canned Goods,0.389,Recursive Poisson
+2026-09-30,2026-10-10,10,S001,P014,Cooking Oil 1L,Staples,0.666,Recursive Poisson
+2026-09-30,2026-10-10,10,S001,P015,Cooking Oil 5L,Staples,0.486,Recursive Poisson
+2026-09-30,2026-10-10,10,S001,P016,Soap Bar,Personal Care,0.56,Recursive Poisson
+2026-09-30,2026-10-10,10,S001,P017,Shampoo 180ml,Personal Care,0.522,Recursive Poisson
+2026-09-30,2026-10-10,10,S001,P018,Toothpaste 120g,Personal Care,1.459,Recursive Poisson
+2026-09-30,2026-10-10,10,S001,P019,Detergent 1kg,Household,0.482,Recursive Poisson
+2026-09-30,2026-10-10,10,S001,P020,Dishwash Liquid,Household,0.393,Recursive Poisson
+2026-09-30,2026-10-10,10,S001,P021,Soft Drink 1.5L,Beverages,1.348,Recursive Poisson
+2026-09-30,2026-10-10,10,S001,P022,Bottled Water 1.5L,Beverages,0.463,Recursive Poisson
+2026-09-30,2026-10-10,10,S001,P023,Fruit Juice 1L,Beverages,0.894,Recursive Poisson
+2026-09-30,2026-10-10,10,S001,P024,Yoghurt Cup,Dairy,0.509,Recursive Poisson
+2026-09-30,2026-10-10,10,S001,P025,Cheese Pack,Dairy,0.571,Recursive Poisson
+2026-09-30,2026-10-10,10,S001,P026,Eggs 10 Pack,Fresh Food,0.647,Recursive Poisson
+2026-09-30,2026-10-10,10,S001,P027,Chicken 1kg,Fresh Food,1.044,Recursive Poisson
+2026-09-30,2026-10-10,10,S001,P028,Frozen Fish 1kg,Frozen Food,0.68,Recursive Poisson
+2026-09-30,2026-10-10,10,S001,P029,Onions 1kg,Fresh Food,0.561,Recursive Poisson
+2026-09-30,2026-10-10,10,S001,P030,Potatoes 1kg,Fresh Food,0.543,Recursive Poisson
+2026-09-30,2026-10-10,10,S002,P001,Rice 5kg,Staples,0.489,Recursive Poisson
+2026-09-30,2026-10-10,10,S002,P002,Rice 10kg,Staples,0.813,Recursive Poisson
+2026-09-30,2026-10-10,10,S002,P003,Dhal 1kg,Staples,0.452,Recursive Poisson
+2026-09-30,2026-10-10,10,S002,P004,Sugar 1kg,Staples,0.425,Recursive Poisson
+2026-09-30,2026-10-10,10,S002,P005,Flour 1kg,Staples,0.489,Recursive Poisson
+2026-09-30,2026-10-10,10,S002,P006,Milk Powder 400g,Dairy,0.897,Recursive Poisson
+2026-09-30,2026-10-10,10,S002,P007,Milk Powder 1kg,Dairy,0.395,Recursive Poisson
+2026-09-30,2026-10-10,10,S002,P008,Tea 200g,Beverages,0.616,Recursive Poisson
+2026-09-30,2026-10-10,10,S002,P009,Coffee 100g,Beverages,0.496,Recursive Poisson
+2026-09-30,2026-10-10,10,S002,P010,Biscuits Pack,Snacks,0.432,Recursive Poisson
+2026-09-30,2026-10-10,10,S002,P011,Noodles Pack,Convenience,0.6,Recursive Poisson
+2026-09-30,2026-10-10,10,S002,P012,Canned Fish,Canned Goods,0.487,Recursive Poisson
+2026-09-30,2026-10-10,10,S002,P013,Coconut Milk,Canned Goods,0.387,Recursive Poisson
+2026-09-30,2026-10-10,10,S002,P014,Cooking Oil 1L,Staples,0.999,Recursive Poisson
+2026-09-30,2026-10-10,10,S002,P015,Cooking Oil 5L,Staples,0.816,Recursive Poisson
+2026-09-30,2026-10-10,10,S002,P016,Soap Bar,Personal Care,0.472,Recursive Poisson
+2026-09-30,2026-10-10,10,S002,P017,Shampoo 180ml,Personal Care,0.664,Recursive Poisson
+2026-09-30,2026-10-10,10,S002,P018,Toothpaste 120g,Personal Care,0.829,Recursive Poisson
+2026-09-30,2026-10-10,10,S002,P019,Detergent 1kg,Household,0.387,Recursive Poisson
+2026-09-30,2026-10-10,10,S002,P020,Dishwash Liquid,Household,0.462,Recursive Poisson
+2026-09-30,2026-10-10,10,S002,P021,Soft Drink 1.5L,Beverages,0.915,Recursive Poisson
+2026-09-30,2026-10-10,10,S002,P022,Bottled Water 1.5L,Beverages,0.442,Recursive Poisson
+2026-09-30,2026-10-10,10,S002,P023,Fruit Juice 1L,Beverages,0.582,Recursive Poisson
+2026-09-30,2026-10-10,10,S002,P024,Yoghurt Cup,Dairy,0.602,Recursive Poisson
+2026-09-30,2026-10-10,10,S002,P025,Cheese Pack,Dairy,0.764,Recursive Poisson
+2026-09-30,2026-10-10,10,S002,P026,Eggs 10 Pack,Fresh Food,0.812,Recursive Poisson
+2026-09-30,2026-10-10,10,S002,P027,Chicken 1kg,Fresh Food,0.626,Recursive Poisson
+2026-09-30,2026-10-10,10,S002,P028,Frozen Fish 1kg,Frozen Food,0.482,Recursive Poisson
+2026-09-30,2026-10-10,10,S002,P029,Onions 1kg,Fresh Food,0.507,Recursive Poisson
+2026-09-30,2026-10-10,10,S002,P030,Potatoes 1kg,Fresh Food,0.563,Recursive Poisson
+2026-09-30,2026-10-10,10,S003,P001,Rice 5kg,Staples,0.536,Recursive Poisson
+2026-09-30,2026-10-10,10,S003,P002,Rice 10kg,Staples,0.774,Recursive Poisson
+2026-09-30,2026-10-10,10,S003,P003,Dhal 1kg,Staples,0.72,Recursive Poisson
+2026-09-30,2026-10-10,10,S003,P004,Sugar 1kg,Staples,0.429,Recursive Poisson
+2026-09-30,2026-10-10,10,S003,P005,Flour 1kg,Staples,0.666,Recursive Poisson
+2026-09-30,2026-10-10,10,S003,P006,Milk Powder 400g,Dairy,0.95,Recursive Poisson
+2026-09-30,2026-10-10,10,S003,P007,Milk Powder 1kg,Dairy,0.43,Recursive Poisson
+2026-09-30,2026-10-10,10,S003,P008,Tea 200g,Beverages,0.95,Recursive Poisson
+2026-09-30,2026-10-10,10,S003,P009,Coffee 100g,Beverages,0.456,Recursive Poisson
+2026-09-30,2026-10-10,10,S003,P010,Biscuits Pack,Snacks,0.472,Recursive Poisson
+2026-09-30,2026-10-10,10,S003,P011,Noodles Pack,Convenience,0.503,Recursive Poisson
+2026-09-30,2026-10-10,10,S003,P012,Canned Fish,Canned Goods,0.621,Recursive Poisson
+2026-09-30,2026-10-10,10,S003,P013,Coconut Milk,Canned Goods,0.377,Recursive Poisson
+2026-09-30,2026-10-10,10,S003,P014,Cooking Oil 1L,Staples,0.632,Recursive Poisson
+2026-09-30,2026-10-10,10,S003,P015,Cooking Oil 5L,Staples,0.729,Recursive Poisson
+2026-09-30,2026-10-10,10,S003,P016,Soap Bar,Personal Care,0.564,Recursive Poisson
+2026-09-30,2026-10-10,10,S003,P017,Shampoo 180ml,Personal Care,0.487,Recursive Poisson
+2026-09-30,2026-10-10,10,S003,P018,Toothpaste 120g,Personal Care,1.155,Recursive Poisson
+2026-09-30,2026-10-10,10,S003,P019,Detergent 1kg,Household,0.431,Recursive Poisson
+2026-09-30,2026-10-10,10,S003,P020,Dishwash Liquid,Household,0.39,Recursive Poisson
+2026-09-30,2026-10-10,10,S003,P021,Soft Drink 1.5L,Beverages,0.836,Recursive Poisson
+2026-09-30,2026-10-10,10,S003,P022,Bottled Water 1.5L,Beverages,0.425,Recursive Poisson
+2026-09-30,2026-10-10,10,S003,P023,Fruit Juice 1L,Beverages,0.615,Recursive Poisson
+2026-09-30,2026-10-10,10,S003,P024,Yoghurt Cup,Dairy,0.752,Recursive Poisson
+2026-09-30,2026-10-10,10,S003,P025,Cheese Pack,Dairy,0.768,Recursive Poisson
+2026-09-30,2026-10-10,10,S003,P026,Eggs 10 Pack,Fresh Food,0.947,Recursive Poisson
+2026-09-30,2026-10-10,10,S003,P027,Chicken 1kg,Fresh Food,0.794,Recursive Poisson
+2026-09-30,2026-10-10,10,S003,P028,Frozen Fish 1kg,Frozen Food,0.442,Recursive Poisson
+2026-09-30,2026-10-10,10,S003,P029,Onions 1kg,Fresh Food,0.51,Recursive Poisson
+2026-09-30,2026-10-10,10,S003,P030,Potatoes 1kg,Fresh Food,0.749,Recursive Poisson
+2026-09-30,2026-10-10,10,S004,P001,Rice 5kg,Staples,0.703,Recursive Poisson
+2026-09-30,2026-10-10,10,S004,P002,Rice 10kg,Staples,0.973,Recursive Poisson
+2026-09-30,2026-10-10,10,S004,P003,Dhal 1kg,Staples,0.531,Recursive Poisson
+2026-09-30,2026-10-10,10,S004,P004,Sugar 1kg,Staples,0.417,Recursive Poisson
+2026-09-30,2026-10-10,10,S004,P005,Flour 1kg,Staples,0.683,Recursive Poisson
+2026-09-30,2026-10-10,10,S004,P006,Milk Powder 400g,Dairy,0.836,Recursive Poisson
+2026-09-30,2026-10-10,10,S004,P007,Milk Powder 1kg,Dairy,0.459,Recursive Poisson
+2026-09-30,2026-10-10,10,S004,P008,Tea 200g,Beverages,0.745,Recursive Poisson
+2026-09-30,2026-10-10,10,S004,P009,Coffee 100g,Beverages,0.436,Recursive Poisson
+2026-09-30,2026-10-10,10,S004,P010,Biscuits Pack,Snacks,0.443,Recursive Poisson
+2026-09-30,2026-10-10,10,S004,P011,Noodles Pack,Convenience,0.467,Recursive Poisson
+2026-09-30,2026-10-10,10,S004,P012,Canned Fish,Canned Goods,0.5,Recursive Poisson
+2026-09-30,2026-10-10,10,S004,P013,Coconut Milk,Canned Goods,0.391,Recursive Poisson
+2026-09-30,2026-10-10,10,S004,P014,Cooking Oil 1L,Staples,0.931,Recursive Poisson
+2026-09-30,2026-10-10,10,S004,P015,Cooking Oil 5L,Staples,0.763,Recursive Poisson
+2026-09-30,2026-10-10,10,S004,P016,Soap Bar,Personal Care,0.531,Recursive Poisson
+2026-09-30,2026-10-10,10,S004,P017,Shampoo 180ml,Personal Care,0.594,Recursive Poisson
+2026-09-30,2026-10-10,10,S004,P018,Toothpaste 120g,Personal Care,1.503,Recursive Poisson
+2026-09-30,2026-10-10,10,S004,P019,Detergent 1kg,Household,0.511,Recursive Poisson
+2026-09-30,2026-10-10,10,S004,P020,Dishwash Liquid,Household,0.427,Recursive Poisson
+2026-09-30,2026-10-10,10,S004,P021,Soft Drink 1.5L,Beverages,1.008,Recursive Poisson
+2026-09-30,2026-10-10,10,S004,P022,Bottled Water 1.5L,Beverages,0.567,Recursive Poisson
+2026-09-30,2026-10-10,10,S004,P023,Fruit Juice 1L,Beverages,0.645,Recursive Poisson
+2026-09-30,2026-10-10,10,S004,P024,Yoghurt Cup,Dairy,0.514,Recursive Poisson
+2026-09-30,2026-10-10,10,S004,P025,Cheese Pack,Dairy,0.51,Recursive Poisson
+2026-09-30,2026-10-10,10,S004,P026,Eggs 10 Pack,Fresh Food,0.729,Recursive Poisson
+2026-09-30,2026-10-10,10,S004,P027,Chicken 1kg,Fresh Food,1.106,Recursive Poisson
+2026-09-30,2026-10-10,10,S004,P028,Frozen Fish 1kg,Frozen Food,0.414,Recursive Poisson
+2026-09-30,2026-10-10,10,S004,P029,Onions 1kg,Fresh Food,0.735,Recursive Poisson
+2026-09-30,2026-10-10,10,S004,P030,Potatoes 1kg,Fresh Food,0.675,Recursive Poisson
+2026-09-30,2026-10-11,11,S001,P001,Rice 5kg,Staples,0.473,Recursive Poisson
+2026-09-30,2026-10-11,11,S001,P002,Rice 10kg,Staples,0.744,Recursive Poisson
+2026-09-30,2026-10-11,11,S001,P003,Dhal 1kg,Staples,0.556,Recursive Poisson
+2026-09-30,2026-10-11,11,S001,P004,Sugar 1kg,Staples,0.422,Recursive Poisson
+2026-09-30,2026-10-11,11,S001,P005,Flour 1kg,Staples,0.653,Recursive Poisson
+2026-09-30,2026-10-11,11,S001,P006,Milk Powder 400g,Dairy,0.88,Recursive Poisson
+2026-09-30,2026-10-11,11,S001,P007,Milk Powder 1kg,Dairy,0.402,Recursive Poisson
+2026-09-30,2026-10-11,11,S001,P008,Tea 200g,Beverages,0.482,Recursive Poisson
+2026-09-30,2026-10-11,11,S001,P009,Coffee 100g,Beverages,0.506,Recursive Poisson
+2026-09-30,2026-10-11,11,S001,P010,Biscuits Pack,Snacks,0.571,Recursive Poisson
+2026-09-30,2026-10-11,11,S001,P011,Noodles Pack,Convenience,0.634,Recursive Poisson
+2026-09-30,2026-10-11,11,S001,P012,Canned Fish,Canned Goods,0.505,Recursive Poisson
+2026-09-30,2026-10-11,11,S001,P013,Coconut Milk,Canned Goods,0.399,Recursive Poisson
+2026-09-30,2026-10-11,11,S001,P014,Cooking Oil 1L,Staples,0.649,Recursive Poisson
+2026-09-30,2026-10-11,11,S001,P015,Cooking Oil 5L,Staples,0.5,Recursive Poisson
+2026-09-30,2026-10-11,11,S001,P016,Soap Bar,Personal Care,0.577,Recursive Poisson
+2026-09-30,2026-10-11,11,S001,P017,Shampoo 180ml,Personal Care,0.537,Recursive Poisson
+2026-09-30,2026-10-11,11,S001,P018,Toothpaste 120g,Personal Care,1.319,Recursive Poisson
+2026-09-30,2026-10-11,11,S001,P019,Detergent 1kg,Household,0.473,Recursive Poisson
+2026-09-30,2026-10-11,11,S001,P020,Dishwash Liquid,Household,0.404,Recursive Poisson
+2026-09-30,2026-10-11,11,S001,P021,Soft Drink 1.5L,Beverages,1.348,Recursive Poisson
+2026-09-30,2026-10-11,11,S001,P022,Bottled Water 1.5L,Beverages,0.455,Recursive Poisson
+2026-09-30,2026-10-11,11,S001,P023,Fruit Juice 1L,Beverages,0.894,Recursive Poisson
+2026-09-30,2026-10-11,11,S001,P024,Yoghurt Cup,Dairy,0.523,Recursive Poisson
+2026-09-30,2026-10-11,11,S001,P025,Cheese Pack,Dairy,0.575,Recursive Poisson
+2026-09-30,2026-10-11,11,S001,P026,Eggs 10 Pack,Fresh Food,0.668,Recursive Poisson
+2026-09-30,2026-10-11,11,S001,P027,Chicken 1kg,Fresh Food,1.023,Recursive Poisson
+2026-09-30,2026-10-11,11,S001,P028,Frozen Fish 1kg,Frozen Food,0.702,Recursive Poisson
+2026-09-30,2026-10-11,11,S001,P029,Onions 1kg,Fresh Food,0.577,Recursive Poisson
+2026-09-30,2026-10-11,11,S001,P030,Potatoes 1kg,Fresh Food,0.573,Recursive Poisson
+2026-09-30,2026-10-11,11,S002,P001,Rice 5kg,Staples,0.503,Recursive Poisson
+2026-09-30,2026-10-11,11,S002,P002,Rice 10kg,Staples,0.862,Recursive Poisson
+2026-09-30,2026-10-11,11,S002,P003,Dhal 1kg,Staples,0.464,Recursive Poisson
+2026-09-30,2026-10-11,11,S002,P004,Sugar 1kg,Staples,0.436,Recursive Poisson
+2026-09-30,2026-10-11,11,S002,P005,Flour 1kg,Staples,0.509,Recursive Poisson
+2026-09-30,2026-10-11,11,S002,P006,Milk Powder 400g,Dairy,0.953,Recursive Poisson
+2026-09-30,2026-10-11,11,S002,P007,Milk Powder 1kg,Dairy,0.405,Recursive Poisson
+2026-09-30,2026-10-11,11,S002,P008,Tea 200g,Beverages,0.659,Recursive Poisson
+2026-09-30,2026-10-11,11,S002,P009,Coffee 100g,Beverages,0.51,Recursive Poisson
+2026-09-30,2026-10-11,11,S002,P010,Biscuits Pack,Snacks,0.444,Recursive Poisson
+2026-09-30,2026-10-11,11,S002,P011,Noodles Pack,Convenience,0.614,Recursive Poisson
+2026-09-30,2026-10-11,11,S002,P012,Canned Fish,Canned Goods,0.533,Recursive Poisson
+2026-09-30,2026-10-11,11,S002,P013,Coconut Milk,Canned Goods,0.392,Recursive Poisson
+2026-09-30,2026-10-11,11,S002,P014,Cooking Oil 1L,Staples,1.026,Recursive Poisson
+2026-09-30,2026-10-11,11,S002,P015,Cooking Oil 5L,Staples,0.704,Recursive Poisson
+2026-09-30,2026-10-11,11,S002,P016,Soap Bar,Personal Care,0.485,Recursive Poisson
+2026-09-30,2026-10-11,11,S002,P017,Shampoo 180ml,Personal Care,0.685,Recursive Poisson
+2026-09-30,2026-10-11,11,S002,P018,Toothpaste 120g,Personal Care,0.859,Recursive Poisson
+2026-09-30,2026-10-11,11,S002,P019,Detergent 1kg,Household,0.397,Recursive Poisson
+2026-09-30,2026-10-11,11,S002,P020,Dishwash Liquid,Household,0.48,Recursive Poisson
+2026-09-30,2026-10-11,11,S002,P021,Soft Drink 1.5L,Beverages,0.95,Recursive Poisson
+2026-09-30,2026-10-11,11,S002,P022,Bottled Water 1.5L,Beverages,0.454,Recursive Poisson
+2026-09-30,2026-10-11,11,S002,P023,Fruit Juice 1L,Beverages,0.601,Recursive Poisson
+2026-09-30,2026-10-11,11,S002,P024,Yoghurt Cup,Dairy,0.621,Recursive Poisson
+2026-09-30,2026-10-11,11,S002,P025,Cheese Pack,Dairy,0.781,Recursive Poisson
+2026-09-30,2026-10-11,11,S002,P026,Eggs 10 Pack,Fresh Food,0.79,Recursive Poisson
+2026-09-30,2026-10-11,11,S002,P027,Chicken 1kg,Fresh Food,0.654,Recursive Poisson
+2026-09-30,2026-10-11,11,S002,P028,Frozen Fish 1kg,Frozen Food,0.495,Recursive Poisson
+2026-09-30,2026-10-11,11,S002,P029,Onions 1kg,Fresh Food,0.522,Recursive Poisson
+2026-09-30,2026-10-11,11,S002,P030,Potatoes 1kg,Fresh Food,0.565,Recursive Poisson
+2026-09-30,2026-10-11,11,S003,P001,Rice 5kg,Staples,0.551,Recursive Poisson
+2026-09-30,2026-10-11,11,S003,P002,Rice 10kg,Staples,0.801,Recursive Poisson
+2026-09-30,2026-10-11,11,S003,P003,Dhal 1kg,Staples,0.744,Recursive Poisson
+2026-09-30,2026-10-11,11,S003,P004,Sugar 1kg,Staples,0.447,Recursive Poisson
+2026-09-30,2026-10-11,11,S003,P005,Flour 1kg,Staples,0.687,Recursive Poisson
+2026-09-30,2026-10-11,11,S003,P006,Milk Powder 400g,Dairy,0.901,Recursive Poisson
+2026-09-30,2026-10-11,11,S003,P007,Milk Powder 1kg,Dairy,0.442,Recursive Poisson
+2026-09-30,2026-10-11,11,S003,P008,Tea 200g,Beverages,0.986,Recursive Poisson
+2026-09-30,2026-10-11,11,S003,P009,Coffee 100g,Beverages,0.468,Recursive Poisson
+2026-09-30,2026-10-11,11,S003,P010,Biscuits Pack,Snacks,0.453,Recursive Poisson
+2026-09-30,2026-10-11,11,S003,P011,Noodles Pack,Convenience,0.511,Recursive Poisson
+2026-09-30,2026-10-11,11,S003,P012,Canned Fish,Canned Goods,0.612,Recursive Poisson
+2026-09-30,2026-10-11,11,S003,P013,Coconut Milk,Canned Goods,0.387,Recursive Poisson
+2026-09-30,2026-10-11,11,S003,P014,Cooking Oil 1L,Staples,0.651,Recursive Poisson
+2026-09-30,2026-10-11,11,S003,P015,Cooking Oil 5L,Staples,0.737,Recursive Poisson
+2026-09-30,2026-10-11,11,S003,P016,Soap Bar,Personal Care,0.581,Recursive Poisson
+2026-09-30,2026-10-11,11,S003,P017,Shampoo 180ml,Personal Care,0.488,Recursive Poisson
+2026-09-30,2026-10-11,11,S003,P018,Toothpaste 120g,Personal Care,1.075,Recursive Poisson
+2026-09-30,2026-10-11,11,S003,P019,Detergent 1kg,Household,0.432,Recursive Poisson
+2026-09-30,2026-10-11,11,S003,P020,Dishwash Liquid,Household,0.4,Recursive Poisson
+2026-09-30,2026-10-11,11,S003,P021,Soft Drink 1.5L,Beverages,0.887,Recursive Poisson
+2026-09-30,2026-10-11,11,S003,P022,Bottled Water 1.5L,Beverages,0.436,Recursive Poisson
+2026-09-30,2026-10-11,11,S003,P023,Fruit Juice 1L,Beverages,0.634,Recursive Poisson
+2026-09-30,2026-10-11,11,S003,P024,Yoghurt Cup,Dairy,0.798,Recursive Poisson
+2026-09-30,2026-10-11,11,S003,P025,Cheese Pack,Dairy,0.747,Recursive Poisson
+2026-09-30,2026-10-11,11,S003,P026,Eggs 10 Pack,Fresh Food,0.985,Recursive Poisson
+2026-09-30,2026-10-11,11,S003,P027,Chicken 1kg,Fresh Food,0.82,Recursive Poisson
+2026-09-30,2026-10-11,11,S003,P028,Frozen Fish 1kg,Frozen Food,0.453,Recursive Poisson
+2026-09-30,2026-10-11,11,S003,P029,Onions 1kg,Fresh Food,0.525,Recursive Poisson
+2026-09-30,2026-10-11,11,S003,P030,Potatoes 1kg,Fresh Food,0.741,Recursive Poisson
+2026-09-30,2026-10-11,11,S004,P001,Rice 5kg,Staples,0.726,Recursive Poisson
+2026-09-30,2026-10-11,11,S004,P002,Rice 10kg,Staples,1.061,Recursive Poisson
+2026-09-30,2026-10-11,11,S004,P003,Dhal 1kg,Staples,0.546,Recursive Poisson
+2026-09-30,2026-10-11,11,S004,P004,Sugar 1kg,Staples,0.428,Recursive Poisson
+2026-09-30,2026-10-11,11,S004,P005,Flour 1kg,Staples,0.704,Recursive Poisson
+2026-09-30,2026-10-11,11,S004,P006,Milk Powder 400g,Dairy,0.875,Recursive Poisson
+2026-09-30,2026-10-11,11,S004,P007,Milk Powder 1kg,Dairy,0.471,Recursive Poisson
+2026-09-30,2026-10-11,11,S004,P008,Tea 200g,Beverages,0.77,Recursive Poisson
+2026-09-30,2026-10-11,11,S004,P009,Coffee 100g,Beverages,0.448,Recursive Poisson
+2026-09-30,2026-10-11,11,S004,P010,Biscuits Pack,Snacks,0.455,Recursive Poisson
+2026-09-30,2026-10-11,11,S004,P011,Noodles Pack,Convenience,0.479,Recursive Poisson
+2026-09-30,2026-10-11,11,S004,P012,Canned Fish,Canned Goods,0.502,Recursive Poisson
+2026-09-30,2026-10-11,11,S004,P013,Coconut Milk,Canned Goods,0.401,Recursive Poisson
+2026-09-30,2026-10-11,11,S004,P014,Cooking Oil 1L,Staples,0.876,Recursive Poisson
+2026-09-30,2026-10-11,11,S004,P015,Cooking Oil 5L,Staples,0.77,Recursive Poisson
+2026-09-30,2026-10-11,11,S004,P016,Soap Bar,Personal Care,0.546,Recursive Poisson
+2026-09-30,2026-10-11,11,S004,P017,Shampoo 180ml,Personal Care,0.559,Recursive Poisson
+2026-09-30,2026-10-11,11,S004,P018,Toothpaste 120g,Personal Care,1.531,Recursive Poisson
+2026-09-30,2026-10-11,11,S004,P019,Detergent 1kg,Household,0.526,Recursive Poisson
+2026-09-30,2026-10-11,11,S004,P020,Dishwash Liquid,Household,0.439,Recursive Poisson
+2026-09-30,2026-10-11,11,S004,P021,Soft Drink 1.5L,Beverages,0.89,Recursive Poisson
+2026-09-30,2026-10-11,11,S004,P022,Bottled Water 1.5L,Beverages,0.52,Recursive Poisson
+2026-09-30,2026-10-11,11,S004,P023,Fruit Juice 1L,Beverages,0.735,Recursive Poisson
+2026-09-30,2026-10-11,11,S004,P024,Yoghurt Cup,Dairy,0.549,Recursive Poisson
+2026-09-30,2026-10-11,11,S004,P025,Cheese Pack,Dairy,0.512,Recursive Poisson
+2026-09-30,2026-10-11,11,S004,P026,Eggs 10 Pack,Fresh Food,0.72,Recursive Poisson
+2026-09-30,2026-10-11,11,S004,P027,Chicken 1kg,Fresh Food,1.11,Recursive Poisson
+2026-09-30,2026-10-11,11,S004,P028,Frozen Fish 1kg,Frozen Food,0.425,Recursive Poisson
+2026-09-30,2026-10-11,11,S004,P029,Onions 1kg,Fresh Food,0.759,Recursive Poisson
+2026-09-30,2026-10-11,11,S004,P030,Potatoes 1kg,Fresh Food,0.742,Recursive Poisson
+2026-09-30,2026-10-12,12,S001,P001,Rice 5kg,Staples,0.402,Recursive Poisson
+2026-09-30,2026-10-12,12,S001,P002,Rice 10kg,Staples,0.572,Recursive Poisson
+2026-09-30,2026-10-12,12,S001,P003,Dhal 1kg,Staples,0.445,Recursive Poisson
+2026-09-30,2026-10-12,12,S001,P004,Sugar 1kg,Staples,0.359,Recursive Poisson
+2026-09-30,2026-10-12,12,S001,P005,Flour 1kg,Staples,0.537,Recursive Poisson
+2026-09-30,2026-10-12,12,S001,P006,Milk Powder 400g,Dairy,0.675,Recursive Poisson
+2026-09-30,2026-10-12,12,S001,P007,Milk Powder 1kg,Dairy,0.341,Recursive Poisson
+2026-09-30,2026-10-12,12,S001,P008,Tea 200g,Beverages,0.41,Recursive Poisson
+2026-09-30,2026-10-12,12,S001,P009,Coffee 100g,Beverages,0.431,Recursive Poisson
+2026-09-30,2026-10-12,12,S001,P010,Biscuits Pack,Snacks,0.444,Recursive Poisson
+2026-09-30,2026-10-12,12,S001,P011,Noodles Pack,Convenience,0.54,Recursive Poisson
+2026-09-30,2026-10-12,12,S001,P012,Canned Fish,Canned Goods,0.43,Recursive Poisson
+2026-09-30,2026-10-12,12,S001,P013,Coconut Milk,Canned Goods,0.339,Recursive Poisson
+2026-09-30,2026-10-12,12,S001,P014,Cooking Oil 1L,Staples,0.555,Recursive Poisson
+2026-09-30,2026-10-12,12,S001,P015,Cooking Oil 5L,Staples,0.416,Recursive Poisson
+2026-09-30,2026-10-12,12,S001,P016,Soap Bar,Personal Care,0.491,Recursive Poisson
+2026-09-30,2026-10-12,12,S001,P017,Shampoo 180ml,Personal Care,0.457,Recursive Poisson
+2026-09-30,2026-10-12,12,S001,P018,Toothpaste 120g,Personal Care,1.083,Recursive Poisson
+2026-09-30,2026-10-12,12,S001,P019,Detergent 1kg,Household,0.407,Recursive Poisson
+2026-09-30,2026-10-12,12,S001,P020,Dishwash Liquid,Household,0.351,Recursive Poisson
+2026-09-30,2026-10-12,12,S001,P021,Soft Drink 1.5L,Beverages,0.998,Recursive Poisson
+2026-09-30,2026-10-12,12,S001,P022,Bottled Water 1.5L,Beverages,0.397,Recursive Poisson
+2026-09-30,2026-10-12,12,S001,P023,Fruit Juice 1L,Beverages,0.67,Recursive Poisson
+2026-09-30,2026-10-12,12,S001,P024,Yoghurt Cup,Dairy,0.473,Recursive Poisson
+2026-09-30,2026-10-12,12,S001,P025,Cheese Pack,Dairy,0.491,Recursive Poisson
+2026-09-30,2026-10-12,12,S001,P026,Eggs 10 Pack,Fresh Food,0.578,Recursive Poisson
+2026-09-30,2026-10-12,12,S001,P027,Chicken 1kg,Fresh Food,0.877,Recursive Poisson
+2026-09-30,2026-10-12,12,S001,P028,Frozen Fish 1kg,Frozen Food,0.573,Recursive Poisson
+2026-09-30,2026-10-12,12,S001,P029,Onions 1kg,Fresh Food,0.43,Recursive Poisson
+2026-09-30,2026-10-12,12,S001,P030,Potatoes 1kg,Fresh Food,0.477,Recursive Poisson
+2026-09-30,2026-10-12,12,S002,P001,Rice 5kg,Staples,0.428,Recursive Poisson
+2026-09-30,2026-10-12,12,S002,P002,Rice 10kg,Staples,0.777,Recursive Poisson
+2026-09-30,2026-10-12,12,S002,P003,Dhal 1kg,Staples,0.394,Recursive Poisson
+2026-09-30,2026-10-12,12,S002,P004,Sugar 1kg,Staples,0.371,Recursive Poisson
+2026-09-30,2026-10-12,12,S002,P005,Flour 1kg,Staples,0.427,Recursive Poisson
+2026-09-30,2026-10-12,12,S002,P006,Milk Powder 400g,Dairy,0.781,Recursive Poisson
+2026-09-30,2026-10-12,12,S002,P007,Milk Powder 1kg,Dairy,0.344,Recursive Poisson
+2026-09-30,2026-10-12,12,S002,P008,Tea 200g,Beverages,0.536,Recursive Poisson
+2026-09-30,2026-10-12,12,S002,P009,Coffee 100g,Beverages,0.415,Recursive Poisson
+2026-09-30,2026-10-12,12,S002,P010,Biscuits Pack,Snacks,0.382,Recursive Poisson
+2026-09-30,2026-10-12,12,S002,P011,Noodles Pack,Convenience,0.461,Recursive Poisson
+2026-09-30,2026-10-12,12,S002,P012,Canned Fish,Canned Goods,0.427,Recursive Poisson
+2026-09-30,2026-10-12,12,S002,P013,Coconut Milk,Canned Goods,0.333,Recursive Poisson
+2026-09-30,2026-10-12,12,S002,P014,Cooking Oil 1L,Staples,0.832,Recursive Poisson
+2026-09-30,2026-10-12,12,S002,P015,Cooking Oil 5L,Staples,0.601,Recursive Poisson
+2026-09-30,2026-10-12,12,S002,P016,Soap Bar,Personal Care,0.413,Recursive Poisson
+2026-09-30,2026-10-12,12,S002,P017,Shampoo 180ml,Personal Care,0.585,Recursive Poisson
+2026-09-30,2026-10-12,12,S002,P018,Toothpaste 120g,Personal Care,0.738,Recursive Poisson
+2026-09-30,2026-10-12,12,S002,P019,Detergent 1kg,Household,0.337,Recursive Poisson
+2026-09-30,2026-10-12,12,S002,P020,Dishwash Liquid,Household,0.424,Recursive Poisson
+2026-09-30,2026-10-12,12,S002,P021,Soft Drink 1.5L,Beverages,0.816,Recursive Poisson
+2026-09-30,2026-10-12,12,S002,P022,Bottled Water 1.5L,Beverages,0.386,Recursive Poisson
+2026-09-30,2026-10-12,12,S002,P023,Fruit Juice 1L,Beverages,0.5,Recursive Poisson
+2026-09-30,2026-10-12,12,S002,P024,Yoghurt Cup,Dairy,0.53,Recursive Poisson
+2026-09-30,2026-10-12,12,S002,P025,Cheese Pack,Dairy,0.669,Recursive Poisson
+2026-09-30,2026-10-12,12,S002,P026,Eggs 10 Pack,Fresh Food,0.685,Recursive Poisson
+2026-09-30,2026-10-12,12,S002,P027,Chicken 1kg,Fresh Food,0.527,Recursive Poisson
+2026-09-30,2026-10-12,12,S002,P028,Frozen Fish 1kg,Frozen Food,0.422,Recursive Poisson
+2026-09-30,2026-10-12,12,S002,P029,Onions 1kg,Fresh Food,0.444,Recursive Poisson
+2026-09-30,2026-10-12,12,S002,P030,Potatoes 1kg,Fresh Food,0.494,Recursive Poisson
+2026-09-30,2026-10-12,12,S003,P001,Rice 5kg,Staples,0.47,Recursive Poisson
+2026-09-30,2026-10-12,12,S003,P002,Rice 10kg,Staples,0.655,Recursive Poisson
+2026-09-30,2026-10-12,12,S003,P003,Dhal 1kg,Staples,0.496,Recursive Poisson
+2026-09-30,2026-10-12,12,S003,P004,Sugar 1kg,Staples,0.375,Recursive Poisson
+2026-09-30,2026-10-12,12,S003,P005,Flour 1kg,Staples,0.587,Recursive Poisson
+2026-09-30,2026-10-12,12,S003,P006,Milk Powder 400g,Dairy,0.772,Recursive Poisson
+2026-09-30,2026-10-12,12,S003,P007,Milk Powder 1kg,Dairy,0.376,Recursive Poisson
+2026-09-30,2026-10-12,12,S003,P008,Tea 200g,Beverages,0.914,Recursive Poisson
+2026-09-30,2026-10-12,12,S003,P009,Coffee 100g,Beverages,0.398,Recursive Poisson
+2026-09-30,2026-10-12,12,S003,P010,Biscuits Pack,Snacks,0.385,Recursive Poisson
+2026-09-30,2026-10-12,12,S003,P011,Noodles Pack,Convenience,0.435,Recursive Poisson
+2026-09-30,2026-10-12,12,S003,P012,Canned Fish,Canned Goods,0.522,Recursive Poisson
+2026-09-30,2026-10-12,12,S003,P013,Coconut Milk,Canned Goods,0.328,Recursive Poisson
+2026-09-30,2026-10-12,12,S003,P014,Cooking Oil 1L,Staples,0.556,Recursive Poisson
+2026-09-30,2026-10-12,12,S003,P015,Cooking Oil 5L,Staples,0.602,Recursive Poisson
+2026-09-30,2026-10-12,12,S003,P016,Soap Bar,Personal Care,0.495,Recursive Poisson
+2026-09-30,2026-10-12,12,S003,P017,Shampoo 180ml,Personal Care,0.415,Recursive Poisson
+2026-09-30,2026-10-12,12,S003,P018,Toothpaste 120g,Personal Care,0.936,Recursive Poisson
+2026-09-30,2026-10-12,12,S003,P019,Detergent 1kg,Household,0.367,Recursive Poisson
+2026-09-30,2026-10-12,12,S003,P020,Dishwash Liquid,Household,0.34,Recursive Poisson
+2026-09-30,2026-10-12,12,S003,P021,Soft Drink 1.5L,Beverages,0.679,Recursive Poisson
+2026-09-30,2026-10-12,12,S003,P022,Bottled Water 1.5L,Beverages,0.371,Recursive Poisson
+2026-09-30,2026-10-12,12,S003,P023,Fruit Juice 1L,Beverages,0.541,Recursive Poisson
+2026-09-30,2026-10-12,12,S003,P024,Yoghurt Cup,Dairy,0.667,Recursive Poisson
+2026-09-30,2026-10-12,12,S003,P025,Cheese Pack,Dairy,0.639,Recursive Poisson
+2026-09-30,2026-10-12,12,S003,P026,Eggs 10 Pack,Fresh Food,0.811,Recursive Poisson
+2026-09-30,2026-10-12,12,S003,P027,Chicken 1kg,Fresh Food,0.702,Recursive Poisson
+2026-09-30,2026-10-12,12,S003,P028,Frozen Fish 1kg,Frozen Food,0.386,Recursive Poisson
+2026-09-30,2026-10-12,12,S003,P029,Onions 1kg,Fresh Food,0.417,Recursive Poisson
+2026-09-30,2026-10-12,12,S003,P030,Potatoes 1kg,Fresh Food,0.628,Recursive Poisson
+2026-09-30,2026-10-12,12,S004,P001,Rice 5kg,Staples,0.609,Recursive Poisson
+2026-09-30,2026-10-12,12,S004,P002,Rice 10kg,Staples,0.776,Recursive Poisson
+2026-09-30,2026-10-12,12,S004,P003,Dhal 1kg,Staples,0.476,Recursive Poisson
+2026-09-30,2026-10-12,12,S004,P004,Sugar 1kg,Staples,0.363,Recursive Poisson
+2026-09-30,2026-10-12,12,S004,P005,Flour 1kg,Staples,0.616,Recursive Poisson
+2026-09-30,2026-10-12,12,S004,P006,Milk Powder 400g,Dairy,0.706,Recursive Poisson
+2026-09-30,2026-10-12,12,S004,P007,Milk Powder 1kg,Dairy,0.401,Recursive Poisson
+2026-09-30,2026-10-12,12,S004,P008,Tea 200g,Beverages,0.659,Recursive Poisson
+2026-09-30,2026-10-12,12,S004,P009,Coffee 100g,Beverages,0.38,Recursive Poisson
+2026-09-30,2026-10-12,12,S004,P010,Biscuits Pack,Snacks,0.387,Recursive Poisson
+2026-09-30,2026-10-12,12,S004,P011,Noodles Pack,Convenience,0.407,Recursive Poisson
+2026-09-30,2026-10-12,12,S004,P012,Canned Fish,Canned Goods,0.408,Recursive Poisson
+2026-09-30,2026-10-12,12,S004,P013,Coconut Milk,Canned Goods,0.341,Recursive Poisson
+2026-09-30,2026-10-12,12,S004,P014,Cooking Oil 1L,Staples,0.632,Recursive Poisson
+2026-09-30,2026-10-12,12,S004,P015,Cooking Oil 5L,Staples,0.612,Recursive Poisson
+2026-09-30,2026-10-12,12,S004,P016,Soap Bar,Personal Care,0.46,Recursive Poisson
+2026-09-30,2026-10-12,12,S004,P017,Shampoo 180ml,Personal Care,0.476,Recursive Poisson
+2026-09-30,2026-10-12,12,S004,P018,Toothpaste 120g,Personal Care,1.464,Recursive Poisson
+2026-09-30,2026-10-12,12,S004,P019,Detergent 1kg,Household,0.428,Recursive Poisson
+2026-09-30,2026-10-12,12,S004,P020,Dishwash Liquid,Household,0.356,Recursive Poisson
+2026-09-30,2026-10-12,12,S004,P021,Soft Drink 1.5L,Beverages,0.764,Recursive Poisson
+2026-09-30,2026-10-12,12,S004,P022,Bottled Water 1.5L,Beverages,0.448,Recursive Poisson
+2026-09-30,2026-10-12,12,S004,P023,Fruit Juice 1L,Beverages,0.57,Recursive Poisson
+2026-09-30,2026-10-12,12,S004,P024,Yoghurt Cup,Dairy,0.45,Recursive Poisson
+2026-09-30,2026-10-12,12,S004,P025,Cheese Pack,Dairy,0.426,Recursive Poisson
+2026-09-30,2026-10-12,12,S004,P026,Eggs 10 Pack,Fresh Food,0.616,Recursive Poisson
+2026-09-30,2026-10-12,12,S004,P027,Chicken 1kg,Fresh Food,0.895,Recursive Poisson
+2026-09-30,2026-10-12,12,S004,P028,Frozen Fish 1kg,Frozen Food,0.361,Recursive Poisson
+2026-09-30,2026-10-12,12,S004,P029,Onions 1kg,Fresh Food,0.65,Recursive Poisson
+2026-09-30,2026-10-12,12,S004,P030,Potatoes 1kg,Fresh Food,0.571,Recursive Poisson
+2026-09-30,2026-10-13,13,S001,P001,Rice 5kg,Staples,0.413,Recursive Poisson
+2026-09-30,2026-10-13,13,S001,P002,Rice 10kg,Staples,0.589,Recursive Poisson
+2026-09-30,2026-10-13,13,S001,P003,Dhal 1kg,Staples,0.457,Recursive Poisson
+2026-09-30,2026-10-13,13,S001,P004,Sugar 1kg,Staples,0.368,Recursive Poisson
+2026-09-30,2026-10-13,13,S001,P005,Flour 1kg,Staples,0.567,Recursive Poisson
+2026-09-30,2026-10-13,13,S001,P006,Milk Powder 400g,Dairy,0.687,Recursive Poisson
+2026-09-30,2026-10-13,13,S001,P007,Milk Powder 1kg,Dairy,0.35,Recursive Poisson
+2026-09-30,2026-10-13,13,S001,P008,Tea 200g,Beverages,0.42,Recursive Poisson
+2026-09-30,2026-10-13,13,S001,P009,Coffee 100g,Beverages,0.442,Recursive Poisson
+2026-09-30,2026-10-13,13,S001,P010,Biscuits Pack,Snacks,0.456,Recursive Poisson
+2026-09-30,2026-10-13,13,S001,P011,Noodles Pack,Convenience,0.569,Recursive Poisson
+2026-09-30,2026-10-13,13,S001,P012,Canned Fish,Canned Goods,0.442,Recursive Poisson
+2026-09-30,2026-10-13,13,S001,P013,Coconut Milk,Canned Goods,0.348,Recursive Poisson
+2026-09-30,2026-10-13,13,S001,P014,Cooking Oil 1L,Staples,0.558,Recursive Poisson
+2026-09-30,2026-10-13,13,S001,P015,Cooking Oil 5L,Staples,0.427,Recursive Poisson
+2026-09-30,2026-10-13,13,S001,P016,Soap Bar,Personal Care,0.483,Recursive Poisson
+2026-09-30,2026-10-13,13,S001,P017,Shampoo 180ml,Personal Care,0.469,Recursive Poisson
+2026-09-30,2026-10-13,13,S001,P018,Toothpaste 120g,Personal Care,1.063,Recursive Poisson
+2026-09-30,2026-10-13,13,S001,P019,Detergent 1kg,Household,0.413,Recursive Poisson
+2026-09-30,2026-10-13,13,S001,P020,Dishwash Liquid,Household,0.351,Recursive Poisson
+2026-09-30,2026-10-13,13,S001,P021,Soft Drink 1.5L,Beverages,0.925,Recursive Poisson
+2026-09-30,2026-10-13,13,S001,P022,Bottled Water 1.5L,Beverages,0.397,Recursive Poisson
+2026-09-30,2026-10-13,13,S001,P023,Fruit Juice 1L,Beverages,0.617,Recursive Poisson
+2026-09-30,2026-10-13,13,S001,P024,Yoghurt Cup,Dairy,0.457,Recursive Poisson
+2026-09-30,2026-10-13,13,S001,P025,Cheese Pack,Dairy,0.504,Recursive Poisson
+2026-09-30,2026-10-13,13,S001,P026,Eggs 10 Pack,Fresh Food,0.502,Recursive Poisson
+2026-09-30,2026-10-13,13,S001,P027,Chicken 1kg,Fresh Food,0.888,Recursive Poisson
+2026-09-30,2026-10-13,13,S001,P028,Frozen Fish 1kg,Frozen Food,0.613,Recursive Poisson
+2026-09-30,2026-10-13,13,S001,P029,Onions 1kg,Fresh Food,0.441,Recursive Poisson
+2026-09-30,2026-10-13,13,S001,P030,Potatoes 1kg,Fresh Food,0.49,Recursive Poisson
+2026-09-30,2026-10-13,13,S002,P001,Rice 5kg,Staples,0.439,Recursive Poisson
+2026-09-30,2026-10-13,13,S002,P002,Rice 10kg,Staples,0.739,Recursive Poisson
+2026-09-30,2026-10-13,13,S002,P003,Dhal 1kg,Staples,0.404,Recursive Poisson
+2026-09-30,2026-10-13,13,S002,P004,Sugar 1kg,Staples,0.38,Recursive Poisson
+2026-09-30,2026-10-13,13,S002,P005,Flour 1kg,Staples,0.439,Recursive Poisson
+2026-09-30,2026-10-13,13,S002,P006,Milk Powder 400g,Dairy,0.773,Recursive Poisson
+2026-09-30,2026-10-13,13,S002,P007,Milk Powder 1kg,Dairy,0.352,Recursive Poisson
+2026-09-30,2026-10-13,13,S002,P008,Tea 200g,Beverages,0.552,Recursive Poisson
+2026-09-30,2026-10-13,13,S002,P009,Coffee 100g,Beverages,0.425,Recursive Poisson
+2026-09-30,2026-10-13,13,S002,P010,Biscuits Pack,Snacks,0.387,Recursive Poisson
+2026-09-30,2026-10-13,13,S002,P011,Noodles Pack,Convenience,0.473,Recursive Poisson
+2026-09-30,2026-10-13,13,S002,P012,Canned Fish,Canned Goods,0.438,Recursive Poisson
+2026-09-30,2026-10-13,13,S002,P013,Coconut Milk,Canned Goods,0.341,Recursive Poisson
+2026-09-30,2026-10-13,13,S002,P014,Cooking Oil 1L,Staples,0.987,Recursive Poisson
+2026-09-30,2026-10-13,13,S002,P015,Cooking Oil 5L,Staples,0.649,Recursive Poisson
+2026-09-30,2026-10-13,13,S002,P016,Soap Bar,Personal Care,0.424,Recursive Poisson
+2026-09-30,2026-10-13,13,S002,P017,Shampoo 180ml,Personal Care,0.603,Recursive Poisson
+2026-09-30,2026-10-13,13,S002,P018,Toothpaste 120g,Personal Care,0.745,Recursive Poisson
+2026-09-30,2026-10-13,13,S002,P019,Detergent 1kg,Household,0.345,Recursive Poisson
+2026-09-30,2026-10-13,13,S002,P020,Dishwash Liquid,Household,0.414,Recursive Poisson
+2026-09-30,2026-10-13,13,S002,P021,Soft Drink 1.5L,Beverages,0.854,Recursive Poisson
+2026-09-30,2026-10-13,13,S002,P022,Bottled Water 1.5L,Beverages,0.396,Recursive Poisson
+2026-09-30,2026-10-13,13,S002,P023,Fruit Juice 1L,Beverages,0.513,Recursive Poisson
+2026-09-30,2026-10-13,13,S002,P024,Yoghurt Cup,Dairy,0.545,Recursive Poisson
+2026-09-30,2026-10-13,13,S002,P025,Cheese Pack,Dairy,0.631,Recursive Poisson
+2026-09-30,2026-10-13,13,S002,P026,Eggs 10 Pack,Fresh Food,0.698,Recursive Poisson
+2026-09-30,2026-10-13,13,S002,P027,Chicken 1kg,Fresh Food,0.542,Recursive Poisson
+2026-09-30,2026-10-13,13,S002,P028,Frozen Fish 1kg,Frozen Food,0.404,Recursive Poisson
+2026-09-30,2026-10-13,13,S002,P029,Onions 1kg,Fresh Food,0.468,Recursive Poisson
+2026-09-30,2026-10-13,13,S002,P030,Potatoes 1kg,Fresh Food,0.514,Recursive Poisson
+2026-09-30,2026-10-13,13,S003,P001,Rice 5kg,Staples,0.483,Recursive Poisson
+2026-09-30,2026-10-13,13,S003,P002,Rice 10kg,Staples,0.675,Recursive Poisson
+2026-09-30,2026-10-13,13,S003,P003,Dhal 1kg,Staples,0.536,Recursive Poisson
+2026-09-30,2026-10-13,13,S003,P004,Sugar 1kg,Staples,0.385,Recursive Poisson
+2026-09-30,2026-10-13,13,S003,P005,Flour 1kg,Staples,0.604,Recursive Poisson
+2026-09-30,2026-10-13,13,S003,P006,Milk Powder 400g,Dairy,0.798,Recursive Poisson
+2026-09-30,2026-10-13,13,S003,P007,Milk Powder 1kg,Dairy,0.385,Recursive Poisson
+2026-09-30,2026-10-13,13,S003,P008,Tea 200g,Beverages,0.915,Recursive Poisson
+2026-09-30,2026-10-13,13,S003,P009,Coffee 100g,Beverages,0.39,Recursive Poisson
+2026-09-30,2026-10-13,13,S003,P010,Biscuits Pack,Snacks,0.395,Recursive Poisson
+2026-09-30,2026-10-13,13,S003,P011,Noodles Pack,Convenience,0.447,Recursive Poisson
+2026-09-30,2026-10-13,13,S003,P012,Canned Fish,Canned Goods,0.557,Recursive Poisson
+2026-09-30,2026-10-13,13,S003,P013,Coconut Milk,Canned Goods,0.336,Recursive Poisson
+2026-09-30,2026-10-13,13,S003,P014,Cooking Oil 1L,Staples,0.572,Recursive Poisson
+2026-09-30,2026-10-13,13,S003,P015,Cooking Oil 5L,Staples,0.62,Recursive Poisson
+2026-09-30,2026-10-13,13,S003,P016,Soap Bar,Personal Care,0.509,Recursive Poisson
+2026-09-30,2026-10-13,13,S003,P017,Shampoo 180ml,Personal Care,0.426,Recursive Poisson
+2026-09-30,2026-10-13,13,S003,P018,Toothpaste 120g,Personal Care,0.857,Recursive Poisson
+2026-09-30,2026-10-13,13,S003,P019,Detergent 1kg,Household,0.376,Recursive Poisson
+2026-09-30,2026-10-13,13,S003,P020,Dishwash Liquid,Household,0.348,Recursive Poisson
+2026-09-30,2026-10-13,13,S003,P021,Soft Drink 1.5L,Beverages,0.7,Recursive Poisson
+2026-09-30,2026-10-13,13,S003,P022,Bottled Water 1.5L,Beverages,0.38,Recursive Poisson
+2026-09-30,2026-10-13,13,S003,P023,Fruit Juice 1L,Beverages,0.557,Recursive Poisson
+2026-09-30,2026-10-13,13,S003,P024,Yoghurt Cup,Dairy,0.732,Recursive Poisson
+2026-09-30,2026-10-13,13,S003,P025,Cheese Pack,Dairy,0.659,Recursive Poisson
+2026-09-30,2026-10-13,13,S003,P026,Eggs 10 Pack,Fresh Food,0.799,Recursive Poisson
+2026-09-30,2026-10-13,13,S003,P027,Chicken 1kg,Fresh Food,0.723,Recursive Poisson
+2026-09-30,2026-10-13,13,S003,P028,Frozen Fish 1kg,Frozen Food,0.395,Recursive Poisson
+2026-09-30,2026-10-13,13,S003,P029,Onions 1kg,Fresh Food,0.419,Recursive Poisson
+2026-09-30,2026-10-13,13,S003,P030,Potatoes 1kg,Fresh Food,0.624,Recursive Poisson
+2026-09-30,2026-10-13,13,S004,P001,Rice 5kg,Staples,0.597,Recursive Poisson
+2026-09-30,2026-10-13,13,S004,P002,Rice 10kg,Staples,0.732,Recursive Poisson
+2026-09-30,2026-10-13,13,S004,P003,Dhal 1kg,Staples,0.446,Recursive Poisson
+2026-09-30,2026-10-13,13,S004,P004,Sugar 1kg,Staples,0.372,Recursive Poisson
+2026-09-30,2026-10-13,13,S004,P005,Flour 1kg,Staples,0.667,Recursive Poisson
+2026-09-30,2026-10-13,13,S004,P006,Milk Powder 400g,Dairy,0.728,Recursive Poisson
+2026-09-30,2026-10-13,13,S004,P007,Milk Powder 1kg,Dairy,0.411,Recursive Poisson
+2026-09-30,2026-10-13,13,S004,P008,Tea 200g,Beverages,0.68,Recursive Poisson
+2026-09-30,2026-10-13,13,S004,P009,Coffee 100g,Beverages,0.39,Recursive Poisson
+2026-09-30,2026-10-13,13,S004,P010,Biscuits Pack,Snacks,0.354,Recursive Poisson
+2026-09-30,2026-10-13,13,S004,P011,Noodles Pack,Convenience,0.418,Recursive Poisson
+2026-09-30,2026-10-13,13,S004,P012,Canned Fish,Canned Goods,0.418,Recursive Poisson
+2026-09-30,2026-10-13,13,S004,P013,Coconut Milk,Canned Goods,0.349,Recursive Poisson
+2026-09-30,2026-10-13,13,S004,P014,Cooking Oil 1L,Staples,0.651,Recursive Poisson
+2026-09-30,2026-10-13,13,S004,P015,Cooking Oil 5L,Staples,0.588,Recursive Poisson
+2026-09-30,2026-10-13,13,S004,P016,Soap Bar,Personal Care,0.462,Recursive Poisson
+2026-09-30,2026-10-13,13,S004,P017,Shampoo 180ml,Personal Care,0.463,Recursive Poisson
+2026-09-30,2026-10-13,13,S004,P018,Toothpaste 120g,Personal Care,1.39,Recursive Poisson
+2026-09-30,2026-10-13,13,S004,P019,Detergent 1kg,Household,0.439,Recursive Poisson
+2026-09-30,2026-10-13,13,S004,P020,Dishwash Liquid,Household,0.365,Recursive Poisson
+2026-09-30,2026-10-13,13,S004,P021,Soft Drink 1.5L,Beverages,0.79,Recursive Poisson
+2026-09-30,2026-10-13,13,S004,P022,Bottled Water 1.5L,Beverages,0.454,Recursive Poisson
+2026-09-30,2026-10-13,13,S004,P023,Fruit Juice 1L,Beverages,0.561,Recursive Poisson
+2026-09-30,2026-10-13,13,S004,P024,Yoghurt Cup,Dairy,0.463,Recursive Poisson
+2026-09-30,2026-10-13,13,S004,P025,Cheese Pack,Dairy,0.437,Recursive Poisson
+2026-09-30,2026-10-13,13,S004,P026,Eggs 10 Pack,Fresh Food,0.635,Recursive Poisson
+2026-09-30,2026-10-13,13,S004,P027,Chicken 1kg,Fresh Food,0.927,Recursive Poisson
+2026-09-30,2026-10-13,13,S004,P028,Frozen Fish 1kg,Frozen Food,0.371,Recursive Poisson
+2026-09-30,2026-10-13,13,S004,P029,Onions 1kg,Fresh Food,0.697,Recursive Poisson
+2026-09-30,2026-10-13,13,S004,P030,Potatoes 1kg,Fresh Food,0.588,Recursive Poisson
+2026-09-30,2026-10-14,14,S001,P001,Rice 5kg,Staples,0.424,Recursive Poisson
+2026-09-30,2026-10-14,14,S001,P002,Rice 10kg,Staples,0.567,Recursive Poisson
+2026-09-30,2026-10-14,14,S001,P003,Dhal 1kg,Staples,0.469,Recursive Poisson
+2026-09-30,2026-10-14,14,S001,P004,Sugar 1kg,Staples,0.377,Recursive Poisson
+2026-09-30,2026-10-14,14,S001,P005,Flour 1kg,Staples,0.532,Recursive Poisson
+2026-09-30,2026-10-14,14,S001,P006,Milk Powder 400g,Dairy,0.654,Recursive Poisson
+2026-09-30,2026-10-14,14,S001,P007,Milk Powder 1kg,Dairy,0.359,Recursive Poisson
+2026-09-30,2026-10-14,14,S001,P008,Tea 200g,Beverages,0.431,Recursive Poisson
+2026-09-30,2026-10-14,14,S001,P009,Coffee 100g,Beverages,0.424,Recursive Poisson
+2026-09-30,2026-10-14,14,S001,P010,Biscuits Pack,Snacks,0.469,Recursive Poisson
+2026-09-30,2026-10-14,14,S001,P011,Noodles Pack,Convenience,0.522,Recursive Poisson
+2026-09-30,2026-10-14,14,S001,P012,Canned Fish,Canned Goods,0.454,Recursive Poisson
+2026-09-30,2026-10-14,14,S001,P013,Coconut Milk,Canned Goods,0.356,Recursive Poisson
+2026-09-30,2026-10-14,14,S001,P014,Cooking Oil 1L,Staples,0.549,Recursive Poisson
+2026-09-30,2026-10-14,14,S001,P015,Cooking Oil 5L,Staples,0.438,Recursive Poisson
+2026-09-30,2026-10-14,14,S001,P016,Soap Bar,Personal Care,0.496,Recursive Poisson
+2026-09-30,2026-10-14,14,S001,P017,Shampoo 180ml,Personal Care,0.494,Recursive Poisson
+2026-09-30,2026-10-14,14,S001,P018,Toothpaste 120g,Personal Care,1.106,Recursive Poisson
+2026-09-30,2026-10-14,14,S001,P019,Detergent 1kg,Household,0.423,Recursive Poisson
+2026-09-30,2026-10-14,14,S001,P020,Dishwash Liquid,Household,0.36,Recursive Poisson
+2026-09-30,2026-10-14,14,S001,P021,Soft Drink 1.5L,Beverages,0.961,Recursive Poisson
+2026-09-30,2026-10-14,14,S001,P022,Bottled Water 1.5L,Beverages,0.407,Recursive Poisson
+2026-09-30,2026-10-14,14,S001,P023,Fruit Juice 1L,Beverages,0.668,Recursive Poisson
+2026-09-30,2026-10-14,14,S001,P024,Yoghurt Cup,Dairy,0.475,Recursive Poisson
+2026-09-30,2026-10-14,14,S001,P025,Cheese Pack,Dairy,0.519,Recursive Poisson
+2026-09-30,2026-10-14,14,S001,P026,Eggs 10 Pack,Fresh Food,0.516,Recursive Poisson
+2026-09-30,2026-10-14,14,S001,P027,Chicken 1kg,Fresh Food,1.002,Recursive Poisson
+2026-09-30,2026-10-14,14,S001,P028,Frozen Fish 1kg,Frozen Food,0.596,Recursive Poisson
+2026-09-30,2026-10-14,14,S001,P029,Onions 1kg,Fresh Food,0.453,Recursive Poisson
+2026-09-30,2026-10-14,14,S001,P030,Potatoes 1kg,Fresh Food,0.504,Recursive Poisson
+2026-09-30,2026-10-14,14,S002,P001,Rice 5kg,Staples,0.441,Recursive Poisson
+2026-09-30,2026-10-14,14,S002,P002,Rice 10kg,Staples,0.754,Recursive Poisson
+2026-09-30,2026-10-14,14,S002,P003,Dhal 1kg,Staples,0.415,Recursive Poisson
+2026-09-30,2026-10-14,14,S002,P004,Sugar 1kg,Staples,0.39,Recursive Poisson
+2026-09-30,2026-10-14,14,S002,P005,Flour 1kg,Staples,0.44,Recursive Poisson
+2026-09-30,2026-10-14,14,S002,P006,Milk Powder 400g,Dairy,0.765,Recursive Poisson
+2026-09-30,2026-10-14,14,S002,P007,Milk Powder 1kg,Dairy,0.361,Recursive Poisson
+2026-09-30,2026-10-14,14,S002,P008,Tea 200g,Beverages,0.568,Recursive Poisson
+2026-09-30,2026-10-14,14,S002,P009,Coffee 100g,Beverages,0.39,Recursive Poisson
+2026-09-30,2026-10-14,14,S002,P010,Biscuits Pack,Snacks,0.397,Recursive Poisson
+2026-09-30,2026-10-14,14,S002,P011,Noodles Pack,Convenience,0.486,Recursive Poisson
+2026-09-30,2026-10-14,14,S002,P012,Canned Fish,Canned Goods,0.45,Recursive Poisson
+2026-09-30,2026-10-14,14,S002,P013,Coconut Milk,Canned Goods,0.35,Recursive Poisson
+2026-09-30,2026-10-14,14,S002,P014,Cooking Oil 1L,Staples,0.898,Recursive Poisson
+2026-09-30,2026-10-14,14,S002,P015,Cooking Oil 5L,Staples,0.637,Recursive Poisson
+2026-09-30,2026-10-14,14,S002,P016,Soap Bar,Personal Care,0.426,Recursive Poisson
+2026-09-30,2026-10-14,14,S002,P017,Shampoo 180ml,Personal Care,0.622,Recursive Poisson
+2026-09-30,2026-10-14,14,S002,P018,Toothpaste 120g,Personal Care,0.789,Recursive Poisson
+2026-09-30,2026-10-14,14,S002,P019,Detergent 1kg,Household,0.353,Recursive Poisson
+2026-09-30,2026-10-14,14,S002,P020,Dishwash Liquid,Household,0.425,Recursive Poisson
+2026-09-30,2026-10-14,14,S002,P021,Soft Drink 1.5L,Beverages,0.876,Recursive Poisson
+2026-09-30,2026-10-14,14,S002,P022,Bottled Water 1.5L,Beverages,0.406,Recursive Poisson
+2026-09-30,2026-10-14,14,S002,P023,Fruit Juice 1L,Beverages,0.528,Recursive Poisson
+2026-09-30,2026-10-14,14,S002,P024,Yoghurt Cup,Dairy,0.501,Recursive Poisson
+2026-09-30,2026-10-14,14,S002,P025,Cheese Pack,Dairy,0.608,Recursive Poisson
+2026-09-30,2026-10-14,14,S002,P026,Eggs 10 Pack,Fresh Food,0.733,Recursive Poisson
+2026-09-30,2026-10-14,14,S002,P027,Chicken 1kg,Fresh Food,0.558,Recursive Poisson
+2026-09-30,2026-10-14,14,S002,P028,Frozen Fish 1kg,Frozen Food,0.415,Recursive Poisson
+2026-09-30,2026-10-14,14,S002,P029,Onions 1kg,Fresh Food,0.458,Recursive Poisson
+2026-09-30,2026-10-14,14,S002,P030,Potatoes 1kg,Fresh Food,0.51,Recursive Poisson
+2026-09-30,2026-10-14,14,S003,P001,Rice 5kg,Staples,0.496,Recursive Poisson
+2026-09-30,2026-10-14,14,S003,P002,Rice 10kg,Staples,0.714,Recursive Poisson
+2026-09-30,2026-10-14,14,S003,P003,Dhal 1kg,Staples,0.524,Recursive Poisson
+2026-09-30,2026-10-14,14,S003,P004,Sugar 1kg,Staples,0.394,Recursive Poisson
+2026-09-30,2026-10-14,14,S003,P005,Flour 1kg,Staples,0.597,Recursive Poisson
+2026-09-30,2026-10-14,14,S003,P006,Milk Powder 400g,Dairy,0.825,Recursive Poisson
+2026-09-30,2026-10-14,14,S003,P007,Milk Powder 1kg,Dairy,0.395,Recursive Poisson
+2026-09-30,2026-10-14,14,S003,P008,Tea 200g,Beverages,0.916,Recursive Poisson
+2026-09-30,2026-10-14,14,S003,P009,Coffee 100g,Beverages,0.4,Recursive Poisson
+2026-09-30,2026-10-14,14,S003,P010,Biscuits Pack,Snacks,0.405,Recursive Poisson
+2026-09-30,2026-10-14,14,S003,P011,Noodles Pack,Convenience,0.449,Recursive Poisson
+2026-09-30,2026-10-14,14,S003,P012,Canned Fish,Canned Goods,0.505,Recursive Poisson
+2026-09-30,2026-10-14,14,S003,P013,Coconut Milk,Canned Goods,0.345,Recursive Poisson
+2026-09-30,2026-10-14,14,S003,P014,Cooking Oil 1L,Staples,0.589,Recursive Poisson
+2026-09-30,2026-10-14,14,S003,P015,Cooking Oil 5L,Staples,0.68,Recursive Poisson
+2026-09-30,2026-10-14,14,S003,P016,Soap Bar,Personal Care,0.524,Recursive Poisson
+2026-09-30,2026-10-14,14,S003,P017,Shampoo 180ml,Personal Care,0.438,Recursive Poisson
+2026-09-30,2026-10-14,14,S003,P018,Toothpaste 120g,Personal Care,0.821,Recursive Poisson
+2026-09-30,2026-10-14,14,S003,P019,Detergent 1kg,Household,0.386,Recursive Poisson
+2026-09-30,2026-10-14,14,S003,P020,Dishwash Liquid,Household,0.357,Recursive Poisson
+2026-09-30,2026-10-14,14,S003,P021,Soft Drink 1.5L,Beverages,0.722,Recursive Poisson
+2026-09-30,2026-10-14,14,S003,P022,Bottled Water 1.5L,Beverages,0.39,Recursive Poisson
+2026-09-30,2026-10-14,14,S003,P023,Fruit Juice 1L,Beverages,0.603,Recursive Poisson
+2026-09-30,2026-10-14,14,S003,P024,Yoghurt Cup,Dairy,0.712,Recursive Poisson
+2026-09-30,2026-10-14,14,S003,P025,Cheese Pack,Dairy,0.679,Recursive Poisson
+2026-09-30,2026-10-14,14,S003,P026,Eggs 10 Pack,Fresh Food,0.858,Recursive Poisson
+2026-09-30,2026-10-14,14,S003,P027,Chicken 1kg,Fresh Food,0.73,Recursive Poisson
+2026-09-30,2026-10-14,14,S003,P028,Frozen Fish 1kg,Frozen Food,0.411,Recursive Poisson
+2026-09-30,2026-10-14,14,S003,P029,Onions 1kg,Fresh Food,0.43,Recursive Poisson
+2026-09-30,2026-10-14,14,S003,P030,Potatoes 1kg,Fresh Food,0.643,Recursive Poisson
+2026-09-30,2026-10-14,14,S004,P001,Rice 5kg,Staples,0.615,Recursive Poisson
+2026-09-30,2026-10-14,14,S004,P002,Rice 10kg,Staples,0.783,Recursive Poisson
+2026-09-30,2026-10-14,14,S004,P003,Dhal 1kg,Staples,0.458,Recursive Poisson
+2026-09-30,2026-10-14,14,S004,P004,Sugar 1kg,Staples,0.382,Recursive Poisson
+2026-09-30,2026-10-14,14,S004,P005,Flour 1kg,Staples,0.639,Recursive Poisson
+2026-09-30,2026-10-14,14,S004,P006,Milk Powder 400g,Dairy,0.781,Recursive Poisson
+2026-09-30,2026-10-14,14,S004,P007,Milk Powder 1kg,Dairy,0.428,Recursive Poisson
+2026-09-30,2026-10-14,14,S004,P008,Tea 200g,Beverages,0.824,Recursive Poisson
+2026-09-30,2026-10-14,14,S004,P009,Coffee 100g,Beverages,0.4,Recursive Poisson
+2026-09-30,2026-10-14,14,S004,P010,Biscuits Pack,Snacks,0.363,Recursive Poisson
+2026-09-30,2026-10-14,14,S004,P011,Noodles Pack,Convenience,0.44,Recursive Poisson
+2026-09-30,2026-10-14,14,S004,P012,Canned Fish,Canned Goods,0.429,Recursive Poisson
+2026-09-30,2026-10-14,14,S004,P013,Coconut Milk,Canned Goods,0.358,Recursive Poisson
+2026-09-30,2026-10-14,14,S004,P014,Cooking Oil 1L,Staples,0.671,Recursive Poisson
+2026-09-30,2026-10-14,14,S004,P015,Cooking Oil 5L,Staples,0.598,Recursive Poisson
+2026-09-30,2026-10-14,14,S004,P016,Soap Bar,Personal Care,0.474,Recursive Poisson
+2026-09-30,2026-10-14,14,S004,P017,Shampoo 180ml,Personal Care,0.459,Recursive Poisson
+2026-09-30,2026-10-14,14,S004,P018,Toothpaste 120g,Personal Care,1.494,Recursive Poisson
+2026-09-30,2026-10-14,14,S004,P019,Detergent 1kg,Household,0.451,Recursive Poisson
+2026-09-30,2026-10-14,14,S004,P020,Dishwash Liquid,Household,0.374,Recursive Poisson
+2026-09-30,2026-10-14,14,S004,P021,Soft Drink 1.5L,Beverages,0.811,Recursive Poisson
+2026-09-30,2026-10-14,14,S004,P022,Bottled Water 1.5L,Beverages,0.466,Recursive Poisson
+2026-09-30,2026-10-14,14,S004,P023,Fruit Juice 1L,Beverages,0.606,Recursive Poisson
+2026-09-30,2026-10-14,14,S004,P024,Yoghurt Cup,Dairy,0.475,Recursive Poisson
+2026-09-30,2026-10-14,14,S004,P025,Cheese Pack,Dairy,0.449,Recursive Poisson
+2026-09-30,2026-10-14,14,S004,P026,Eggs 10 Pack,Fresh Food,0.655,Recursive Poisson
+2026-09-30,2026-10-14,14,S004,P027,Chicken 1kg,Fresh Food,0.96,Recursive Poisson
+2026-09-30,2026-10-14,14,S004,P028,Frozen Fish 1kg,Frozen Food,0.38,Recursive Poisson
+2026-09-30,2026-10-14,14,S004,P029,Onions 1kg,Fresh Food,0.634,Recursive Poisson
+2026-09-30,2026-10-14,14,S004,P030,Potatoes 1kg,Fresh Food,0.601,Recursive Poisson
