@@ -1,244 +1,124 @@
-\# Business Insights
+# Business Insights — Retail Sales & Inventory Intelligence Platform
 
+> **Data scope:** All figures are from a **synthetic Sri Lankan retail dataset**, not a real retailer. Sales cover **1 January 2025–30 September 2026**. Forecast and inventory-planning examples use the **30 September 2026** snapshot and are **not live operational advice**.
 
+## Executive summary
 
-This document summarizes the main findings from the Retail Sales \& Inventory Intelligence Platform.
+The project analyzes 19,329 transactions covering 46,418 units sold across 30 products, 4 stores, and 500 customers. It combines SQL business analysis, customer segmentation, historical demand forecasting, inventory-risk estimates, and explainable replenishment scenarios.
 
+| KPI | Synthetic dataset result |
+|---|---:|
+| Transactions | 19,329 |
+| Units sold | 46,418 |
+| Revenue | LKR 82,745,560.53 |
+| Profit | LKR 16,615,114.78 |
+| Profit margin | 20.08% |
 
+## Revenue and profit drivers
 
-> Note: This project uses synthetically generated retail data. The insights below demonstrate the analytical workflow and business interpretation of the dataset.
+### Highest-revenue products
 
-
-
-\## 1. Overall Business Performance
-
-
-
-The dataset contains \*\*19,329 transactions\*\* and \*\*46,418 units sold\*\*.
-
-
-
-\- Total Revenue: \*\*LKR 82,745,560.53\*\*
-
-\- Total Profit: \*\*LKR 16,615,114.78\*\*
-
-\- Overall Profit Margin: \*\*20.08%\*\*
-
-
-
-The business generated a positive overall margin across the analysis period.
-
-
-
-\---
-
-
-
-\## 2. Top Performing Products
-
-
-
-The five highest-revenue products were:
-
-
-
-| Product | Category | Units Sold | Revenue (LKR) | Profit (LKR) |
-
-|---|---|---:|---:|---:|
-
-| Cooking Oil 1L | Staples | 3,624 | 9,122,541.26 | 1,604,082.14 |
-
-| Milk Powder 400g | Dairy | 2,972 | 8,573,776.32 | 1,317,668.04 |
-
-| Soft Drink 1.5L | Beverages | 3,697 | 8,415,154.59 | 1,319,095.76 |
-
-| Canned Fish | Canned Goods | 1,538 | 4,802,618.61 | 1,227,937.49 |
-
-| Cheese Pack | Dairy | 1,707 | 4,406,055.94 | 1,046,475.14 |
-
-
-
-\*\*Cooking Oil 1L\*\* generated the highest revenue among all products.
-
-
-
-Milk Powder 400g and Soft Drink 1.5L were also major contributors to overall sales.
-
-
-
-\---
-
-
-
-\## 3. Store Performance
-
-
-
-| Store | Region | Revenue (LKR) | Profit (LKR) |
-
-|---|---|---:|---:|
-
-| Galle Town | Southern | 21,202,331.63 | 4,263,889.37 |
-
-| Kandy City | Central | 20,888,996.76 | 4,181,029.53 |
-
-| Jaffna North | Northern | 20,342,799.04 | 4,102,773.58 |
-
-| Colombo Central | Western | 20,311,433.10 | 4,067,422.30 |
-
-
-
-\*\*Galle Town\*\* generated the highest revenue and profit.
-
-
-
-However, revenue is relatively balanced across all four stores, which suggests that no single branch dominates total company sales.
-
-
-
-\---
-
-
-
-\## 4. Promotion Performance
-
-
-
-Transactions without promotions generated:
-
-
-
-\- Revenue: \*\*LKR 71,583,672.88\*\*
-
-\- Profit: \*\*LKR 15,088,810.94\*\*
-
-\- Profit Margin: \*\*21.08%\*\*
-
-
-
-Promotional transactions generated:
-
-
-
-\- Revenue: \*\*LKR 11,161,887.65\*\*
-
-\- Profit: \*\*LKR 1,526,303.84\*\*
-
-\- Profit Margin: \*\*13.67%\*\*
-
-
-
-Within this synthetic dataset, promotional transactions had a lower profit margin than non-promotional transactions.
-
-
-
-This does not automatically mean promotions are ineffective. Promotions may still support other goals such as increasing demand, attracting customers, or clearing inventory. Their impact should therefore be evaluated together with sales volume and customer behaviour.
-
-
-
-\---
-
-
-
-\## 5. Inventory Status
-
-
-
-Across the 120 product-store inventory records:
-
-
-
-\- \*\*85\*\* were at healthy stock levels.
-
-\- \*\*32\*\* required reordering.
-
-\- \*\*3\*\* were classified as low stock.
-
-
-
-The \*\*32 reorder alerts\*\* show where inventory replenishment should receive immediate attention.
-
-
-
-This information can later be combined with demand forecasting to improve reorder recommendations.
-
-
-
-\---
-
-
-
-\## 6. Highest-Revenue Categories
-
-
-
-| Category | Revenue (LKR) | Profit (LKR) |
-
+| Product | Revenue (LKR) | Profit (LKR) |
 |---|---:|---:|
+| Cooking Oil 1L | 9,122,541.26 | 1,604,082.14 |
+| Milk Powder 400g | 8,573,776.32 | 1,317,668.04 |
+| Soft Drink 1.5L | 8,415,154.59 | 1,319,095.76 |
+| Canned Fish | 4,802,618.61 | 1,227,937.49 |
+| Cheese Pack | 4,406,055.94 | 1,046,475.14 |
 
-| Staples | 23,032,272.72 | 4,855,853.09 |
+**Interpretation:** The leading products deserve close sales and availability monitoring in this synthetic example. High revenue alone does not establish optimal margins, demand stability, or priority for capital allocation.
 
-| Beverages | 17,535,300.10 | 3,249,977.84 |
+### Store performance
 
-| Dairy | 16,943,518.92 | 3,228,863.54 |
+| Store | Revenue (LKR) | Profit (LKR) |
+|---|---:|---:|
+| Galle Town | 21,202,331.63 | 4,263,889.37 |
+| Kandy City | 20,888,996.76 | 4,181,029.53 |
+| Jaffna North | 20,342,799.04 | 4,102,773.58 |
+| Colombo Central | 20,311,433.10 | 4,067,422.30 |
 
-| Fresh Food | 8,962,875.95 | 1,681,658.97 |
+The four stores have relatively similar sales totals. Galle Town ranks first in this particular generated dataset.
 
-| Canned Goods | 5,468,533.18 | 1,385,460.54 |
+### Promotion comparison
 
+| Sale type | Revenue (LKR) | Profit margin |
+|---|---:|---:|
+| Promotion | 11,161,887.65 | 13.67% |
+| No promotion | 71,583,672.88 | 21.08% |
 
+The synthetic promotion group has a lower margin. This is **descriptive association**, not proof that promotions cause lower profitability or are ineffective; a causal analysis would need additional controls and business objectives.
 
-\*\*Staples\*\* was the highest-revenue category.
+## Customer intelligence
 
+RFM features and K-Means produce three **descriptive** customer segments (best silhouette score among tested `k=2` to `k=6`: **0.3674**):
 
+| Segment | Customers | Illustrative next action |
+|---|---:|---|
+| High Value | 231 | Consider loyalty recognition and retention |
+| Loyal | 190 | Explore cross-selling and targeted offers |
+| At Risk | 79 | Review re-engagement opportunities |
 
-Beverages and Dairy were the next largest contributors, making these categories particularly important for sales and inventory monitoring.
+These are exploratory labels applied to synthetic customers, not measured campaign outcomes. See [Customer Segmentation](customer_segmentation.md).
 
+## Forecasting: why baselines matter
 
+On the **90-day chronological one-step evaluation** (10,800 store-product-day observations):
 
-\---
+| Model | MAE ↓ | RMSE ↓ |
+|---|---:|---:|
+| Rolling 7-day average | **0.8619** | 1.4525 |
+| Poisson regression | 0.8829 | **1.3756** |
+| Random Forest | 0.9197 | 1.3962 |
 
+The simple Rolling-7 baseline has the lowest MAE; Poisson has the lowest RMSE. Random Forest does not automatically improve on them. These metrics **must not** be mixed with the separate recursive 7/14-day backtest results. See [Model Evaluation](model_evaluation.md).
 
+## Forecast-based inventory decisions
 
-\## 7. Business Recommendations
+The platform combines saved recursive Poisson forecasts with the matching **30 September 2026** stock snapshot. Assuming no incoming deliveries:
 
+| Inventory-risk metric | 7 days | 14 days |
+|---|---:|---:|
+| Expected demand | 496.34 units | 982.85 units |
+| Store-products with projected demand gaps | 1 | 3 |
+| Sum of individually rounded projected gaps | 1 unit | 15 units |
+| Reorder-level risk, excluding demand gaps | 32 | 31 |
 
+In the 14-day scenario, three store-product combinations have positive forecast coverage gaps:
 
-Based on the current analysis:
+| Store | Product | Stock | Expected 14-day demand | Rounded potential gap |
+|---|---|---:|---:|---:|
+| Galle Town | Rice 10kg | 7 | 10.495 | 4 |
+| Kandy City | Milk Powder 400g | 5 | 11.266 | 7 |
+| Jaffna North | Toothpaste 120g | 19 | 22.932 | 4 |
 
+These represent **forecast-based risks**, not confirmed stockouts.
 
+### Replenishment-planning scenario
 
-1\. Closely monitor high-revenue products such as Cooking Oil 1L, Milk Powder 400g, and Soft Drink 1.5L.
+An **illustrative 14-day policy** uses `ceil(expected_demand + reorder_level)` as its planning target, with suggested scenario units equal to `max(0, target - stock_on_hand)`. It generates:
 
-2\. Prioritize replenishment for products currently below their reorder levels.
+| Planning action | Store-product records |
+|---|---:|
+| Urgent Review | 3 |
+| Plan Replenishment | 31 |
+| Monitor | 86 |
+| Manual Review | 0 |
+| **Total** | **120** |
 
-3\. Monitor Staples, Beverages, and Dairy carefully because they contribute strongly to revenue.
+The policy produces **925 total scenario units**. This is **not the same as** the **15 units of rounded forecast demand gaps**: the scenario quantity includes the additional reorder-level buffer. These are hypothetical quantities rather than purchase orders or proven savings.
 
-4\. Review promotional strategies because promotional transactions currently show a lower profit margin.
+## What a retailer could investigate next
 
-5\. Combine historical sales and inventory data with demand forecasting to create better future reorder recommendations.
+1. Review products with projected demand gaps before making any replenishment decision.
+2. Validate reorder levels and lead times with real supplier and stock records.
+3. Compare demand forecasts against actual subsequent sales, and monitor forecast drift.
+4. Evaluate promotions using profit, sales volume, customer response, and relevant controls.
+5. Test retention strategies on genuine customer data before claiming an impact.
 
+## Limitations and provenance
 
-
-\---
-
-
-
-\## Next Analysis
-
-
-
-The next stages of the project will add:
-
-
-
-\- demand forecasting,
-
-\- customer RFM segmentation,
-
-\- automated reorder recommendations,
-
-\- Power BI dashboards,
-
-\- Streamlit analytics application.
-
+- **Synthetic data:** Insights illustrate methodology and should not be generalized to real Sri Lankan retailers.
+- **Archived forecasts:** 1–14 October 2026 projections were produced as of 30 September 2026; the dashboard is not connected to a live feed.
+- **No inventory simulation of deliveries:** Lead times, incoming shipments, purchasing costs, supplier minimums, demand uncertainty, and service-level targets are not modeled.
+- **No causal or financial impact claim:** Neither sales uplift nor reductions in stockouts or purchasing expense have been experimentally demonstrated.
+- **Methods and code:** See [`../models/`](../models/), [`../database/sql/`](../database/sql/), and the [root README](../README.md).
